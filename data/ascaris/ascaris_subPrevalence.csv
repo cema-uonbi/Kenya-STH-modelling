@@ -1,0 +1,167 @@
+county,subcounty,n,N,prev
+Baringo,Baringo Central,0,450,0
+Baringo,Baringo North,0,375,0
+Baringo,Baringo South,1,480,0.00208333333333333
+Baringo,Eldama Ravine,3,445,0.00674157303370787
+Baringo,Mogotio,0,450,0
+Bomet,Bomet Central,61,480,0.127083333333333
+Bomet,Bomet East,16,472,0.0338983050847458
+Bomet,Chepalungu,5,485,0.0103092783505155
+Bomet,Konoin,37,470,0.0787234042553192
+Bomet,Sotik,32,490,0.0653061224489796
+Elgeyo/Marakwet,Keiyo North,1,416,0.00240384615384615
+Elgeyo/Marakwet,Keiyo South,3,451,0.00665188470066519
+Elgeyo/Marakwet,Marakwet East,0,479,0
+Elgeyo/Marakwet,Marakwet West,0,450,0
+Embu,Manyatta,11,473,0.0232558139534884
+Embu,Mbeere North,1,480,0.00208333333333333
+Embu,Mbeere South,0,440,0
+Embu,Runyenjes,0,443,0
+Isiolo,Isiolo North,3,465,0.00645161290322581
+Isiolo,Isiolo South,0,464,0
+Kajiado,Kajiado Central,2,480,0.00416666666666667
+Kajiado,Kajiado East,0,478,0
+Kajiado,Kajiado North,0,348,0
+Kajiado,Kajiado South,1,480,0.00208333333333333
+Kajiado,Kajiado West,0,489,0
+Kericho,Ainamoi,12,389,0.0308483290488432
+Kericho,Belgut,12,428,0.0280373831775701
+Kericho,Bureti,46,450,0.102222222222222
+Kericho,Kipkelion East,4,453,0.00883002207505519
+Kericho,Kipkelion West,12,451,0.0266075388026608
+Kericho,Sigowet/Soin,4,420,0.00952380952380953
+Kiambu,Gatundu North,5,480,0.0104166666666667
+Kiambu,Gatundu South,1,452,0.00221238938053097
+Kiambu,Githunguri,0,481,0
+Kiambu,Juja,1,488,0.00204918032786885
+Kiambu,Kabete,1,426,0.00234741784037559
+Kiambu,Kiambaa,1,480,0.00208333333333333
+Kiambu,Kiambu,1,444,0.00225225225225225
+Kiambu,Kikuyu,1,484,0.00206611570247934
+Kiambu,Lari,4,483,0.0082815734989648
+Kiambu,Limuru,0,472,0
+Kiambu,Ruiru,0,482,0
+Kiambu,Thika Town,1,486,0.00205761316872428
+Kirinyaga,Gichugu,1,480,0.00208333333333333
+Kirinyaga,Kirinyaga Central,2,482,0.004149377593361
+Kirinyaga,Mwea,1,698,0.00143266475644699
+Kirinyaga,Ndia,2,479,0.00417536534446764
+Kisii,Bobasi,46,450,0.102222222222222
+Kisii,Bomachoge Borabu,56,451,0.124168514412417
+Kisii,Bomachoge Chache,29,450,0.0644444444444445
+Kisii,Bonchari,24,454,0.052863436123348
+Kisii,Kitutu Chache North,41,450,0.0911111111111111
+Kisii,Kitutu Chache South,25,450,0.0555555555555556
+Kisii,Nyaribari Chache,21,450,0.0466666666666667
+Kisii,Nyaribari Masaba,30,466,0.0643776824034335
+Kisii,South Mugirango,66,480,0.1375
+Kitui,Kitui Central,2,418,0.00478468899521531
+Kitui,Kitui East,3,479,0.00626304801670146
+Kitui,Kitui Rural,0,332,0
+Kitui,Kitui South,2,441,0.00453514739229025
+Kitui,Kitui West,1,331,0.00302114803625378
+Kitui,Mwingi Central,5,469,0.0106609808102345
+Kitui,Mwingi Nort,0,390,0
+Kitui,Mwingi West,0,354,0
+Laikipia,Laikipia East,1,470,0.00212765957446809
+Laikipia,Laikipia North,0,480,0
+Laikipia,Laikipia West,1,483,0.0020703933747412
+Machakos,Kangundo,0,480,0
+Machakos,Kathiani,1,480,0.00208333333333333
+Machakos,Machakos Town,5,610,0.00819672131147541
+Machakos,Masinga,8,475,0.0168421052631579
+Machakos,Matungulu,1,479,0.00208768267223382
+Machakos,Mavoko,0,381,0
+Machakos,Mwala,3,473,0.00634249471458774
+Machakos,Yatta,0,441,0
+Makueni,Kaiti,8,354,0.0225988700564972
+Makueni,Kibwezi East,0,342,0
+Makueni,Kibwezi West,5,524,0.00954198473282443
+Makueni,Kilome,0,263,0
+Makueni,Makueni,7,610,0.0114754098360656
+Makueni,Mbooni,5,529,0.00945179584120983
+Marsabit,Laisamis,0,467,0
+Marsabit,Moyale,1,210,0.00476190476190476
+Marsabit,North Horr,0,349,0
+Marsabit,Saku,1,450,0.00222222222222222
+Meru,Buuri,0,472,0
+Meru,Central Imenti,0,465,0
+Meru,Igembe North,22,464,0.0474137931034483
+Meru,Igembe South,27,480,0.05625
+Meru,Igembecentral,15,408,0.0367647058823529
+Meru,Imenti North,0,472,0
+Meru,South Imenti,1,416,0.00240384615384615
+Meru,Tigania East,7,489,0.0143149284253579
+Meru,Tigania West,1,456,0.00219298245614035
+Murang A,Gatanga,9,482,0.0186721991701245
+Murang A,Kandara,7,494,0.01417004048583
+Murang A,Kangema,2,476,0.00420168067226891
+Murang A,Kigumo,12,485,0.0247422680412371
+Murang A,Kiharu,2,480,0.00416666666666667
+Murang A,Maragwa,2,481,0.00415800415800416
+Murang A,Mathioya,10,480,0.0208333333333333
+Nairobi City,Dagoretti North,2,312,0.00641025641025641
+Nairobi City,Dagoretti South,1,436,0.00229357798165138
+Nairobi City,Embakasi Central,0,467,0
+Nairobi City,Embakasi East,2,413,0.00484261501210654
+Nairobi City,Embakasi North,0,417,0
+Nairobi City,Embakasi South,1,437,0.0022883295194508
+Nairobi City,Embakasi West,3,469,0.00639658848614073
+Nairobi City,Kamukunji,4,384,0.0104166666666667
+Nairobi City,Kasarani,0,438,0
+Nairobi City,Kibra,6,333,0.018018018018018
+Nairobi City,Langata,4,87,0.0459770114942529
+Nairobi City,Makadara,1,418,0.00239234449760766
+Nairobi City,Mathare,9,374,0.0240641711229947
+Nairobi City,Roysambu,0,127,0
+Nairobi City,Ruaraka,18,354,0.0508474576271187
+Nairobi City,Starehe,3,315,0.00952380952380953
+Nairobi City,Westlands,12,355,0.0338028169014084
+Nakuru,Bahati,2,450,0.00444444444444444
+Nakuru,Gilgil,0,450,0
+Nakuru,Kuresoi North,5,451,0.0110864745011087
+Nakuru,Kuresoi South,10,450,0.0222222222222222
+Nakuru,Molo,1,450,0.00222222222222222
+Nakuru,Naivasha,0,448,0
+Nakuru,Nakuru Town East,0,450,0
+Nakuru,Nakuru Town West,2,463,0.00431965442764579
+Nakuru,Njoro,4,449,0.0089086859688196
+Nakuru,Rongai,8,450,0.0177777777777778
+Nakuru,Subukia,0,160,0
+Nandi,Aldai,37,452,0.081858407079646
+Nandi,Chesumei,17,420,0.0404761904761905
+Nandi,Emgwen,27,421,0.0641330166270784
+Nandi,Mosop,1,453,0.0022075055187638
+Nandi,Nandi Hills,11,300,0.0366666666666667
+Nandi,Tinderet,14,450,0.0311111111111111
+Narok,Emurua Dikirr,36,480,0.075
+Narok,Kilgoris,32,479,0.0668058455114822
+Narok,Narok East,2,485,0.00412371134020619
+Narok,Narok North,4,452,0.00884955752212389
+Narok,Narok South,24,481,0.0498960498960499
+Narok,Narok West,25,480,0.0520833333333333
+Nyamira,Borabu,29,412,0.0703883495145631
+Nyamira,Kitutu Masaba,10,450,0.0222222222222222
+Nyamira,North Mugirango,25,401,0.0623441396508728
+Nyamira,West Mugirango,38,542,0.0701107011070111
+Nyandarua,Kinangop,0,482,0
+Nyandarua,Kipipiri,0,475,0
+Nyandarua,Ndaragwa,3,447,0.00671140939597315
+Nyandarua,Ol Jorok,0,451,0
+Nyandarua,Ol Kalou,0,468,0
+Samburu,Samburu East,0,450,0
+Samburu,Samburu North,0,466,0
+Samburu,Samburu West,0,475,0
+Tharaka-Nithi,Igambango Ombe,0,445,0
+Tharaka-Nithi,Maara,0,487,0
+Tharaka-Nithi,Tharaka,0,448,0
+Turkana,Loima,0,339,0
+Turkana,Turkana Central,0,285,0
+Turkana,Turkana East,0,319,0
+Turkana,Turkana North,0,223,0
+Turkana,Turkana South,0,336,0
+Turkana,Turkana West,0,318,0
+West Pokot,Kacheliba,0,466,0
+West Pokot,Kapenguria,3,457,0.00656455142231947
+West Pokot,Pokot South,4,480,0.00833333333333333
+West Pokot,Sigor,1,440,0.00227272727272727

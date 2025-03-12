@@ -1,0 +1,2469 @@
+school_id,lng,lat,school,county,subcounty,n,N,prev
+4010111,37.5396963,0.1039491,Murinya,Meru,Buuri,0,32,0
+4010112,37.523662,0.097325,Mburugiti,Meru,Buuri,0,32,0
+4010113,37.5111566,0.202818,Mck Ntumburi Primary,Meru,Buuri,0,32,0
+4010121,37.569643,0.0903551,Muruguma,Meru,Buuri,0,29,0
+4010122,37.5935247,0.0722464,Kiringo,Meru,Buuri,0,32,0
+4010123,37.5967083,0.1670811,Njotene,Meru,Buuri,0,32,0
+4010131,37.4772943,0.0826317,Ntirimiti,Meru,Buuri,0,27,0
+4010132,37.3009906,0.0666677,Madaraka,Meru,Buuri,0,32,0
+4010133,37.3825311,0.1354345,Ndurumuru,Meru,Buuri,0,32,0
+4010141,37.6567444,0.168658,Kanthungu,Meru,Buuri,0,32,0
+4010142,37.6214755,0.1464728,Mutuuma,Meru,Buuri,0,32,0
+4010143,37.6139158,0.2274225,Marere,Meru,Buuri,0,32,0
+4010151,37.1407479,0.0298365,Ontulili Ccm,Meru,Buuri,0,32,0
+4010152,37.2172015,0.0624838,Mutethia Deb,Meru,Buuri,0,32,0
+4010153,37.1086704,0.0227408,Kiranga,Meru,Buuri,0,32,0
+4010211,37.6804643,-0.0428227,Rware,Meru,Central Imenti,0,32,0
+4010212,37.6953733,-0.0477667,Kirirwa,Meru,Central Imenti,0,32,0
+4010213,37.6919246,-0.0403459,Gitauga,Meru,Central Imenti,0,32,0
+4010221,37.6352224,-0.0320728,M.c.k Kibari,Meru,Central Imenti,0,32,0
+4010222,37.6199839,-0.0206175,Kaguma,Meru,Central Imenti,0,30,0
+4010223,37.5673417,-0.0279288,Deb Kioru,Meru,Central Imenti,0,33,0
+4010224,37.613432,0.0209466,Kianthumbi,Meru,Central Imenti,0,32,0
+4010231,37.7884889,-0.0779633,Mpindi,Meru,Central Imenti,0,14,0
+4010232,37.8496701,-0.0440454,Pcea Gikuuru,Meru,Central Imenti,0,32,0
+4010233,37.7956701,-0.0963383,Matetu,Meru,Central Imenti,0,33,0
+4010234,37.8246536,-0.0987445,Rikana,Meru,Central Imenti,0,32,0
+4010241,37.7997735,-0.0208654,Ucheru Ccm,Meru,Central Imenti,0,34,0
+4010242,37.7364163,-0.0736014,Kiija,Meru,Central Imenti,0,32,0
+4010243,37.8192432,-0.0099003,Njuthine,Meru,Central Imenti,0,33,0
+4010244,37.7074483,-0.0356017,Kiamakoro,Meru,Central Imenti,0,32,0
+4010311,37.9390987,0.2847428,Mwerongai,Meru,Igembecentral,0,31,0
+4010312,37.9059906,0.3322826,Limbuku,Meru,Igembecentral,0,32,0
+4010313,37.9454061,0.2899393,Nyumba Ya Itui,Meru,Igembecentral,0,32,0
+4010321,37.9663487,0.3018361,Athiru Rujine,Meru,Igembecentral,0,32,0
+4010322,38.0945298,0.2922187,Mck Malaene Pry Sch,Meru,Igembecentral,0,32,0
+4010323,38.1179162,0.263291,Kathithine,Meru,Igembecentral,0,32,0
+4010331,38.0512643,0.228887,Kanjoo,Meru,Igembecentral,0,32,0
+4010332,37.9767333,0.2592733,Kauriene,Meru,Igembecentral,0,30,0
+4010333,37.9631238,0.2506914,Miori,Meru,Igembecentral,1,30,0.0333333333333333
+4010341,37.859332,0.2577228,Nkinyanga,Meru,Igembecentral,0,31,0
+4010342,37.84336,0.2809126,Kiani Kiraja,Meru,Igembecentral,0,31,0
+4010343,37.8891214,0.2493877,Kani Ka Rui,Meru,Igembecentral,3,31,0.0967741935483871
+4010351,37.9253123,0.2837555,Thamare,Meru,Igembecentral,0,32,0
+4010411,38.0232961,0.396166,Ngukwine,Meru,Igembe North,4,32,0.125
+4010412,38.02586,0.4536928,Ithata,Meru,Igembe North,0,32,0
+4010413,37.9908703,0.4005295,Barenta,Meru,Igembe North,9,32,0.28125
+4010421,37.9609662,0.34041,Lubua,Meru,Igembe North,1,32,0.03125
+4010422,37.938943,0.3492817,Mwerongundu,Meru,Igembe North,0,32,0
+4010423,37.9452608,0.3562877,Nkiriana,Meru,Igembe North,1,30,0.0333333333333333
+4010431,37.9888846,0.3391676,Nairuru,Meru,Igembe North,2,32,0.0625
+4010432,38.051045,0.3116578,Ndoleli,Meru,Igembe North,1,32,0.03125
+4010433,37.9302789,0.2721073,Karichu,Meru,Igembe North,0,32,0
+4010441,37.9133832,0.4685785,Mutuati,Meru,Igembe North,9,32,0.28125
+4010442,37.9442225,0.3956813,Thirua,Meru,Igembe North,0,32,0
+4010443,37.9781613,0.3635366,Kanthali,Meru,Igembe North,2,32,0.0625
+4010451,37.923846,0.3319855,Mariri,Meru,Igembe North,0,28,0
+4010452,37.8884212,0.3602834,Kilera,Meru,Igembe North,1,31,0.032258064516129
+4010453,37.9478304,0.3199562,Kirindara,Meru,Igembe North,1,23,0.0434782608695652
+4010511,37.9221365,0.1679825,Athi,Meru,Igembe South,0,32,0
+4010512,37.9325352,0.1942809,Amwamba,Meru,Igembe South,1,32,0.03125
+4010513,37.9719943,0.131662,Giika,Meru,Igembe South,0,32,0
+4010521,37.9743233,0.2097567,Athiru Gaiti,Meru,Igembe South,0,32,0
+4010522,38.0070992,0.2228913,Nkaria,Meru,Igembe South,0,32,0
+4010523,37.9974598,0.1703048,Kiguma Ciiri,Meru,Igembe South,0,32,0
+4010531,37.9946052,0.1665426,Thaicu,Meru,Igembe South,0,32,0
+4010532,37.9606546,0.1669941,Athimba,Meru,Igembe South,0,32,0
+4010533,38.0099522,0.0763759,Kisimani,Meru,Igembe South,0,32,0
+4010541,37.9250445,0.2083987,Auki,Meru,Igembe South,1,32,0.03125
+4010542,37.9286056,0.2204346,Itumi,Meru,Igembe South,1,32,0.03125
+4010543,37.9167273,0.2372866,Kiegoi,Meru,Igembe South,0,32,0
+4010551,37.9517101,0.2188328,Luluma,Meru,Igembe South,5,32,0.15625
+4010552,37.9599581,0.2224715,Gitura,Meru,Igembe South,3,32,0.09375
+4010553,37.9440173,0.229612,Maua,Meru,Igembe South,1,32,0.03125
+4010611,37.6500236,0.0527975,Meru Township,Meru,Imenti North,0,32,0
+4010612,37.635859,0.0531749,Kinoru,Meru,Imenti North,0,30,0
+4010613,37.6346613,0.0605874,Ccm Gitoro,Meru,Imenti North,0,32,0
+4010621,37.6588337,0.049324,Good Shepherd,Meru,Imenti North,0,31,0
+4010622,37.6800644,0.0282667,Njukinjiru,Meru,Imenti North,0,32,0
+4010623,37.6618467,0.0556301,Mwirine,Meru,Imenti North,0,32,0
+4010631,37.6460532,0.0398674,Irinda C.c.m,Meru,Imenti North,0,32,0
+4010632,37.6605996,0.0016276,Mwiramwanki,Meru,Imenti North,0,31,0
+4010633,37.6589377,0.010142,Ngonyi,Meru,Imenti North,0,32,0
+4010641,37.8281648,0.0028483,Mck Gachua,Meru,Imenti North,0,32,0
+4010642,37.7154869,0.0427666,Thuura,Meru,Imenti North,0,30,0
+4010643,37.75224,0.0340367,Deb Karirwara,Meru,Imenti North,0,31,0
+4010651,37.6909733,0.061705,Kathithi,Meru,Imenti North,0,31,0
+4010652,37.6932482,0.071238,Munithu,Meru,Imenti North,0,32,0
+4010653,37.6645586,0.1236921,Kithoka Primary School,Meru,Imenti North,0,32,0
+4010711,37.6639764,-0.0940228,Lower Chure,Meru,South Imenti,0,32,0
+4010712,37.6722427,-0.1242516,Kanyakine,Meru,South Imenti,0,32,0
+4010722,37.5927792,-0.1363832,Kairiene,Meru,South Imenti,0,32,0
+4010723,37.6277478,-0.0890055,Ccm Ucima Primary School,Meru,South Imenti,0,32,0
+4010731,37.6642843,-0.2019091,Gicici,Meru,South Imenti,0,32,0
+4010741,37.62653,-0.1957651,Kathuguya,Meru,South Imenti,0,32,0
+4010742,37.6100665,-0.1686576,Kaura,Meru,South Imenti,0,32,0
+4010743,37.6344223,-0.1798963,Gakiri,Meru,South Imenti,0,32,0
+4010751,37.78308,-0.1073346,Mitunguu Primary,Meru,South Imenti,0,32,0
+4010752,37.7137136,-0.085934,Ndamene,Meru,South Imenti,0,32,0
+4010761,37.6624529,-0.0814429,Kathanthatu,Meru,South Imenti,0,32,0
+4010762,37.585559,-0.0756634,Kianjogu,Meru,South Imenti,0,32,0
+4010763,37.5807862,-0.0355794,Baitigitu,Meru,South Imenti,0,32,0
+4010811,37.800745,0.2968683,Mula,Meru,Tigania East,0,32,0
+4010812,37.827057,0.2165351,Mitunguu,Meru,Tigania East,0,32,0
+4010813,37.845055,0.249445,Linguri,Meru,Tigania East,0,32,0
+4010821,37.8754729,0.1436434,Ng Ombe Njiru,Meru,Tigania East,0,32,0
+4010822,37.8522654,0.187374,Micii Mikuru,Meru,Tigania East,0,32,0
+4010823,37.8463532,0.143905,Kaliene,Meru,Tigania East,1,33,0.0303030303030303
+4010831,37.8311031,0.0662939,Marega,Meru,Tigania East,0,34,0
+4010832,37.8355716,0.1204614,Mikinduri,Meru,Tigania East,0,32,0
+4010833,37.8573585,0.1142846,Mutewa,Meru,Tigania East,0,32,0
+4010841,37.7994671,0.2279412,Ncuui,Meru,Tigania East,0,31,0
+4010842,37.7383947,0.240842,Lailuba,Meru,Tigania East,0,34,0
+4010843,37.8146001,0.199432,Nduluma,Meru,Tigania East,0,35,0
+4010851,37.8992732,0.1226645,Rarimbu,Meru,Tigania East,0,33,0
+4010852,37.9132822,0.0130716,Ngage,Meru,Tigania East,0,31,0
+4010853,37.9019959,0.0862187,Kiguma,Meru,Tigania East,0,34,0
+4010911,37.7845398,0.1918505,Mwili,Meru,Tigania West,0,32,0
+4010912,37.8166937,0.1469615,Kitheo,Meru,Tigania West,0,32,0
+4010913,38.3539,-2.0267,K.k .Lumbi,Meru,Tigania West,0,32,0
+4010921,37.7643606,0.2007634,Mwanika,Meru,Tigania West,0,31,0
+4010922,37.6162229,0.3184578,K.k Nkengecia,Meru,Tigania West,1,32,0.03125
+4010923,37.6355533,0.2988883,Kibiru,Meru,Tigania West,0,32,0
+4010931,37.805595,0.1333983,Kiandiu,Meru,Tigania West,0,31,0
+4010932,37.633399,0.2213348,Laaria,Meru,Tigania West,0,19,0
+4010933,37.7698552,0.1374437,Antubeiga Primary School,Meru,Tigania West,0,32,0
+4010941,37.790595,0.06875,Kimerei,Meru,Tigania West,0,32,0
+4010942,37.8154033,0.047144,Kaamu Primary School,Meru,Tigania West,0,32,0
+4010943,37.8753034,0.0159131,Chairuku,Meru,Tigania West,0,32,0
+4010951,37.6979933,0.1552167,Kanjai,Meru,Tigania West,0,23,0
+4010952,37.7750446,0.1249093,Ntoombo,Meru,Tigania West,0,32,0
+4010953,37.76435,0.104969,Kimachia,Meru,Tigania West,0,32,0
+4020111,37.3481713,-1.2987295,Kangundo Deb,Machakos,Kangundo,0,32,0
+4020112,37.3619208,-1.3067875,Masewani (Kangundo Central),Machakos,Kangundo,0,32,0
+4020113,37.3656365,-1.3388017,Ngulini,Machakos,Kangundo,0,32,0
+4020121,37.3570885,-1.3746566,Kithunthi,Machakos,Kangundo,0,32,0
+4020122,37.3966969,-1.355987,Manyatta,Machakos,Kangundo,0,32,0
+4020123,37.3665044,-1.3781946,Kwa Kathule,Machakos,Kangundo,0,32,0
+4020124,37.3786879,-1.3622376,Kivi Deb,Machakos,Kangundo,0,32,0
+4020131,37.3573092,-1.2876071,Mbilini,Machakos,Kangundo,0,32,0
+4020132,37.3528766,-1.2634303,Matungulu Aic,Machakos,Kangundo,0,32,0
+4020133,37.3990521,-1.3145224,Kawauni,Machakos,Kangundo,0,32,0
+4020134,37.3927699,-1.308125,Kwa Mwilile Deb,Machakos,Kangundo,0,32,0
+4020141,37.3265144,-1.3820481,Mbusyani,Machakos,Kangundo,0,32,0
+4020142,37.3045596,-1.3460796,Mukunike,Machakos,Kangundo,0,32,0
+4020143,37.2899034,-1.330114,Kathaana,Machakos,Kangundo,0,32,0
+4020144,37.3203664,-1.3486241,Kawethei Sa,Machakos,Kangundo,0,32,0
+4020211,37.3061348,-1.3913793,Kaiani (Kathiani Central),Machakos,Kathiani,0,32,0
+4020212,37.3018419,-1.3977851,Mivandoni,Machakos,Kathiani,0,32,0
+4020213,37.3200169,-1.4304978,Isyukoni,Machakos,Kathiani,0,32,0
+4020221,37.3793361,-1.5163134,Kasioni,Machakos,Kathiani,0,32,0
+4020222,37.3486423,-1.4668989,Makumbini,Machakos,Kathiani,0,32,0
+4020223,37.3551305,-1.4416421,Imilini,Machakos,Kathiani,0,32,0
+4020224,37.348516,-1.5051894,Kathuni,Machakos,Kathiani,0,32,0
+4020231,37.2655426,-1.4352007,Kisekini (Mitaboni),Machakos,Kathiani,0,32,0
+4020232,37.2792237,-1.4038073,Kavete,Machakos,Kathiani,0,32,0
+4020233,37.2733635,-1.3930518,Ngiini,Machakos,Kathiani,0,32,0
+4020234,37.2327749,-1.3753007,Maanzoni,Machakos,Kathiani,0,32,0
+4020241,37.3360816,-1.4822239,Kikawani,Machakos,Kathiani,0,32,0
+4020242,37.3313731,-1.4620365,Isooni,Machakos,Kathiani,0,32,0
+4020243,37.3067057,-1.4567203,Kwa Ngolia,Machakos,Kathiani,0,32,0
+4020244,37.2856698,-1.4540438,Mang Aani,Machakos,Kathiani,0,32,0
+4020311,37.33026,-1.6225404,Kyangala,Machakos,Machakos Town,0,22,0
+4020312,37.3270078,-1.6054962,Kalama,Machakos,Machakos Town,0,22,0
+4020313,37.3127589,-1.579729,Makaveti,Machakos,Machakos Town,0,22,0
+4020314,37.3076754,-1.6039305,Mbukuni (Kalama),Machakos,Machakos Town,0,22,0
+4020321,37.2991739,-1.70173,Kavyuni,Machakos,Machakos Town,0,22,0
+4020322,37.2432987,-1.5790792,Katumani,Machakos,Machakos Town,0,22,0
+4020323,37.39199,-1.6717506,Mbuani,Machakos,Machakos Town,0,22,0
+4020324,37.3633166,-1.6899001,Kombuni,Machakos,Machakos Town,1,22,0.0454545454545455
+4020331,37.2698633,-1.5237183,Machakos,Machakos,Machakos Town,0,22,0
+4020332,37.2731873,-1.5185958,Baptist,Machakos,Machakos Town,0,22,0
+4020333,37.2630592,-1.528199,Muthini,Machakos,Machakos Town,0,22,0
+4020334,37.2640735,-1.5230105,St Marys Boys,Machakos,Machakos Town,0,21,0
+4020341,37.2292038,-1.5660025,Mikuyu,Machakos,Machakos Town,0,20,0
+4020342,37.2073784,-1.5783528,Vota,Machakos,Machakos Town,0,20,0
+4020343,37.2004,-1.5439933,Katelembo,Machakos,Machakos Town,0,22,0
+4020344,37.2117685,-1.5161865,Katheka Kai,Machakos,Machakos Town,0,22,0
+4020351,37.2638574,-1.5031695,Mumbuni,Machakos,Machakos Town,0,22,0
+4020352,37.2539003,-1.4982078,Manza,Machakos,Machakos Town,0,22,0
+4020353,37.239925,-1.5024336,Miwongoni,Machakos,Machakos Town,0,22,0
+4020354,37.2777121,-1.4969598,Ikokani,Machakos,Machakos Town,0,22,0
+4020361,37.2505429,-1.4531722,Mutituni,Machakos,Machakos Town,0,22,0
+4020362,37.2510785,-1.4253412,Ngelani,Machakos,Machakos Town,0,21,0
+4020363,37.2519983,-1.4647283,Kyanguli,Machakos,Machakos Town,0,21,0
+4020364,37.2246994,-1.403868,Kisekini (Mutituni),Machakos,Machakos Town,0,23,0
+4020371,37.3225024,-1.533469,Kisekini,Machakos,Machakos Town,0,22,0
+4020372,37.3083087,-1.5374816,Kivandini,Machakos,Machakos Town,0,22,0
+4020373,37.2928149,-1.5416691,Mwanyani,Machakos,Machakos Town,0,22,0
+4020374,37.33699,-1.5223467,Kaseve,Machakos,Machakos Town,0,22,0
+4020411,37.5438388,-1.038214,Kwa Kalunde,Machakos,Masinga,0,30,0
+4020412,37.5456505,-1.0732933,Ikaatini,Machakos,Masinga,0,32,0
+4020413,37.5303615,-1.0271365,Kwamulinge,Machakos,Masinga,0,32,0
+4020421,37.7304266,-0.8436198,Kithuia,Machakos,Masinga,0,31,0
+4020422,37.677182,-0.9310397,Utithini,Machakos,Masinga,0,32,0
+4020423,37.7649574,-0.9995042,Kaliluni,Machakos,Masinga,0,31,0
+4020431,37.6537723,-0.9701334,Musumaa,Machakos,Masinga,1,32,0.03125
+4020432,37.6541877,-0.8837788,Kyangosi,Machakos,Masinga,0,31,0
+4020433,37.5545394,-0.9229802,Katulye,Machakos,Masinga,0,32,0
+4020441,37.4019129,-0.979713,Kwamboo,Machakos,Masinga,0,32,0
+4020442,37.4264134,-1.0182361,Iiani (Muthesya),Machakos,Masinga,0,32,0
+4020443,37.3794543,-0.9871345,Muthesya,Machakos,Masinga,0,32,0
+4020451,37.3515248,-0.9834507,Kawethei,Machakos,Masinga,0,32,0
+4020452,37.2564215,-0.852969,Matema,Machakos,Masinga,0,32,0
+4020453,37.2468968,-0.8624478,Tito,Machakos,Masinga,0,32,0
+4020511,36.3630537,0.0346217,Kyeleni Primary,Machakos,Matungulu,0,32,0
+4020512,37.2113584,-1.2267718,Ngalalya,Machakos,Matungulu,0,32,0
+4020513,37.2327004,-1.1027934,Kiatineni,Machakos,Matungulu,0,33,0
+4020521,37.3415832,-1.2171245,Katuluni,Machakos,Matungulu,0,32,0
+4020522,37.177514,-1.2754001,Kantafu,Machakos,Matungulu,0,32,0
+4020523,37.3097788,-1.2509367,Kikaatini,Machakos,Matungulu,0,32,0
+4020531,37.2532323,-1.0857964,Donyo Sabuk,Machakos,Matungulu,0,32,0
+4020532,37.3024981,-1.1507415,Kithuiani,Machakos,Matungulu,0,32,0
+4020533,37.3465873,-1.2529146,Uamani Pr,Machakos,Matungulu,0,33,0
+4020541,37.2655816,-1.1764641,Kyumbuni,Machakos,Matungulu,0,32,0
+4020542,37.2965342,-1.2257468,Kalandini,Machakos,Matungulu,0,33,0
+4020543,37.1941396,-1.2282553,Ndovoini,Machakos,Matungulu,0,32,0
+4020551,37.2918133,-1.2884083,Ngomeni,Machakos,Matungulu,0,30,0
+4020552,37.3253401,-1.2764814,Kyamulendu,Machakos,Matungulu,0,31,0
+4020553,37.3040996,-1.2839231,Katine Sa,Machakos,Matungulu,0,31,0
+4020611,36.9790286,-1.4593068,Athi River,Machakos,Mavoko,0,30,0
+4020612,36.9888591,-1.4564222,Kanaani,Machakos,Mavoko,0,30,0
+4020614,36.9772575,-1.4455932,Kwa Mangeli,Machakos,Mavoko,0,30,0
+4020621,37.199525,-1.3668259,Ivovoani,Machakos,Mavoko,0,22,0
+4020622,37.1738388,-1.4829324,Kaiani,Machakos,Mavoko,0,22,0
+4020623,37.1261957,-1.5577738,Kyumbi,Machakos,Mavoko,0,21,0
+4020624,37.1778054,-1.4470797,Wathia,Machakos,Mavoko,0,22,0
+4020631,37.0849774,-1.3090415,Ngalalya (Muthwani),Machakos,Mavoko,0,32,0
+4020632,37.1097332,-1.4023971,Nzoiani,Machakos,Mavoko,0,32,0
+4020633,37.171975,-1.4119317,Muthwani,Machakos,Mavoko,0,32,0
+4020634,37.1108386,-1.3602972,Kavomboni,Machakos,Mavoko,0,15,0
+4020641,36.948499,-1.3915451,Ngwata Primary,Machakos,Mavoko,3,32,0.09375
+4020642,36.9465318,-1.4083354,Mlolongo Primary,Machakos,Mavoko,1,32,0.03125
+4020643,36.9452745,-1.3745662,Mavoko Snp,Machakos,Mavoko,0,10,0
+4020644,36.9424403,-1.3946105,St. Francis Of Assisi Ac.,Machakos,Mavoko,0,19,0
+4020711,37.6912957,-1.5364907,Ngumbau,Machakos,Mwala,0,32,0
+4020712,37.7127233,-1.5560733,Matulani,Machakos,Mwala,0,32,0
+4020721,37.4824037,-1.3803515,Kyamutwii,Machakos,Mwala,0,32,0
+4020722,37.4664008,-1.2931797,Myanyani H.g.m,Machakos,Mwala,0,32,0
+4020723,37.4610715,-1.3119295,Musaalani,Machakos,Mwala,0,32,0
+4020731,37.4276095,-1.5229633,Nguluni,Machakos,Mwala,0,32,0
+4020732,37.3707052,-1.4444026,Kathuki Aic,Machakos,Mwala,0,28,0
+4020733,37.4301192,-1.4904573,Kikelenzu,Machakos,Mwala,0,32,0
+4020741,37.4533354,-1.2470654,Aic Kimuuni,Machakos,Mwala,0,32,0
+4020742,37.465381,-1.2478519,Kitwamba,Machakos,Mwala,0,32,0
+4020751,37.508246,-1.4468746,Kaliambeu,Machakos,Mwala,0,32,0
+4020752,37.5263941,-1.4641335,Ngamba,Machakos,Mwala,0,32,0
+4020761,37.6032419,-1.3864325,Wakaela,Machakos,Mwala,0,32,0
+4020762,37.6444153,-1.4573388,Ngomano,Machakos,Mwala,0,29,0
+4020763,37.5814422,-1.4839196,Kyamatula,Machakos,Mwala,1,32,0.03125
+4020811,37.6081304,-1.272481,Uvaini Aic,Machakos,Yatta,0,31,0
+4020813,37.6764877,-1.4279542,Muusini,Machakos,Yatta,0,30,0
+4020821,37.6968355,-1.4104538,Katangi,Machakos,Yatta,0,30,0
+4020822,37.7381464,-1.3554642,Mombuni,Machakos,Yatta,0,32,0
+4020823,37.732209,-1.4691718,Yumbuni,Machakos,Yatta,0,30,0
+4020831,37.4201006,-1.1687652,Nguumo (Kithimani),Machakos,Yatta,0,32,0
+4020832,37.6254816,-1.251378,Kionyweni,Machakos,Yatta,0,32,0
+4020833,37.4877804,-1.1454464,Kauukuni,Machakos,Yatta,0,32,0
+4020841,37.5281412,-1.2043182,Kautulini,Machakos,Yatta,0,32,0
+4020842,37.5149049,-1.1083026,Masewani,Machakos,Yatta,0,32,0
+4020843,37.5428051,-1.1465362,Matuu Hgm,Machakos,Yatta,0,32,0
+4020851,37.4871823,-1.0974158,Ndalani,Machakos,Yatta,0,32,0
+4020852,37.4360112,-1.0406212,Matangini (Ndalani),Machakos,Yatta,0,32,0
+4020853,37.4244856,-1.0532787,Mukuyuni,Machakos,Yatta,0,32,0
+4030111,37.4681198,-0.4265965,Kairuri,Embu,Manyatta,1,32,0.03125
+4030112,37.4767639,-0.3563341,Gaciigi,Embu,Manyatta,0,32,0
+4030113,37.4751814,-0.3949538,Kiriari,Embu,Manyatta,0,32,0
+4030121,37.5804492,-0.517273,St Almano,Embu,Manyatta,0,32,0
+4030122,37.5254439,-0.5058448,Kithimu,Embu,Manyatta,0,32,0
+4030131,37.4500904,-0.4091392,Muvandori,Embu,Manyatta,0,31,0
+4030141,37.4673219,-0.5390042,Kamiu,Embu,Manyatta,0,32,0
+4030142,37.4705162,-0.5109427,St Peters Gatituri,Embu,Manyatta,0,32,0
+4030143,37.5032276,-0.5371492,Itabua,Embu,Manyatta,0,32,0
+4030151,37.4468713,-0.5120961,Njukiri,Embu,Manyatta,0,30,0
+4030152,37.4520611,-0.5445256,County,Embu,Manyatta,0,30,0
+4030153,37.4527472,-0.5345755,St Michael,Embu,Manyatta,0,30,0
+4030161,37.4778644,-0.4560552,St Peters Runganga,Embu,Manyatta,0,32,0
+4030162,37.5201908,-0.4778553,Nembure,Embu,Manyatta,0,32,0
+4030211,37.5294119,-0.4400671,Ccm Kevote,Embu,Runyenjes,0,32,0
+4030212,37.5023105,-0.4148964,D.e.b Kavutiri,Embu,Runyenjes,0,31,0
+4030213,37.506758,-0.4440781,Kianjuki,Embu,Runyenjes,0,32,0
+4030221,37.6301791,-0.4675646,Karumiri,Embu,Runyenjes,0,32,0
+4030223,37.6468115,-0.4707399,Kathambaiconi,Embu,Runyenjes,0,31,0
+4030231,37.5702697,-0.413582,Ack Kagaari,Embu,Runyenjes,2,32,0.0625
+4030232,37.5845066,-0.4534883,St Pauls Gatinda,Embu,Runyenjes,0,30,0
+4030241,37.5686048,-0.4098457,Muragari,Embu,Runyenjes,0,32,0
+4030242,37.5452923,-0.3868012,Kathande,Embu,Runyenjes,0,32,0
+4030251,37.6176062,-0.4005196,Kivuria,Embu,Runyenjes,0,31,0
+4030252,37.5566165,-0.3792571,Rukuriri,Embu,Runyenjes,0,32,0
+4030261,37.6494723,-0.4716602,Karurumo,Embu,Runyenjes,0,32,0
+4030262,37.6290322,-0.4257686,Kiamboa,Embu,Runyenjes,0,32,0
+4030263,37.6085511,-0.3937209,Nguyori,Embu,Runyenjes,0,32,0
+4030311,37.322455,-0.7644183,Iria Itune,Embu,Mbeere South,0,32,0
+4030313,37.3890433,-0.8351917,Riakanau,Embu,Mbeere South,0,32,0
+4030321,37.5403165,-0.8091663,Ndune,Embu,Mbeere South,0,30,0
+4030322,37.478207,-0.8332251,Mulukusi,Embu,Mbeere South,0,32,0
+4030323,37.4981055,-0.8347675,Manyati,Embu,Mbeere South,0,32,0
+4030331,37.6066054,-0.6516652,Kabururi,Embu,Mbeere South,0,32,0
+4030332,37.5501506,-0.6325102,Muraru,Embu,Mbeere South,0,32,0
+4030333,37.5954583,-0.6694346,Munyori,Embu,Mbeere South,0,32,0
+4030341,37.7308549,-0.7257133,Kamukunga,Embu,Mbeere South,0,32,0
+4030342,37.6285033,-0.662815,Mutus,Embu,Mbeere South,0,30,0
+4030343,37.7038231,-0.7449418,Kanduku,Embu,Mbeere South,0,31,0
+4030351,37.87301,-0.621135,Deb Ngiiri,Embu,Mbeere South,0,32,0
+4030352,37.7912648,-0.6727736,Kamaunju,Embu,Mbeere South,0,29,0
+4030353,37.7919001,-0.6945387,Kiambere,Embu,Mbeere South,0,32,0
+4030411,37.6250982,-0.5837716,Makunguru,Embu,Mbeere North,0,32,0
+4030412,37.5923532,-0.5274407,Riandu,Embu,Mbeere North,0,32,0
+4030413,37.6780829,-0.530945,Kune,Embu,Mbeere North,0,32,0
+4030414,37.6565264,-0.6246649,Kamugu,Embu,Mbeere North,0,32,0
+4030415,37.60185,-0.5492199,Kathetu,Embu,Mbeere North,0,32,0
+4030421,37.7717833,-0.6335621,Kiamugongo,Embu,Mbeere North,0,32,0
+4030422,37.7525226,-0.5735451,Nguthi,Embu,Mbeere North,0,32,0
+4030423,37.7164716,-0.6440856,Karambari,Embu,Mbeere North,0,32,0
+4030424,37.7965207,-0.6122894,Kandomba,Embu,Mbeere North,0,32,0
+4030425,37.708939,-0.6242485,Gatakari,Embu,Mbeere North,0,32,0
+4030431,37.8413185,-0.4923285,Kyenire,Embu,Mbeere North,1,32,0.03125
+4030432,37.7440139,-0.5148173,Gatororori,Embu,Mbeere North,0,32,0
+4030433,37.7268474,-0.5018311,Karuari,Embu,Mbeere North,0,32,0
+4030434,37.7305663,-0.46096,Gwakaithi,Embu,Mbeere North,1,32,0.03125
+4030435,37.7919204,-0.5159887,Usambara Pri,Embu,Mbeere North,0,32,0
+4040111,37.6782386,-0.2909075,Gituntu,Tharaka-Nithi,Maara,0,32,0
+4040112,37.7143278,-0.3071009,Ndumbini,Tharaka-Nithi,Maara,0,32,0
+4040113,37.6185542,-0.2938896,Giampampo,Tharaka-Nithi,Maara,0,32,0
+4040121,37.6848127,-0.2676799,Ntatua,Tharaka-Nithi,Maara,0,32,0
+4040122,37.6140687,-0.2782699,Gituja,Tharaka-Nithi,Maara,0,32,0
+4040123,37.7647955,-0.2827573,Kanoro,Tharaka-Nithi,Maara,0,32,0
+4040131,37.7932531,-0.1973552,Kaare,Tharaka-Nithi,Maara,0,32,0
+4040132,37.7729829,-0.2629486,Makengi,Tharaka-Nithi,Maara,0,34,0
+4040133,37.7392171,-0.2278502,Maguma,Tharaka-Nithi,Maara,0,32,0
+4040141,37.6880221,-0.2544358,Ngeru,Tharaka-Nithi,Maara,0,32,0
+4040142,37.7182142,-0.2485223,Kauni,Tharaka-Nithi,Maara,0,32,0
+4040143,37.6771227,-0.2379639,Kariakomo,Tharaka-Nithi,Maara,0,34,0
+4040151,37.651507,-0.2384653,Wiru,Tharaka-Nithi,Maara,0,32,0
+4040152,37.6459245,-0.2567729,Kiriani,Tharaka-Nithi,Maara,0,34,0
+4040153,37.5965851,-0.2513795,Gitare,Tharaka-Nithi,Maara,0,33,0
+4040211,37.7351143,-0.3584854,Ibithe,Tharaka-Nithi,Igambango Ombe,0,31,0
+4040212,37.7310837,-0.3498154,Kairini Primry School,Tharaka-Nithi,Igambango Ombe,0,32,0
+4040213,37.7198454,-0.3278223,Ack Kaanwa,Tharaka-Nithi,Igambango Ombe,0,31,0
+4040221,37.6427331,-0.3328361,Chuka Township,Tharaka-Nithi,Igambango Ombe,0,32,0
+4040222,37.6117726,-0.321873,Fr Airaldi,Tharaka-Nithi,Igambango Ombe,0,32,0
+4040223,37.6830655,-0.3179967,Kk Mwendwa,Tharaka-Nithi,Igambango Ombe,0,32,0
+4040231,37.6413352,-0.3670691,Kagumo,Tharaka-Nithi,Igambango Ombe,0,32,0
+4040233,37.6684643,-0.3661303,Kagaani,Tharaka-Nithi,Igambango Ombe,0,32,0
+4040241,37.6851027,-0.3556956,Nthima,Tharaka-Nithi,Igambango Ombe,0,32,0
+4040242,37.7003642,-0.3814851,Kiamuchii,Tharaka-Nithi,Igambango Ombe,0,32,0
+4040243,37.6451956,-0.3478081,Kiereni,Tharaka-Nithi,Igambango Ombe,0,32,0
+4040251,37.851989,-0.3135162,Kajiampau,Tharaka-Nithi,Igambango Ombe,0,32,0
+4040252,37.8344287,-0.3408976,Kajuki Primary,Tharaka-Nithi,Igambango Ombe,0,32,0
+4040253,37.8047792,-0.2235105,Twamikua,Tharaka-Nithi,Igambango Ombe,0,31,0
+4040311,38.0425355,-0.1662602,Karuguaru,Tharaka-Nithi,Tharaka,0,32,0
+4040312,38.2383382,-0.0821557,Gatagani,Tharaka-Nithi,Tharaka,0,32,0
+4040313,38.1658643,-0.1890872,Kirimbu,Tharaka-Nithi,Tharaka,0,32,0
+4040321,38.0976769,-0.0025765,Mauthini,Tharaka-Nithi,Tharaka,0,32,0
+4040322,38.01871,0.0266717,Ntoroni,Tharaka-Nithi,Tharaka,0,32,0
+4040323,37.9341491,0.0260386,Kagurini,Tharaka-Nithi,Tharaka,0,32,0
+4040331,37.9602461,-0.041098,Iria Ria Mathunka,Tharaka-Nithi,Tharaka,0,32,0
+4040332,37.9702289,-0.1015649,Rukurini,Tharaka-Nithi,Tharaka,0,32,0
+4040333,37.9604158,-0.0304595,Irimba,Tharaka-Nithi,Tharaka,0,32,0
+4040341,37.9027798,-0.3186459,Nyakinjeru,Tharaka-Nithi,Tharaka,0,32,0
+4040342,37.9043678,-0.2316075,Ntuuria,Tharaka-Nithi,Tharaka,0,32,0
+4040343,37.9031749,-0.3181388,Mbacaca,Tharaka-Nithi,Tharaka,0,32,0
+4040352,37.9379737,-0.077792,S.a. Kinyingiri,Tharaka-Nithi,Tharaka,0,32,0
+4040353,37.9143779,-0.2169671,Rukenya,Tharaka-Nithi,Tharaka,0,32,0
+4050111,37.4474959,-1.7843167,Kitundumo,Makueni,Kaiti,0,22,0
+4050112,37.4045149,-1.7515995,Kyenzeni,Makueni,Kaiti,0,22,0
+4050113,37.3993148,-1.8649002,Wautu,Makueni,Kaiti,0,22,0
+4050114,37.4537392,-1.8586398,Mwaani (Ilima),Makueni,Kaiti,0,22,0
+4050121,37.354284,-1.7422509,Kimwatho,Makueni,Kaiti,0,22,0
+4050122,37.3650987,-1.7440417,Nthonzweni,Makueni,Kaiti,0,22,0
+4050123,37.4275543,-1.7138006,Ngiluni,Makueni,Kaiti,0,22,0
+4050124,37.3076095,-1.7278724,Kasunguni,Makueni,Kaiti,0,22,0
+4050131,37.3480693,-1.7504592,Kwaluli,Makueni,Kaiti,0,22,0
+4050132,37.3390282,-1.7856034,Kauti,Makueni,Kaiti,0,22,0
+4050133,37.3631113,-1.7630211,Kisyulya,Makueni,Kaiti,0,22,0
+4050134,37.3687196,-1.7752134,Nduu,Makueni,Kaiti,0,22,0
+4050141,37.5755719,-1.7374399,Kaumoni Hcg,Makueni,Kaiti,0,22,0
+4050142,37.5698369,-1.7520348,Kaumoni Deb,Makueni,Kaiti,0,22,0
+4050143,37.4675258,-1.7688618,Kyamuthei,Makueni,Kaiti,0,23,0
+4050144,37.4516178,-1.7424393,Muthini (Ukia),Makueni,Kaiti,0,23,0
+4050211,38.03874,-2.6851517,Kathiani,Makueni,Kibwezi East,0,22,0
+4050212,38.1126617,-2.7069783,Matangini,Makueni,Kibwezi East,0,21,0
+4050213,38.0176369,-2.58304,Makolani,Makueni,Kibwezi East,0,22,0
+4050214,38.026072,-2.6452377,Ilani,Makueni,Kibwezi East,0,22,0
+4050221,38.1436966,-2.3736231,Masaku Ndogo,Makueni,Kibwezi East,0,22,0
+4050222,38.083915,-2.4672583,Mwanyani (Masongaleni),Makueni,Kibwezi East,0,22,0
+4050223,38.0631446,-2.4979223,Mitongani,Makueni,Kibwezi East,0,23,0
+4050224,38.0785717,-2.4417437,Mweini,Makueni,Kibwezi East,0,22,0
+4050231,38.3307415,-2.652192,Kamunyu,Makueni,Kibwezi East,0,13,0
+4050232,38.1831121,-2.6739283,Iviani,Makueni,Kibwezi East,0,22,0
+4050233,38.2692125,-2.5282299,Mikomani,Makueni,Kibwezi East,0,22,0
+4050234,38.2620396,-2.6086197,Ilikoni,Makueni,Kibwezi East,0,22,0
+4050241,38.0243132,-2.4952613,Thange,Makueni,Kibwezi East,0,22,0
+4050242,38.0363627,-2.4788312,Nzavoni,Makueni,Kibwezi East,0,22,0
+4050243,37.9301913,-2.5387066,Metava,Makueni,Kibwezi East,0,22,0
+4050244,38.0080308,-2.398339,Dwa,Makueni,Kibwezi East,1,21,0.0476190476190476
+4050311,37.503254,-2.0624681,Kwa-Kulu,Makueni,Kibwezi West,0,23,0
+4050312,37.4812319,-2.0522605,Kuliku,Makueni,Kibwezi West,0,22,0
+4050313,37.5369864,-2.0539764,Tutini,Makueni,Kibwezi West,0,22,0
+4050314,37.4517424,-2.0288894,Kiuani,Makueni,Kibwezi West,0,22,0
+4050321,37.9653219,-2.4065638,Kiaoni,Makueni,Kibwezi West,0,22,0
+4050322,37.9753137,-2.398396,Malembwa,Makueni,Kibwezi West,0,22,0
+4050323,37.9688765,-2.2140366,Ngaikini,Makueni,Kibwezi West,0,21,0
+4050324,37.7782,0.1892,Kitulani,Makueni,Kibwezi West,1,20,0.05
+4050331,37.9665638,-2.4099622,Kibwezi Township,Makueni,Kibwezi West,0,22,0
+4050332,37.9992406,-2.3837912,Kwa Kyai,Makueni,Kibwezi West,0,22,0
+4050333,38.0134062,-2.363566,Matinga,Makueni,Kibwezi West,0,21,0
+4050334,38.1177526,-2.3553624,Kyanginywa,Makueni,Kibwezi West,0,22,0
+4050341,37.8122206,-2.2863756,Kiambani,Makueni,Kibwezi West,0,22,0
+4050342,37.8207279,-2.2671309,Makindu,Makueni,Kibwezi West,0,22,0
+4050343,37.852584,-2.218946,Kungu,Makueni,Kibwezi West,0,25,0
+4050344,37.813096,-2.2524305,Bondeni,Makueni,Kibwezi West,0,22,0
+4050351,37.6609941,-2.1484337,Masamu,Makueni,Kibwezi West,0,21,0
+4050352,37.5989186,-2.1513176,Thuthu,Makueni,Kibwezi West,0,22,0
+4050353,37.6094499,-2.1127412,Kanyulilya,Makueni,Kibwezi West,0,22,0
+4050354,37.6305225,-2.1210533,Matutu,Makueni,Kibwezi West,0,22,0
+4050361,37.8809232,-2.3284545,Ngwiwa,Makueni,Kibwezi West,0,22,0
+4050362,37.8981934,-2.3732526,Nguumo,Makueni,Kibwezi West,0,20,0
+4050363,37.882021,-2.3851292,Kawelu,Makueni,Kibwezi West,0,21,0
+4050364,37.8728433,-2.3681284,Wiivia,Makueni,Kibwezi West,0,22,0
+4050411,37.3686505,-1.8990041,Isika Pri,Makueni,Kilome,0,22,0
+4050412,37.4078432,-1.9573576,Kathikwani,Makueni,Kilome,0,22,0
+4050413,37.3875498,-1.9230048,Kitumbini,Makueni,Kilome,0,22,0
+4050414,37.396634,-1.9175248,Kitivo,Makueni,Kilome,0,22,0
+4050421,37.2747559,-1.8192804,Kathungu,Makueni,Kilome,0,22,0
+4050422,37.2572615,-1.8256598,Kimakiu,Makueni,Kilome,0,22,0
+4050423,37.2570818,-1.8439691,Tango,Makueni,Kilome,0,23,0
+4050424,37.1497588,-1.8123306,Ulu,Makueni,Kilome,0,22,0
+4050431,37.3144145,-1.8422461,Enzai,Makueni,Kilome,0,22,0
+4050432,37.2933424,-1.8388664,Kwakaseke,Makueni,Kilome,0,22,0
+4050433,37.3482665,-1.8195606,Mbukuni,Makueni,Kilome,0,21,0
+4050434,37.2947945,-1.8632478,Miani,Makueni,Kilome,0,21,0
+4050511,37.7701318,-2.0760394,Kiagiri,Makueni,Makueni,0,22,0
+4050512,37.7542706,-1.886431,Mathembi,Makueni,Makueni,0,22,0
+4050513,37.7335682,-1.9158647,Kathonzweni,Makueni,Makueni,0,22,0
+4050514,37.7626489,-1.9581835,Kavumbu,Makueni,Makueni,0,22,0
+4050521,37.9200554,-2.0231628,Kwanyaa,Makueni,Makueni,0,21,0
+4050522,37.9443055,-2.053004,Kikome,Makueni,Makueni,0,22,0
+4050523,37.9121068,-2.0787371,Mwania,Makueni,Makueni,0,22,0
+4050524,37.9460477,-2.1012797,Kithayoni,Makueni,Makueni,0,22,0
+4050531,37.8660509,-1.8365747,Ivinga Nzia,Makueni,Makueni,0,21,0
+4050532,37.8812927,-1.875611,Iiani,Makueni,Makueni,0,22,0
+4050533,37.8190351,-1.8040837,Katithi,Makueni,Makueni,0,22,0
+4050534,37.8969143,-1.9113408,Nzeveni,Makueni,Makueni,0,22,0
+4050541,37.4250723,-1.9303941,Mungyani,Makueni,Makueni,0,22,0
+4050542,37.4485502,-1.9719443,Mutyambwa,Makueni,Makueni,0,22,0
+4050543,37.4251483,-2.0028939,Kavuthu,Makueni,Makueni,0,20,0
+4050544,37.4735347,-1.9525397,Yuuni,Makueni,Makueni,0,22,0
+4050551,37.6261643,-1.9132898,Kalisa,Makueni,Makueni,0,22,0
+4050552,37.5796117,-1.8748379,Kithoni,Makueni,Makueni,0,22,0
+4050553,37.5970192,-1.845441,Kimuumo,Makueni,Makueni,0,22,0
+4050554,37.659079,-1.8498236,Kambi Mawe,Makueni,Makueni,0,22,0
+4050561,37.4817617,-1.8873429,Nduumoni,Makueni,Makueni,0,22,0
+4050562,37.5564052,-1.9400973,Kyangwasi,Makueni,Makueni,0,22,0
+4050563,37.5850333,-1.9542443,Kwalalu,Makueni,Makueni,0,20,0
+4050564,37.5832981,-1.9016495,Sysolwa,Makueni,Makueni,0,22,0
+4050571,37.6305545,-1.7823087,Unoa,Makueni,Makueni,0,22,0
+4050572,37.5883911,-1.770149,Kiotine,Makueni,Makueni,0,22,0
+4050573,37.527999,-1.8096436,Kitheini,Makueni,Makueni,0,22,0
+4050574,37.6664326,-1.7708729,Mwaani,Makueni,Makueni,0,22,0
+4050611,37.6775208,-1.6554251,Ngamu,Makueni,Mbooni,0,22,0
+4050612,37.7437305,-1.663844,Mweleli,Makueni,Mbooni,0,22,0
+4050613,37.7012804,-1.6489918,Kalawa,Makueni,Mbooni,0,23,0
+4050614,37.7725217,-1.6447667,Kinze,Makueni,Mbooni,0,20,0
+4050621,37.5447728,-1.7040121,Kithangathini,Makueni,Mbooni,0,22,0
+4050622,37.4736617,-1.5548233,Musunguu,Makueni,Mbooni,0,22,0
+4050623,37.5487123,-1.6878004,Ndumbi,Makueni,Mbooni,0,22,0
+4050624,37.4981435,-1.6041842,Syunguni,Makueni,Mbooni,1,22,0.0454545454545455
+4050631,37.4856499,-1.7247006,Kyamuata,Makueni,Mbooni,0,22,0
+4050632,37.4734176,-1.7264203,Muumani,Makueni,Mbooni,0,22,0
+4050633,37.5008233,-1.6973494,Itulandoo,Makueni,Mbooni,1,23,0.0434782608695652
+4050634,37.5066073,-1.7085644,Kithangaini,Makueni,Mbooni,0,23,0
+4050641,37.4098355,-1.684357,Miusini,Makueni,Mbooni,0,22,0
+4050642,37.4249065,-1.6698413,Kyuu,Makueni,Mbooni,0,22,0
+4050643,37.4797457,-1.6203065,Uvi,Makueni,Mbooni,0,22,0
+4050644,37.465321,-1.6218937,Mbooni,Makueni,Mbooni,0,22,0
+4050651,37.3912666,-1.5642827,Kyangusya,Makueni,Mbooni,0,22,0
+4050652,37.3453704,-1.5598473,Kango,Makueni,Mbooni,0,22,0
+4050653,37.4298872,-1.5486816,Uvaani,Makueni,Mbooni,1,22,0.0454545454545455
+4050654,37.4121492,-1.6236675,Mavindu,Makueni,Mbooni,0,22,0
+4050661,37.620349,-1.7228974,Mituvu,Makueni,Mbooni,0,22,0
+4050662,37.6531336,-1.6430326,Kyaluma,Makueni,Mbooni,0,22,0
+4050663,37.6018783,-1.5791267,Mithumo,Makueni,Mbooni,0,22,0
+4050664,37.6649287,-1.7281111,Kyaume,Makueni,Mbooni,0,22,0
+4060111,38.0283656,-1.3719421,Makutano Primary School,Kitui,Kitui Central,0,22,0
+4060112,38.0236284,-1.3547017,Kwa Ngindu Primary School,Kitui,Kitui Central,0,22,0
+4060113,38.04638,-1.3575617,Kalawa Primary School,Kitui,Kitui Central,0,23,0
+4060114,38.0534283,-1.312631,Kyalilini Primary School,Kitui,Kitui Central,0,22,0
+4060121,37.9065036,-1.4009433,Tiva Primary School,Kitui,Kitui Central,0,22,0
+4060122,37.9834402,-1.3714113,Ithookwe Primary School,Kitui,Kitui Central,0,22,0
+4060123,37.9608014,-1.4036665,Kwa Ikolanya Primary School,Kitui,Kitui Central,0,22,0
+4060124,37.898277,-1.3597019,Ndumoni Primary School,Kitui,Kitui Central,0,22,0
+4060131,38.1182676,-1.2714075,Miambani Primary School,Kitui,Kitui Central,0,22,0
+4060132,38.072125,-1.2803131,Vinda Primary School,Kitui,Kitui Central,0,22,0
+4060133,38.12281,-1.3418803,Mutukya Primary School,Kitui,Kitui Central,0,22,0
+4060134,38.1502872,-1.1697925,Mikuyuni Primary School,Kitui,Kitui Central,0,22,0
+4060141,37.9587602,-1.4847911,Kyangunga Primary School,Kitui,Kitui Central,0,22,0
+4060142,37.9457552,-1.4891438,Katulani Primary School,Kitui,Kitui Central,0,22,0
+4060143,37.9782282,-1.4071344,Wii Primary School,Kitui,Kitui Central,0,22,0
+4060151,38.0123789,-1.3454614,Ngiini Primary School,Kitui,Kitui Central,0,21,0
+4060152,38.0110294,-1.365312,Central Primary School,Kitui,Kitui Central,0,22,0
+4060153,37.9976184,-1.3247349,Mutendea Primary School,Kitui,Kitui Central,0,22,0
+4060154,37.9963698,-1.3852521,Manyenyoni Primary School,Kitui,Kitui Central,0,22,0
+4060211,38.0938483,-1.50688,Nzangathi,Kitui,Kitui East,0,22,0
+4060212,38.1047543,-1.3623762,Kanzooko,Kitui,Kitui East,0,22,0
+4060213,38.1421665,-1.4166612,Inyuu,Kitui,Kitui East,0,1,0
+4060214,38.1508125,-1.547382,Kivutini,Kitui,Kitui East,0,20,0
+4060221,38.5729031,-1.1438293,Makuka,Kitui,Kitui East,0,22,0
+4060222,38.5364776,-1.1087939,Ndooni,Kitui,Kitui East,0,22,0
+4060223,38.6305699,-1.2786981,Koi,Kitui,Kitui East,0,22,0
+4060224,38.6514532,-1.2293572,Twambui,Kitui,Kitui East,0,23,0
+4060231,38.2100635,-1.1734312,Yoonye,Kitui,Kitui East,0,22,0
+4060232,38.3618102,-1.2061618,Kaayo,Kitui,Kitui East,0,22,0
+4060233,38.4015445,-1.2187444,Syombya,Kitui,Kitui East,0,22,0
+4060234,38.2461658,-1.2923858,Ivuuni,Kitui,Kitui East,0,22,0
+4060241,38.0647446,-1.4374999,Kiini,Kitui,Kitui East,0,22,0
+4060242,38.035517,-1.3838777,Kavalula,Kitui,Kitui East,0,22,0
+4060243,38.0250975,-1.3776874,Kunguluni,Kitui,Kitui East,0,22,0
+4060244,38.0529922,-1.3987866,Kilonzo,Kitui,Kitui East,0,21,0
+4060252,38.2782767,-1.6207918,Kiangini,Kitui,Kitui East,0,22,0
+4060253,38.433254,-1.641464,Kasang U,Kitui,Kitui East,0,19,0
+4060254,38.1948032,-1.6169785,Kithanake,Kitui,Kitui East,0,22,0
+4060261,38.2501732,-1.4489317,Ngungi,Kitui,Kitui East,0,21,0
+4060262,38.2680395,-1.4957301,Kandong O,Kitui,Kitui East,0,22,0
+4060263,38.4369828,-1.40491,Yamanza,Kitui,Kitui East,0,22,0
+4060264,38.2048683,-1.4631471,Kaumu,Kitui,Kitui East,0,22,0
+4060311,37.8320316,-1.670546,Syomunyu Primary,Kitui,Kitui Rural,0,23,0
+4060312,37.85829,-1.73744,Syomakanda Primary,Kitui,Kitui Rural,0,25,0
+4060313,37.8507334,-1.7900689,Nzambia Primary,Kitui,Kitui Rural,0,22,0
+4060314,37.934585,-1.6818155,Masimba Primary,Kitui,Kitui Rural,0,22,0
+4060321,37.914872,-1.5961713,Maliku Primary,Kitui,Kitui Rural,0,23,0
+4060322,38.0119836,-1.600949,Mukameni Primary,Kitui,Kitui Rural,0,22,0
+4060323,37.992175,-1.5803134,Nguuni Primary (Kisasi),Kitui,Kitui Rural,0,22,0
+4060324,38.0451252,-1.5993513,Kisavi Primary,Kitui,Kitui Rural,0,22,0
+4060331,37.7624729,-1.5552821,Ilika Primary,Kitui,Kitui Rural,0,22,0
+4060332,37.8042206,-1.617708,Muvitha Primary,Kitui,Kitui Rural,0,21,0
+4060333,37.6604471,-1.2380112,Iyani Primary,Kitui,Kitui Rural,0,22,0
+4060334,37.8698998,-1.553966,Kathome Primary,Kitui,Kitui Rural,0,22,0
+4060341,38.0485075,-1.5004019,Mukundi Primary,Kitui,Kitui Rural,0,20,0
+4060342,37.9836388,-1.5964201,Katwala Primary,Kitui,Kitui Rural,0,22,0
+4060343,38.0735337,-1.5885737,Isovya Primary,Kitui,Kitui Rural,0,22,0
+4060411,37.8756013,-2.306824,Mwambaisyuko Pri,Kitui,Kitui South,0,22,0
+4060412,38.181893,-2.0697758,Kaivisi Pri,Kitui,Kitui South,0,22,0
+4060413,37.9708531,-2.1067543,Nzaini Pri,Kitui,Kitui South,1,21,0.0476190476190476
+4060414,38.0787924,-2.231503,Umoja Pri,Kitui,Kitui South,0,22,0
+4060421,38.1407509,-1.6628542,Ngunga Pri,Kitui,Kitui South,0,22,0
+4060422,38.1402639,-1.75315,Wingoli Pri,Kitui,Kitui South,0,22,0
+4060423,38.0860531,-1.712576,Semea Pri,Kitui,Kitui South,0,22,0
+4060424,38.0616744,-1.6966479,Chief Makau Pri,Kitui,Kitui South,0,22,0
+4060431,38.1759217,-2.0607651,Ikutha Pri,Kitui,Kitui South,0,21,0
+4060432,38.1789228,-2.0613193,Matikoni Pri,Kitui,Kitui South,0,20,0
+4060433,38.1326209,-1.9927258,Ngawuni Pri,Kitui,Kitui South,0,21,0
+4060434,38.2094192,-2.1360065,Kasarani Pri,Kitui,Kitui South,0,21,0
+4060442,38.2026587,-1.8387982,Ikilungulu Pri,Kitui,Kitui South,0,22,0
+4060451,38.5030571,-1.6638606,Kalambani Pri,Kitui,Kitui South,0,22,0
+4060452,38.5576979,-1.6741417,Ikandani Pri,Kitui,Kitui South,0,22,0
+4060453,38.4629939,-1.7117067,Ngelani Pri,Kitui,Kitui South,0,22,0
+4060454,38.4679215,-1.8174338,Ngaani Pri,Kitui,Kitui South,0,22,0
+4060461,38.245669,-1.7922781,Itumba Pri,Kitui,Kitui South,0,22,0
+4060462,38.2284101,-1.7331174,Menzai Pri,Kitui,Kitui South,0,22,0
+4060463,38.1070432,-1.8930818,Makongoni Pri,Kitui,Kitui South,0,7,0
+4060464,38.1922217,-1.7153836,Kisayani Pri,Kitui,Kitui South,0,22,0
+4060511,37.886628,-1.1696374,Matinga Primary,Kitui,Kitui West,0,23,0
+4060512,37.8037129,-1.1990008,Kyenge Primary,Kitui,Kitui West,0,22,0
+4060513,37.8295057,-1.1835376,Katutu Primary,Kitui,Kitui West,0,22,0
+4060514,37.8792882,-1.2631571,Mutini Primary,Kitui,Kitui West,0,22,0
+4060521,37.9317065,-1.2840385,Kathivo,Kitui,Kitui West,0,22,0
+4060522,37.9046278,-1.2780368,Kilimu,Kitui,Kitui West,0,21,0
+4060524,37.9814187,-1.2803293,Kyaani,Kitui,Kitui West,0,21,0
+4060531,37.9558246,-1.2929783,Kunikila,Kitui,Kitui West,0,21,0
+4060532,37.9855075,-1.2984099,Mwaani (Matinyani),Kitui,Kitui West,0,22,0
+4060533,37.9827211,-1.3255521,Mbavai,Kitui,Kitui West,0,22,0
+4060534,38.0284843,-1.2888169,Maseki,Kitui,Kitui West,0,22,0
+4060541,38.0172174,-1.1790261,Kangondi Primary,Kitui,Kitui West,0,24,0
+4060542,38.0408092,-1.1736887,Yalatani,Kitui,Kitui West,0,23,0
+4060543,38.0021201,-1.210455,Kaumoni,Kitui,Kitui West,0,22,0
+4060544,38.0041072,-1.2074403,Nguuni,Kitui,Kitui West,0,22,0
+4060611,38.0513934,-0.9357977,Kasina Primary,Kitui,Mwingi Central,0,22,0
+4060612,38.0617016,-0.9985298,Mwanyani Primary,Kitui,Mwingi Central,0,23,0
+4060613,38.1025904,-0.9794811,Kamunyu Primary,Kitui,Mwingi Central,0,22,0
+4060614,38.0615851,-0.9268796,Mwingi Primary,Kitui,Mwingi Central,0,22,0
+4060621,38.1354992,-0.9258725,Kivou Primary,Kitui,Mwingi Central,0,21,0
+4060622,38.131736,-0.8764605,Kisama Primary,Kitui,Mwingi Central,0,16,0
+4060623,38.2210446,-0.9498674,Karunga Primary,Kitui,Mwingi Central,0,22,0
+4060631,38.2255431,-1.088308,Kateiko Primary,Kitui,Mwingi Central,0,20,0
+4060632,38.173675,-1.0267817,Lundi Primary,Kitui,Mwingi Central,0,22,0
+4060634,38.2587346,-0.9934674,Kalitini Primary,Kitui,Mwingi Central,0,22,0
+4060641,38.5355588,-0.8142625,Ukasi Primary,Kitui,Mwingi Central,0,22,0
+4060642,38.2612033,-0.8254535,Mwania Primary,Kitui,Mwingi Central,0,22,0
+4060643,38.5049696,-0.7612339,Musovo Primary,Kitui,Mwingi Central,0,22,0
+4060644,38.3067448,-0.8054312,Nguni Primary,Kitui,Mwingi Central,0,22,0
+4060651,38.4031612,-0.9560069,Nguuni Primary,Kitui,Mwingi Central,0,19,0
+4060652,38.3503581,-1.1240723,Mwambiu Primary,Kitui,Mwingi Central,0,22,0
+4060653,38.3589698,-1.0607356,Nuu Primary,Kitui,Mwingi Central,3,22,0.136363636363636
+4060654,38.3289568,-0.8289975,Ndia Mumo Primary,Kitui,Mwingi Central,0,19,0
+4060661,38.2278882,-0.8562435,Enziu Primary,Kitui,Mwingi Central,1,21,0.0476190476190476
+4060662,38.0968577,-0.7836269,Waita Primary,Kitui,Mwingi Central,0,22,0
+4060663,38.1702322,-0.8535905,Kathoka Primary,Kitui,Mwingi Central,0,22,0
+4060664,38.2174332,-0.7954559,Kaunguni Primary,Kitui,Mwingi Central,0,22,0
+4060711,38.220421,-0.5485896,Kyuso Pry,Kitui,Mwingi Nort,0,22,0
+4060712,38.1889007,-0.6068509,Gai Pry,Kitui,Mwingi Nort,0,22,0
+4060713,38.2941355,-0.562151,Matooni Pry,Kitui,Mwingi Nort,0,22,0
+4060714,38.120428,-0.505571,Kariani Pry,Kitui,Mwingi Nort,0,16,0
+4060721,37.9436794,-0.6804211,Kambusu Pry,Kitui,Mwingi Nort,0,22,0
+4060722,38.10798,-0.4727399,Mbaraani Pry,Kitui,Mwingi Nort,0,22,0
+4060723,38.0656249,-0.5238015,Musosya,Kitui,Mwingi Nort,0,22,0
+4060724,38.0856601,-0.5901451,Kaliwa Pry,Kitui,Mwingi Nort,0,22,0
+4060731,38.4281958,-0.6132561,Muringani Pry,Kitui,Mwingi Nort,0,22,0
+4060732,38.4101678,-0.6419487,Ngomeni Pry,Kitui,Mwingi Nort,0,22,0
+4060733,38.4491475,-0.5894177,Mutairu Pry,Kitui,Mwingi Nort,0,22,0
+4060741,37.9777754,-0.4415375,Konyu Pry,Kitui,Mwingi Nort,0,22,0
+4060742,38.0133286,-0.2909905,Gakombe Pry,Kitui,Mwingi Nort,0,22,0
+4060743,37.9968104,-0.316845,Kalundu Pry,Kitui,Mwingi Nort,0,22,0
+4060751,38.3697848,-0.3973547,Kathuri Pry,Kitui,Mwingi Nort,0,22,0
+4060752,38.2837916,-0.3313691,Kakauni Pry,Kitui,Mwingi Nort,0,22,0
+4060753,38.3403283,-0.3452517,Mulangoni Pry,Kitui,Mwingi Nort,0,22,0
+4060754,38.3003994,-0.3461925,Kwa Nzula Pry,Kitui,Mwingi Nort,0,22,0
+4060811,37.9712963,-0.8658135,Itongolani,Kitui,Mwingi West,0,22,0
+4060812,37.9865953,-0.9815306,Mbondoni,Kitui,Mwingi West,0,22,0
+4060813,37.913852,-0.8245507,Kakongo,Kitui,Mwingi West,0,22,0
+4060814,37.9513148,-0.7773848,Wikithuki P,Kitui,Mwingi West,0,22,0
+4060821,37.8512639,-0.8222181,Thaana Nzau Primary Sch,Kitui,Mwingi West,0,22,0
+4060822,37.9094974,-0.9108617,Wikivuvwa Primary Sch,Kitui,Mwingi West,0,22,0
+4060823,37.9287684,-0.9404395,Itheanze Primary Sch,Kitui,Mwingi West,0,22,0
+4060824,37.9673502,-1.0252331,Kavaini Primary Sch,Kitui,Mwingi West,0,22,0
+4060831,38.0139154,-1.1110435,Migwani,Kitui,Mwingi West,0,22,0
+4060832,38.0217196,-1.0830438,Kyambo,Kitui,Mwingi West,0,22,0
+4060833,37.9992588,-1.0750439,Kithukumani,Kitui,Mwingi West,0,22,0
+4060834,37.980229,-1.059348,Ithambua Ngao,Kitui,Mwingi West,1,22,0.0454545454545455
+4060841,37.8745323,-1.0709238,Kakululo Primary Sch,Kitui,Mwingi West,0,22,0
+4060842,37.8854289,-1.1225571,Emivia Primary Sch,Kitui,Mwingi West,0,22,0
+4060843,37.8803442,-1.032833,Nguutani Primary Sch,Kitui,Mwingi West,0,24,0
+4060844,37.8603706,-1.005047,Katuyu Primary Sch,Kitui,Mwingi West,0,22,0
+4080111,36.9307572,-0.9051836,Gathanji,Murang A,Gatanga,0,32,0
+4080112,36.9605783,-0.9574877,Gakurari,Murang A,Gatanga,0,33,0
+4080121,37.3376265,-0.9972921,Ithanga,Murang A,Gatanga,0,32,0
+4080122,37.3303655,-0.9780241,Kanduri,Murang A,Gatanga,0,32,0
+4080123,37.3965733,-1.0360967,Ngelelya,Murang A,Gatanga,0,32,0
+4080131,37.1550389,-1.0270075,Swani,Murang A,Gatanga,0,32,0
+4080132,37.1207674,-1.0191099,Kihunguro,Murang A,Gatanga,0,32,0
+4080141,36.8812027,-0.8285178,Kanunga,Murang A,Gatanga,0,32,0
+4080142,36.9007675,-0.8449926,Kiangigi,Murang A,Gatanga,0,32,0
+4080143,36.8202317,-0.8439517,Karega,Murang A,Gatanga,0,32,0
+4080151,36.9874365,-0.927043,Kihumbuini,Murang A,Gatanga,0,32,0
+4080152,36.9982621,-0.92605,Nyaga,Murang A,Gatanga,0,33,0
+4080161,36.966881,-0.9533637,Ithang  Arari,Murang A,Gatanga,0,32,0
+4080162,37.0328459,-0.9767293,Muteria,Murang A,Gatanga,0,32,0
+4080163,36.9816725,-0.9733702,Kigio,Murang A,Gatanga,0,32,0
+4080211,36.9739576,-0.8330357,Kariua,Murang A,Kandara,0,32,0
+4080212,36.9798658,-0.8453363,Githaiti,Murang A,Kandara,0,32,0
+4080221,36.9717467,-0.8900368,Karembuini,Murang A,Kandara,0,34,0
+4080222,36.9721038,-0.9001297,Gathugu,Murang A,Kandara,0,34,0
+4080223,36.9542985,-0.8829682,Kirigithu,Murang A,Kandara,0,33,0
+4080231,37.0906815,-0.9255365,Ngaaini,Murang A,Kandara,0,34,0
+4080232,37.0351651,-0.8751433,Gathige,Murang A,Kandara,0,32,0
+4080241,37.0975901,-0.9659158,Makindi,Murang A,Kandara,0,32,0
+4080242,37.0599165,-0.9268764,Karumu,Murang A,Kandara,0,32,0
+4080243,37.0457542,-0.9455241,Mugecha,Murang A,Kandara,0,33,0
+4080251,37.0209767,-0.946775,Ngararia,Murang A,Kandara,0,32,0
+4080252,37.0400382,-0.9569179,Waitua,Murang A,Kandara,0,32,0
+4080261,36.8993889,-0.8175905,Gichagi Ini,Murang A,Kandara,0,34,0
+4080262,36.9486179,-0.8445369,Kamicege,Murang A,Kandara,0,34,0
+4080263,36.8929754,-0.8137275,Kiangari,Murang A,Kandara,0,34,0
+4080311,36.9572975,-0.7133579,Githiga,Murang A,Kangema,0,32,0
+4080312,36.9178955,-0.6970305,Kibutha,Murang A,Kangema,0,32,0
+4080313,36.8240785,-0.7077697,Nduini,Murang A,Kangema,0,31,0
+4080314,36.9859712,-0.6930885,Kiangunyi,Murang A,Kangema,0,32,0
+4080315,36.8853166,-0.6938545,Ngoa-Ini,Murang A,Kangema,0,32,0
+4080321,37.0388785,-0.6984246,Thirikwa,Murang A,Kangema,0,32,0
+4080322,37.1077118,-0.7054408,Mugechi Kaboro,Murang A,Kangema,0,31,0
+4080323,37.0156747,-0.6868908,Gikui,Murang A,Kangema,0,32,0
+4080324,37.0077119,-0.6805947,Ihiga,Murang A,Kangema,0,32,0
+4080325,36.9999609,-0.6964468,Ngooro,Murang A,Kangema,0,32,0
+4080331,36.8389029,-0.6592733,Wanjerere,Murang A,Kangema,0,32,0
+4080332,36.9174182,-0.6669455,Rwathia,Murang A,Kangema,0,32,0
+4080333,36.8685433,-0.649635,Nyagatugu,Murang A,Kangema,0,30,0
+4080334,36.9173944,-0.6542576,Kayu,Murang A,Kangema,1,32,0.03125
+4080335,36.8832917,-0.6445219,Gachogi,Murang A,Kangema,0,32,0
+4080411,37.0766927,-0.8611135,Gakuyu,Murang A,Kigumo,0,32,0
+4080412,37.0475812,-0.8262034,Kahumbu,Murang A,Kigumo,0,32,0
+4080413,37.1354702,-0.8709759,Gakarati,Murang A,Kigumo,0,32,0
+4080421,36.820122,-0.7670433,Mairi,Murang A,Kigumo,0,32,0
+4080422,36.8236273,-0.7790993,Gatia Ini,Murang A,Kigumo,0,32,0
+4080423,36.8147027,-0.7877535,Kanderendu,Murang A,Kigumo,0,32,0
+4080431,36.9549112,-0.8007872,Kigumo,Murang A,Kigumo,0,32,0
+4080432,37.0099541,-0.7960582,Mutunguru,Murang A,Kigumo,0,32,0
+4080433,36.9915032,-0.8076565,Kaimiri,Murang A,Kigumo,0,31,0
+4080441,36.9519239,-0.8176821,Gatumbi,Murang A,Kigumo,0,33,0
+4080442,36.8719914,-0.7501029,Muiria,Murang A,Kigumo,0,33,0
+4080443,36.9799198,-0.7864367,Kamung Ang A,Murang A,Kigumo,1,34,0.0294117647058824
+4080451,37.0985469,-0.8375808,Gachathiini,Murang A,Kigumo,0,34,0
+4080452,37.0841867,-0.8357204,Thamara,Murang A,Kigumo,0,32,0
+4080453,37.040185,-0.817923,Gikondi,Murang A,Kigumo,0,32,0
+4080511,37.0567214,-0.6317826,Gathukeini,Murang A,Kiharu,0,32,0
+4080512,37.0383398,-0.6380522,Muringa,Murang A,Kiharu,0,32,0
+4080521,37.2141167,-0.735245,Marewa,Murang A,Kiharu,0,32,0
+4080522,37.1332803,-0.7536149,Kiangochi,Murang A,Kiharu,0,32,0
+4080523,37.1193033,-0.734607,Githuguya,Murang A,Kiharu,0,32,0
+4080531,36.9789642,-0.748387,Kiboi,Murang A,Kiharu,0,32,0
+4080532,36.968544,-0.7606457,Muthiria,Murang A,Kiharu,0,32,0
+4080541,36.898603,-0.7462326,Mariaini,Murang A,Kiharu,0,32,0
+4080542,36.9475646,-0.7329231,Kairichi,Murang A,Kiharu,0,32,0
+4080543,36.8806823,-0.7331117,Gatara,Murang A,Kiharu,0,32,0
+4080551,37.1555782,-0.7270577,Mjini,Murang A,Kiharu,0,32,0
+4080552,37.1619285,-0.7264735,Mbiri,Murang A,Kiharu,0,32,0
+4080561,36.9950114,-0.7171733,Gitie,Murang A,Kiharu,0,32,0
+4080562,37.0682101,-0.7318932,Gatheru,Murang A,Kiharu,0,32,0
+4080563,37.0493654,-0.7282439,Gitui,Murang A,Kiharu,0,32,0
+4080611,37.1346474,-0.8092911,Gathunguri,Murang A,Maragwa,0,32,0
+4080612,37.1605645,-0.8256267,Wairuri,Murang A,Maragwa,0,32,0
+4080621,37.1808585,-0.8476907,Thaara,Murang A,Maragwa,0,32,0
+4080622,37.1841503,-0.8207715,Igikiro,Murang A,Maragwa,0,32,0
+4080623,37.1799771,-0.7976654,Iganjo,Murang A,Maragwa,0,32,0
+4080631,37.2442252,-0.8886899,Kihara,Murang A,Maragwa,0,32,0
+4080632,37.2291522,-0.8275769,Mathengeta,Murang A,Maragwa,0,32,0
+4080641,37.1203514,-0.9539205,Githanji,Murang A,Maragwa,1,32,0.03125
+4080642,37.1297982,-0.92505,Kagaa,Murang A,Maragwa,0,32,0
+4080643,37.1378505,-0.9960467,Peter Kariuki,Murang A,Maragwa,0,32,0
+4080651,37.2399452,-0.8631489,Marema,Murang A,Maragwa,0,33,0
+4080652,37.281379,-0.9477246,Mutithi,Murang A,Maragwa,0,32,0
+4080661,37.0579901,-0.7878297,Ihumbu,Murang A,Maragwa,0,32,0
+4080662,37.041195,-0.799855,Itaaga,Murang A,Maragwa,0,32,0
+4080663,37.1056717,-0.7846239,Gakoigo,Murang A,Maragwa,0,32,0
+4080711,36.9565489,-0.6632718,Mihuti,Murang A,Mathioya,0,32,0
+4080712,36.9176758,-0.6396836,Kirimahiga,Murang A,Mathioya,1,32,0.03125
+4080713,37.0566793,-0.661994,Kambara,Murang A,Mathioya,0,32,0
+4080714,36.952491,-0.6421712,Njumbi,Murang A,Mathioya,0,32,0
+4080715,37.0221512,-0.6512942,Gitugi,Murang A,Mathioya,0,32,0
+4080721,36.992578,-0.5868303,Wahundura,Murang A,Mathioya,0,32,0
+4080722,36.9719571,-0.6037333,Gikindu,Murang A,Mathioya,0,32,0
+4080723,36.9838338,-0.6101281,Kangongi,Murang A,Mathioya,0,32,0
+4080724,37.0107637,-0.5994957,Ngamba,Murang A,Mathioya,0,32,0
+4080725,37.0521873,-0.6047802,Karugiro,Murang A,Mathioya,0,32,0
+4080731,36.996949,-0.6244785,Mananga,Murang A,Mathioya,0,32,0
+4080732,36.9375185,-0.6214259,Umbui,Murang A,Mathioya,0,32,0
+4080733,36.9484015,-0.6084259,Kiiru,Murang A,Mathioya,1,32,0.03125
+4080734,37.0109633,-0.630735,Kora,Murang A,Mathioya,0,32,0
+4080735,36.8185215,-0.6188277,Ruru Pri,Murang A,Mathioya,0,32,0
+4090111,36.9654679,-0.9787118,Makwa,Kiambu,Gatundu North,0,32,0
+4090112,36.9261843,-0.956804,Wandui,Kiambu,Gatundu North,0,32,0
+4090113,36.9449899,-0.9765328,Muirigo,Kiambu,Gatundu North,0,32,0
+4090114,36.88279,-0.948125,Kanjuku,Kiambu,Gatundu North,1,32,0.03125
+4090121,36.7847102,-0.8816241,Kihunjio Ini,Kiambu,Gatundu North,0,32,0
+4090122,36.8101537,-0.9219224,Miiri,Kiambu,Gatundu North,0,32,0
+4090123,36.8871688,-0.9618196,Gatei,Kiambu,Gatundu North,0,32,0
+4090124,36.7925217,-0.9096783,Makohokoho,Kiambu,Gatundu North,0,32,0
+4090131,36.8283249,-0.8932967,Muhindi,Kiambu,Gatundu North,0,32,0
+4090132,36.7983686,-0.8766596,Muchakai,Kiambu,Gatundu North,0,32,0
+4090133,36.7955144,-0.8595505,Miugu,Kiambu,Gatundu North,0,32,0
+4090134,36.8606891,-0.9095631,Iruri,Kiambu,Gatundu North,0,32,0
+4090142,36.9565273,-1.0078342,Mutuma,Kiambu,Gatundu North,0,32,0
+4090143,36.9552501,-0.9881033,St Francis (Mang U),Kiambu,Gatundu North,0,32,0
+4090144,36.916572,-0.9602259,Nyamathumbi,Kiambu,Gatundu North,0,32,0
+4090211,36.8480261,-1.0185068,Gatitu,Kiambu,Gatundu South,0,30,0
+4090212,36.8714183,-1.0233075,Thaara (Kiamwangi),Kiambu,Gatundu South,0,30,0
+4090213,36.8750001,-1.0408115,Kagera,Kiambu,Gatundu South,0,30,0
+4090214,36.8882781,-1.037455,Ngenda,Kiambu,Gatundu South,0,30,0
+4090221,36.8443883,-1.0297589,Kigaa,Kiambu,Gatundu South,0,30,0
+4090222,36.7652812,-0.9540153,Uceke- Ini,Kiambu,Gatundu South,0,31,0
+4090223,36.7488547,-0.9537911,Gathiru,Kiambu,Gatundu South,0,30,0
+4090231,36.8422877,-0.9614259,Karinga,Kiambu,Gatundu South,0,30,0
+4090232,36.8676526,-0.9628562,Ruburi,Kiambu,Gatundu South,0,30,0
+4090233,36.8090117,-0.9472614,Kamutua,Kiambu,Gatundu South,0,30,0
+4090234,36.8472334,-0.9504025,Mbogoro,Kiambu,Gatundu South,0,30,0
+4090241,36.9124713,-1.0445334,Wamitaa,Kiambu,Gatundu South,0,32,0
+4090242,36.9227733,-1.0070883,Wamwangi,Kiambu,Gatundu South,0,30,0
+4090243,36.9404544,-1.0550285,Kimunyu,Kiambu,Gatundu South,0,29,0
+4090244,36.9060502,-1.0339348,Kahugu Ini,Kiambu,Gatundu South,0,30,0
+4090311,36.7084054,-1.0675044,Gathangari,Kiambu,Githunguri,0,32,0
+4090312,36.695044,-1.0756347,Gatina,Kiambu,Githunguri,0,33,0
+4090313,36.7450895,-1.0783882,Matuguta,Kiambu,Githunguri,0,32,0
+4090321,36.7749702,-1.0600647,Ciiko,Kiambu,Githunguri,0,32,0
+4090322,36.8053266,-1.0472311,Kindiga,Kiambu,Githunguri,0,33,0
+4090323,36.7616982,-1.0544386,Kahunira,Kiambu,Githunguri,0,32,0
+4090341,36.8432142,-1.1125625,Lioki,Kiambu,Githunguri,0,32,0
+4090342,36.7870672,-1.1074104,Kiababu,Kiambu,Githunguri,0,32,0
+4090343,36.767442,-1.0977815,Gathaithi,Kiambu,Githunguri,0,32,0
+4090351,36.787447,-0.9977072,Githima,Kiambu,Githunguri,0,32,0
+4090352,36.8607289,-1.0661474,Komothai,Kiambu,Githunguri,0,32,0
+4090353,36.8635655,-1.0501405,Kagema,Kiambu,Githunguri,0,32,0
+4090361,36.8069509,-1.0643037,Kanjai,Kiambu,Githunguri,0,32,0
+4090362,36.8596365,-1.0852933,Nyaga (Ngewa),Kiambu,Githunguri,0,32,0
+4090363,36.866663,-1.0963264,Ngewa,Kiambu,Githunguri,0,32,0
+4090411,36.9361368,-1.1510844,Kia-Ora,Kiambu,Juja,0,32,0
+4090412,36.973125,-1.077905,Kibii,Kiambu,Juja,0,33,0
+4090413,37.0103401,-1.1019933,St Pauls Gachororo,Kiambu,Juja,0,33,0
+4090421,37.0814506,-1.1602154,Juja Farm,Kiambu,Juja,0,32,0
+4090422,37.146745,-1.1668667,Athi,Kiambu,Juja,0,32,0
+4090423,37.0063503,-1.1286292,St Francis,Kiambu,Juja,0,32,0
+4090431,36.9785408,-1.125247,Gsu,Kiambu,Juja,0,32,0
+4090432,36.9613625,-1.0947635,Ruera,Kiambu,Juja,0,32,0
+4090433,37.020824,-1.1498326,Magomano,Kiambu,Juja,0,33,0
+4090441,37.0010807,-1.1461065,Rurii,Kiambu,Juja,0,32,0
+4090442,36.9935866,-1.1570169,Kumura,Kiambu,Juja,1,32,0.03125
+4090443,36.9767733,-1.1492638,Thome,Kiambu,Juja,0,32,0
+4090451,37.0453317,-1.076295,Kuraiha,Kiambu,Juja,0,34,0
+4090452,37.0619104,-1.0946588,Nyacaba,Kiambu,Juja,0,32,0
+4090453,37.0868146,-1.1627851,Muthaara,Kiambu,Juja,0,35,0
+4090511,36.6872341,-1.2283123,Gataara,Kiambu,Kabete,0,32,0
+4090512,36.675264,-1.2429229,Rungiri Pri,Kiambu,Kabete,0,32,0
+4090513,36.6889715,-1.2300159,Kanyariri,Kiambu,Kabete,0,32,0
+4090521,36.7066663,-1.2277576,Kingeero,Kiambu,Kabete,0,32,0
+4090522,36.716015,-1.2357667,Ndongoro,Kiambu,Kabete,0,32,0
+4090523,36.73437,-1.229329,Kibiciku,Kiambu,Kabete,0,32,0
+4090524,36.7119773,-1.2195039,Wangige,Kiambu,Kabete,2,32,0.0625
+4090531,36.655404,-1.1917729,Muguga,Kiambu,Kabete,0,32,0
+4090532,36.6612654,-1.2087064,Kamuguga,Kiambu,Kabete,0,32,0
+4090541,36.7014015,-1.2000427,Kirangari,Kiambu,Kabete,0,32,0
+4090543,36.7481438,-1.2235335,Gathiga,Kiambu,Kabete,0,32,0
+4090551,36.7111877,-1.2581849,Uthiru,Kiambu,Kabete,0,32,0
+4090552,36.7087532,-1.2530159,High Hope Academy,Kiambu,Kabete,0,32,0
+4090553,36.7206099,-1.2547329,Acacia Academy,Kiambu,Kabete,0,10,0
+4090611,36.7325291,-1.1324399,Gatono,Kiambu,Kiambaa,0,32,0
+4090612,36.7342129,-1.164364,Raini,Kiambu,Kiambaa,0,32,0
+4090613,36.773404,-1.1623358,Kibubuti,Kiambu,Kiambaa,0,32,0
+4090621,36.7433431,-1.1755003,Muthurwa,Kiambu,Kiambaa,0,32,0
+4090622,36.7637027,-1.1794752,Thimbigua,Kiambu,Kiambaa,0,32,0
+4090623,36.7552486,-1.1787785,Kibathi,Kiambu,Kiambaa,0,32,0
+4090631,36.7727567,-1.2181683,Lower Kihara,Kiambu,Kiambaa,0,32,0
+4090632,36.7680799,-1.2165181,Kamuiru (Kihara),Kiambu,Kiambaa,0,32,0
+4090633,36.766245,-1.2140867,Gacii,Kiambu,Kiambaa,0,32,0
+4090641,36.7894768,-1.1893233,Waguthu,Kiambu,Kiambaa,0,32,0
+4090642,36.7953519,-1.192467,Mayuyu Pry,Kiambu,Kiambaa,0,32,0
+4090643,36.7739673,-1.1890157,Muchatha,Kiambu,Kiambaa,0,32,0
+4090651,36.7382287,-1.2077274,Kihara (Ndenderu),Kiambu,Kiambaa,0,32,0
+4090652,36.7333712,-1.1954196,Wangunyu,Kiambu,Kiambaa,0,32,0
+4090653,36.7244193,-1.2003795,Karura,Kiambu,Kiambaa,0,32,0
+4090711,36.8224599,-1.1793858,Ngegu,Kiambu,Kiambu,0,32,0
+4090712,36.8008184,-1.1527731,Karia Ini,Kiambu,Kiambu,0,32,0
+4090713,36.808548,-1.1647078,Kangoya,Kiambu,Kiambu,0,31,0
+4090714,36.8020064,-1.150608,Ndumberi,Kiambu,Kiambu,0,30,0
+4090721,36.8238238,-1.1509326,Riabai,Kiambu,Kiambu,0,32,0
+4090722,36.8232335,-1.1504002,Gicoco,Kiambu,Kiambu,0,32,0
+4090723,36.8489646,-1.1636907,Chief Wandie,Kiambu,Kiambu,0,32,0
+4090731,36.8312537,-1.1410556,Benson Njau,Kiambu,Kiambu,0,31,0
+4090732,36.8496927,-1.1595921,Maciri,Kiambu,Kiambu,0,32,0
+4090733,36.8096053,-1.1328635,Tinganga Hgm,Kiambu,Kiambu,0,32,0
+4090734,36.8696567,-1.1429263,Kongo,Kiambu,Kiambu,0,32,0
+4090741,36.8889355,-1.18316,Mary Immaculate,Kiambu,Kiambu,0,32,0
+4090742,36.8248952,-1.1993279,Kasarini,Kiambu,Kiambu,0,32,0
+4090744,36.8290077,-1.1698344,Kiambu,Kiambu,Kiambu,0,32,0
+4090811,36.6713383,-1.306495,Gitiba,Kiambu,Kikuyu,0,33,0
+4090812,36.6391666,-1.2943419,Riu Nderi,Kiambu,Kikuyu,0,35,0
+4090813,36.6411999,-1.2754581,Gicharani,Kiambu,Kikuyu,0,30,0
+4090821,36.6725449,-1.2769273,Thirime,Kiambu,Kikuyu,0,30,0
+4090822,36.6710258,-1.2701329,P.c.e.a Kimuri,Kiambu,Kikuyu,0,31,0
+4090823,36.6709977,-1.2667705,Musa Gitau,Kiambu,Kikuyu,0,33,0
+4090824,36.6617182,-1.243517,Kikuyu Township,Kiambu,Kikuyu,0,33,0
+4090831,36.6918394,-1.2481366,Kinoo,Kiambu,Kikuyu,0,33,0
+4090832,36.6963373,-1.2576528,Mama Ngina,Kiambu,Kikuyu,0,33,0
+4090841,36.5779139,-1.2345039,Ndigu-Ini,Kiambu,Kikuyu,0,32,0
+4090842,36.5687202,-1.2637769,Gatune,Kiambu,Kikuyu,0,33,0
+4090843,36.6154265,-1.2249383,Renguti,Kiambu,Kikuyu,0,31,0
+4090851,36.6409479,-1.2086382,Nguriunditu,Kiambu,Kikuyu,0,32,0
+4090852,36.6399533,-1.2102233,Utafiti,Kiambu,Kikuyu,0,33,0
+4090853,36.6305587,-1.1724904,Kerwa,Kiambu,Kikuyu,0,32,0
+4090911,36.7222065,-1.0421558,Kagaa Pry,Kiambu,Lari,0,32,0
+4090912,36.7498228,-1.0266476,Gathima,Kiambu,Lari,0,32,0
+4090913,36.7837696,-1.0315875,Kamuchege (Kamburu),Kiambu,Lari,0,32,0
+4090921,36.63688,-0.9920148,Mukeu,Kiambu,Lari,0,32,0
+4090922,36.6334096,-0.9839088,Kimende,Kiambu,Lari,0,32,0
+4090923,36.6185051,-0.9812398,Matathia (Kijabe),Kiambu,Lari,0,32,0
+4090931,36.6132057,-0.9116468,Mirangi,Kiambu,Lari,0,32,0
+4090932,36.6333557,-0.9028316,Kinale,Kiambu,Lari,0,32,0
+4090933,36.6279419,-0.8458348,Kamae,Kiambu,Lari,0,32,0
+4090941,36.651479,-1.0192299,Nyamweru,Kiambu,Lari,0,34,0
+4090942,36.6287771,-1.0080148,Kirenga,Kiambu,Lari,0,33,0
+4090943,36.6144379,-1.0132667,Escarpment,Kiambu,Lari,0,32,0
+4090951,36.7463152,-1.0039233,Kagwe Township,Kiambu,Lari,0,32,0
+4090952,36.76526,-1.0017862,Karatina,Kiambu,Lari,0,32,0
+4090953,36.7232024,-0.970757,Kaguongo,Kiambu,Lari,0,32,0
+4091011,36.6316701,-1.0695681,Murengeti,Kiambu,Limuru,0,32,0
+4091012,36.6366827,-1.1023966,Manguo,Kiambu,Limuru,0,31,0
+4091013,36.6183348,-1.0819351,Bibirioni Pri,Kiambu,Limuru,0,32,0
+4091021,36.6384515,-1.1553888,Rironi,Kiambu,Limuru,0,31,0
+4091022,36.6501624,-1.1562195,Gatimu,Kiambu,Limuru,0,33,0
+4091023,36.6376516,-1.1634312,Nyoro,Kiambu,Limuru,0,31,0
+4091031,36.7112214,-1.1028986,Kiawaroga,Kiambu,Limuru,0,32,0
+4091032,36.6757937,-1.0991651,Rwaka,Kiambu,Limuru,0,31,0
+4091033,36.6520029,-1.1221587,Limuru Mission,Kiambu,Limuru,0,33,0
+4091041,36.6081026,-1.1535572,Mirithu,Kiambu,Limuru,0,30,0
+4091042,36.6045377,-1.1433225,Nderu,Kiambu,Limuru,0,32,0
+4091043,36.582844,-1.1718848,Kiawanda,Kiambu,Limuru,0,32,0
+4091051,36.6695286,-1.1724192,Ngecha,Kiambu,Limuru,0,31,0
+4091052,36.675455,-1.1301866,Tigoni,Kiambu,Limuru,0,31,0
+4091053,36.6707,-1.15728,Kabuku,Kiambu,Limuru,0,30,0
+4091111,36.9535156,-1.1469418,Ruiru,Kiambu,Ruiru,0,32,0
+4091112,36.950304,-1.1525708,Matopeni,Kiambu,Ruiru,0,32,0
+4091121,36.9711217,-1.1623327,Gatongora,Kiambu,Ruiru,0,32,0
+4091122,36.9889071,-1.1621637,Kwihota,Kiambu,Ruiru,0,32,0
+4091123,37.0814044,-1.1871928,Gikumari,Kiambu,Ruiru,0,32,0
+4091131,36.9317191,-1.1445518,Mukuyu,Kiambu,Ruiru,0,32,0
+4091132,36.9296684,-1.1537796,Gitothua,Kiambu,Ruiru,0,34,0
+4091141,36.9281253,-1.200921,Kahawa Wendani Pri,Kiambu,Ruiru,0,32,0
+4091151,36.960605,-1.1982001,Ndii Ini,Kiambu,Ruiru,0,32,0
+4091161,36.9378258,-1.2216655,Manguu [ Githurai},Kiambu,Ruiru,0,32,0
+4091162,36.9332056,-1.2031039,Kwa Ngethe,Kiambu,Ruiru,0,32,0
+4091163,36.9328656,-1.2104002,Kimbo Githurai,Kiambu,Ruiru,0,32,0
+4091171,36.9757189,-1.2143527,Mutuya,Kiambu,Ruiru,0,32,0
+4091172,36.9648041,-1.2106511,Mwihoko Pr,Kiambu,Ruiru,0,32,0
+4091181,36.9178436,-1.2127228,Mwiki Pry,Kiambu,Ruiru,0,32,0
+4091211,37.1517821,-1.1221116,Komo Pry,Kiambu,Thika Town,0,32,0
+4091212,37.1782977,-1.0607015,Gatuanyaga Pry,Kiambu,Thika Town,1,32,0.03125
+4091213,37.1768031,-1.0994096,Magana,Kiambu,Thika Town,0,33,0
+4091221,37.0943982,-1.0418504,Holy Rosary Pri,Kiambu,Thika Town,0,33,0
+4091222,37.0824593,-1.0396659,Jamhuri,Kiambu,Thika Town,0,32,0
+4091223,37.1165064,-1.0490407,Umoja,Kiambu,Thika Town,0,32,0
+4091231,37.1071283,-1.0904683,Kiganjo Pri,Kiambu,Thika Town,0,32,0
+4091232,37.148883,-1.0652022,Mt View,Kiambu,Thika Town,0,32,0
+4091233,37.0924113,-1.0791597,Kimuchu,Kiambu,Thika Town,0,32,0
+4091241,37.2836367,-1.0643917,Power Line ( Public),Kiambu,Thika Town,0,32,0
+4091242,37.2791708,-1.0537239,Matathia,Kiambu,Thika Town,1,34,0.0294117647058824
+4091243,37.2383631,-1.0714053,St. Mary S Kilimambogo,Kiambu,Thika Town,0,33,0
+4091251,37.0750201,-1.0535444,Kianjau,Kiambu,Thika Town,0,32,0
+4091252,37.084072,-1.0454575,General Kago,Kiambu,Thika Town,4,33,0.121212121212121
+4091253,37.0349056,-1.0368851,Kisiwa,Kiambu,Thika Town,0,32,0
+4100111,36.5868331,-0.6284652,Mbirithi,Nyandarua,Kinangop,0,34,0
+4100121,36.616051,-0.6322214,Gathara,Nyandarua,Kinangop,1,33,0.0303030303030303
+4100122,36.6069574,-0.6457657,Tulaga,Nyandarua,Kinangop,0,32,0
+4100131,36.5675398,-0.7348693,Githabai,Nyandarua,Kinangop,0,32,0
+4100132,36.6007321,-0.701262,Kamunyaka,Nyandarua,Kinangop,0,33,0
+4100141,36.5735946,-0.8753506,Mutonyora,Nyandarua,Kinangop,0,32,0
+4100142,36.5636751,-0.8039069,Kenyatta Road,Nyandarua,Kinangop,0,31,0
+4100151,36.4646267,-0.5590574,Mwihoti,Nyandarua,Kinangop,0,32,0
+4100152,36.5554689,-0.5236857,Mkungi,Nyandarua,Kinangop,0,32,0
+4100161,36.6632911,-0.7560349,Churiri,Nyandarua,Kinangop,0,32,0
+4100162,36.6539175,-0.6971421,Sasumua,Nyandarua,Kinangop,0,32,0
+4100171,36.6365632,-0.7283622,Aberdare,Nyandarua,Kinangop,0,32,0
+4100172,36.5815287,-0.5933439,Kiambariki,Nyandarua,Kinangop,0,31,0
+4100181,36.60478,-0.7917867,Mukiri Primary,Nyandarua,Kinangop,0,32,0
+4100182,36.6469475,-0.7581446,Cheese,Nyandarua,Kinangop,0,32,0
+4100211,36.5838889,-0.4114688,Marimu,Nyandarua,Kipipiri,0,32,0
+4100212,36.4128487,-0.6899312,Kiambogo,Nyandarua,Kipipiri,0,32,0
+4100213,36.5871324,-0.4153332,Gathuthi,Nyandarua,Kipipiri,0,33,0
+4100221,36.5139524,-0.4845937,St Peters,Nyandarua,Kipipiri,0,32,0
+4100222,36.4186897,-0.4830657,Karuri,Nyandarua,Kipipiri,0,32,0
+4100223,36.537752,-0.3480211,Kimbo,Nyandarua,Kipipiri,0,30,0
+4100224,36.4609854,-0.4547119,Migaa,Nyandarua,Kipipiri,0,32,0
+4100231,36.4279618,-0.4309316,Kabati,Nyandarua,Kipipiri,0,33,0
+4100232,36.4577803,-0.3956784,Mahinga,Nyandarua,Kipipiri,0,33,0
+4100233,36.4910071,-0.5193932,Mumui,Nyandarua,Kipipiri,0,32,0
+4100234,36.4585365,-0.4114225,Machinery,Nyandarua,Kipipiri,0,32,0
+4100241,36.4468535,-0.3235613,Mwireri,Nyandarua,Kipipiri,0,32,0
+4100242,36.5086227,-0.4718739,Gatondo,Nyandarua,Kipipiri,0,30,0
+4100243,36.5271452,-0.3662789,Kigogo,Nyandarua,Kipipiri,0,30,0
+4100244,36.5163562,-0.3428063,Michore,Nyandarua,Kipipiri,0,30,0
+4100311,36.4941269,-0.0724289,Kihara,Nyandarua,Ndaragwa,0,33,0
+4100312,36.6344071,-0.1436765,Kariki,Nyandarua,Ndaragwa,0,32,0
+4100313,36.4971175,-0.0728268,Mukambura,Nyandarua,Ndaragwa,0,31,0
+4100321,36.4131212,0.0261774,Ritaya,Nyandarua,Ndaragwa,0,32,0
+4100322,36.4504785,0.0465811,Kwanjora,Nyandarua,Ndaragwa,0,32,0
+4100323,36.4034977,0.0298545,Kimaru,Nyandarua,Ndaragwa,0,33,0
+4100324,36.4243169,0.0437315,Ngaindethia,Nyandarua,Ndaragwa,0,32,0
+4100332,36.458317,0.0981092,Raichiri,Nyandarua,Ndaragwa,0,32,0
+4100333,36.5110573,0.0098864,Mbuyu,Nyandarua,Ndaragwa,0,32,0
+4100334,36.4991441,0.0420013,Nyakinyua,Nyandarua,Ndaragwa,0,32,0
+4100341,36.5320974,-0.1170806,Pesi,Nyandarua,Ndaragwa,0,32,0
+4100342,36.4564384,-0.2189801,Kanjogu,Nyandarua,Ndaragwa,0,30,0
+4100343,36.4907513,-0.2151549,Kahindu,Nyandarua,Ndaragwa,0,32,0
+4100344,36.5255525,-0.1737017,Mwihangia,Nyandarua,Ndaragwa,0,32,0
+4100411,36.3113446,-0.1432412,Uhuru,Nyandarua,Ol Jorok,0,32,0
+4100412,36.3153098,-0.0905603,Kimathi,Nyandarua,Ol Jorok,0,32,0
+4100413,36.3217478,-0.0694923,Matindiri,Nyandarua,Ol Jorok,0,32,0
+4100421,36.2620037,-0.0987632,Bidii,Nyandarua,Ol Jorok,0,32,0
+4100422,36.2775108,-0.024562,Kiheo,Nyandarua,Ol Jorok,0,32,0
+4100423,36.3107068,-0.0159554,Gathanji,Nyandarua,Ol Jorok,0,32,0
+4100424,36.3028487,-0.087143,Ngatha,Nyandarua,Ol Jorok,0,32,0
+4100431,36.377663,0.0112325,Kianjata,Nyandarua,Ol Jorok,0,32,0
+4100432,36.3540335,-0.0167062,Gatimu,Nyandarua,Ol Jorok,0,32,0
+4100433,36.3301077,0.021805,Gikingi,Nyandarua,Ol Jorok,0,32,0
+4100434,36.399472,-0.0536173,Kanguu,Nyandarua,Ol Jorok,0,32,0
+4100442,36.3958971,-0.0742182,Gatumbiro,Nyandarua,Ol Jorok,0,33,0
+4100443,36.3782486,-0.147985,Inoro,Nyandarua,Ol Jorok,0,33,0
+4100444,36.3926152,-0.1536636,Kamaina,Nyandarua,Ol Jorok,0,33,0
+4100511,36.3705303,-0.3906878,Simba,Nyandarua,Ol Kalou,0,32,0
+4100512,36.3860368,-0.3627138,Mihuti,Nyandarua,Ol Kalou,0,32,0
+4100513,36.4088589,-0.4122662,Bahati,Nyandarua,Ol Kalou,0,32,0
+4100521,36.2917215,-0.380846,Mlimani,Nyandarua,Ol Kalou,0,31,0
+4100522,36.2921939,-0.274173,Murindati,Nyandarua,Ol Kalou,0,31,0
+4100523,36.2262984,-0.2607452,Rutara,Nyandarua,Ol Kalou,0,32,0
+4100531,36.3214375,-0.2145189,Passenga,Nyandarua,Ol Kalou,0,22,0
+4100532,36.3445629,-0.2394988,Gathima Primary School,Nyandarua,Ol Kalou,0,32,0
+4100533,36.3643647,-0.3244831,Muiri,Nyandarua,Ol Kalou,0,32,0
+4100541,36.2409061,-0.1594662,Githima,Nyandarua,Ol Kalou,0,32,0
+4100542,36.2438214,-0.1792503,Micharage,Nyandarua,Ol Kalou,0,32,0
+4100543,36.2373273,-0.1443139,Nyandundo,Nyandarua,Ol Kalou,0,32,0
+4100551,36.3824754,-0.2060915,Umoja,Nyandarua,Ol Kalou,0,32,0
+4100552,36.4304822,-0.2374304,Gichungo,Nyandarua,Ol Kalou,0,32,0
+4100553,36.4048087,-0.2166592,Kianduba Sch,Nyandarua,Ol Kalou,0,32,0
+4110111,37.0906346,0.0456171,Nturukuma,Laikipia,Laikipia East,0,32,0
+4110112,37.0787475,0.0215934,Likii Pri,Laikipia,Laikipia East,0,31,0
+4110113,37.1013928,-0.0027812,Mt Kenya,Laikipia,Laikipia East,0,32,0
+4110121,36.6999491,-0.1004441,Rutunguru,Laikipia,Laikipia East,0,30,0
+4110122,36.6755219,-0.1424906,Ngano,Laikipia,Laikipia East,0,32,0
+4110123,36.8147084,-0.0710123,Ol Taffeta,Laikipia,Laikipia East,0,30,0
+4110131,36.9843383,0.007977,Njoguini,Laikipia,Laikipia East,0,32,0
+4110132,37.076275,0.0137236,Nanyuki Deb,Laikipia,Laikipia East,0,30,0
+4110133,37.0690875,0.0258126,Thingithu,Laikipia,Laikipia East,0,32,0
+4110141,36.9807863,-0.0673341,Mukuri,Laikipia,Laikipia East,0,31,0
+4110142,36.9646734,-0.2111967,Deb Solio Ranch,Laikipia,Laikipia East,0,32,0
+4110143,36.9191574,-0.0426487,Kibubungi,Laikipia,Laikipia East,0,32,0
+4110151,37.1266957,0.0372616,Bingwa,Laikipia,Laikipia East,0,32,0
+4110152,37.1434819,0.0916581,Gakeu,Laikipia,Laikipia East,0,30,0
+4110153,37.1649683,0.0661883,Kalalu,Laikipia,Laikipia East,0,32,0
+4110211,37.283555,0.3584319,Sieku,Laikipia,Laikipia North,0,33,0
+4110212,37.2942368,0.308065,Lukusero,Laikipia,Laikipia North,0,32,0
+4110213,37.2476703,0.1664867,Chumvi,Laikipia,Laikipia North,0,32,0
+4110221,36.831924,0.6066224,Ilmotiok,Laikipia,Laikipia North,0,32,0
+4110222,37.0260306,0.200376,Ol Girgiri,Laikipia,Laikipia North,0,32,0
+4110223,37.1628736,0.3960681,Kurum,Laikipia,Laikipia North,0,30,0
+4110224,37.0823701,0.3718044,Il Polei,Laikipia,Laikipia North,0,32,0
+4110231,36.8856069,0.1114176,Uaso Nyiro,Laikipia,Laikipia North,0,32,0
+4110232,36.8250383,0.1284033,Tanginyeusi,Laikipia,Laikipia North,0,32,0
+4110233,37.0371824,0.1292635,Lairagwan,Laikipia,Laikipia North,0,32,0
+4110234,37.0578227,0.0743036,Mukima,Laikipia,Laikipia North,0,32,0
+4110241,36.629279,0.6101278,Muwarak,Laikipia,Laikipia North,0,32,0
+4110242,36.4287021,0.4482229,Mithuri,Laikipia,Laikipia North,0,33,0
+4110243,36.5395851,0.4193067,Nkirashi,Laikipia,Laikipia North,0,32,0
+4110244,36.4271354,0.3989405,Ngaremare,Laikipia,Laikipia North,0,32,0
+4110311,36.2842455,0.4196626,Kisima,Laikipia,Laikipia West,0,32,0
+4110312,36.3075181,0.4662479,Lobere,Laikipia,Laikipia West,0,33,0
+4110321,36.3866447,0.0767614,Rwathia (Igwamiti),Laikipia,Laikipia West,0,32,0
+4110322,36.2790034,0.0759648,Karangi,Laikipia,Laikipia West,0,32,0
+4110323,36.3648438,0.0359381,Nyahururu Deb,Laikipia,Laikipia West,0,32,0
+4110331,36.3534783,0.1960033,Kundarilla,Laikipia,Laikipia West,0,32,0
+4110332,36.3461479,0.149226,Kaichakun,Laikipia,Laikipia West,0,32,0
+4110341,36.3684185,0.3993821,Kaharati,Laikipia,Laikipia West,0,34,0
+4110342,36.3840692,0.4809769,Wangwachi,Laikipia,Laikipia West,0,32,0
+4110343,36.3795665,0.4015616,Lariak,Laikipia,Laikipia West,0,32,0
+4110351,36.4970786,0.2128473,Kapkures,Laikipia,Laikipia West,1,32,0.03125
+4110352,36.5325569,0.2754443,Manyatta,Laikipia,Laikipia West,0,32,0
+4110361,36.661579,0.3619466,Mathira,Laikipia,Laikipia West,0,32,0
+4110362,36.4901879,0.127475,Salama,Laikipia,Laikipia West,0,32,0
+4110363,36.5411893,0.0590019,Ndaragwiti,Laikipia,Laikipia West,0,32,0
+4120111,37.3291039,-0.4959044,Kiamwathi,Kirinyaga,Gichugu,0,32,0
+4120112,37.3706219,-0.5443826,Kianjiru,Kirinyaga,Gichugu,0,32,0
+4120113,37.3427489,-0.480091,Kiandai,Kirinyaga,Gichugu,1,32,0.03125
+4120121,37.3042841,-0.4841922,Gatunguru,Kirinyaga,Gichugu,0,32,0
+4120122,37.3026856,-0.4117024,Kimunye,Kirinyaga,Gichugu,0,32,0
+4120123,37.3378958,-0.5402295,Rukenya,Kirinyaga,Gichugu,0,32,0
+4120131,37.3273462,-0.4309176,Kavote,Kirinyaga,Gichugu,0,32,0
+4120132,37.3619293,-0.4728214,Kariru,Kirinyaga,Gichugu,0,32,0
+4120133,37.3304939,-0.4543948,Guama,Kirinyaga,Gichugu,1,32,0.03125
+4120141,37.3829891,-0.5446295,Gacatha,Kirinyaga,Gichugu,0,32,0
+4120142,37.395121,-0.4728098,Mwanianjau,Kirinyaga,Gichugu,0,32,0
+4120143,37.4241777,-0.4603105,Kathunguri,Kirinyaga,Gichugu,0,32,0
+4120151,37.4017828,-0.4982971,Kianyambo,Kirinyaga,Gichugu,0,32,0
+4120152,37.4103973,-0.5340205,Kanjuu,Kirinyaga,Gichugu,0,32,0
+4120153,37.4130326,-0.4753237,Gaciongo,Kirinyaga,Gichugu,0,32,0
+4120211,37.2711146,-0.4337212,Kangaita,Kirinyaga,Kirinyaga Central,0,32,0
+4120212,37.2679301,-0.4552418,Thaita,Kirinyaga,Kirinyaga Central,0,33,0
+4120213,37.2468763,-0.4566979,Karaini,Kirinyaga,Kirinyaga Central,0,32,0
+4120221,37.2646112,-0.5658959,Kirimunge Pri,Kirinyaga,Kirinyaga Central,0,32,0
+4120222,37.2682572,-0.5482366,Kianjege East,Kirinyaga,Kirinyaga Central,0,32,0
+4120223,37.301225,-0.569784,Gatuto,Kirinyaga,Kirinyaga Central,0,32,0
+4120224,37.2639529,-0.5238425,Mukinduri,Kirinyaga,Kirinyaga Central,0,32,0
+4120231,37.3165907,-0.5578896,Gitwe,Kirinyaga,Kirinyaga Central,0,32,0
+4120232,37.2852536,-0.4715054,Kimandi,Kirinyaga,Kirinyaga Central,0,32,0
+4120233,37.2684428,-0.4883855,Kiaritha,Kirinyaga,Kirinyaga Central,1,31,0.032258064516129
+4120234,37.2930575,-0.4932596,Kiabarikiri,Kirinyaga,Kirinyaga Central,0,33,0
+4120241,37.2186813,-0.4363973,Gathuthuma,Kirinyaga,Kirinyaga Central,0,32,0
+4120242,37.2406884,-0.4854112,Kamuiru,Kirinyaga,Kirinyaga Central,1,32,0.03125
+4120243,37.2197712,-0.5255582,Kiarugu,Kirinyaga,Kirinyaga Central,0,32,0
+4120244,37.2376436,-0.4345422,Gatwe,Kirinyaga,Kirinyaga Central,0,33,0
+4120311,37.4045877,-0.6904442,Gathigiriri Pri,Kirinyaga,Mwea,0,21,0
+4120312,37.3886207,-0.6621922,Kirogo Pri,Kirinyaga,Mwea,0,22,0
+4120313,37.3784284,-0.667492,Kamuchege,Kirinyaga,Mwea,0,22,0
+4120314,37.4013132,-0.6568771,Kiriko,Kirinyaga,Mwea,0,22,0
+4120321,37.3009169,-0.6330641,Kangai Pri,Kirinyaga,Mwea,0,22,0
+4120322,37.2873763,-0.6024809,Kumbuini Pri,Kirinyaga,Mwea,0,23,0
+4120323,37.3187164,-0.6176271,Kangure Pri,Kirinyaga,Mwea,0,22,0
+4120324,37.2895198,-0.6449018,Gitooini Pri,Kirinyaga,Mwea,0,22,0
+4120331,37.4453559,-0.5677664,Murinduko Pri,Kirinyaga,Mwea,0,22,0
+4120332,37.4402905,-0.5991697,Togonye Pri,Kirinyaga,Mwea,0,21,0
+4120333,37.4567336,-0.6101774,Mumbuini Pri,Kirinyaga,Mwea,0,22,0
+4120334,37.4659686,-0.5648504,Mugambaciura Pri,Kirinyaga,Mwea,0,21,0
+4120341,37.3232083,-0.728065,Mutithi Pri,Kirinyaga,Mwea,0,22,0
+4120342,37.2789021,-0.6455376,Kadongu Pri,Kirinyaga,Mwea,0,22,0
+4120343,37.28838,-0.71523,Ngothi Pri,Kirinyaga,Mwea,0,22,0
+4120344,37.2663679,-0.6634156,Kinyaga Pri,Kirinyaga,Mwea,0,21,0
+4120351,37.3559951,-0.5886094,Nyangati Pri,Kirinyaga,Mwea,0,23,0
+4120352,37.3425181,-0.5835514,Ahiti Ndomba Pri,Kirinyaga,Mwea,0,20,0
+4120353,37.3708704,-0.6164929,Kimbimbi Pri,Kirinyaga,Mwea,0,22,0
+4120354,37.3479918,-0.6136322,Kiorugari Pry,Kirinyaga,Mwea,0,21,0
+4120361,37.3535424,-0.6874282,Ngurubani Pry,Kirinyaga,Mwea,0,22,0
+4120362,37.3691805,-0.6644476,Murubara Pry,Kirinyaga,Mwea,0,20,0
+4120363,37.3609323,-0.6554222,Kiarukungu Pry,Kirinyaga,Mwea,0,23,0
+4120364,37.3730449,-0.7136749,Kiamanyeki Pry,Kirinyaga,Mwea,0,22,0
+4120371,37.3464906,-0.6864793,Thiba Pry,Kirinyaga,Mwea,0,22,0
+4120372,37.3404778,-0.681561,Mukou Pry,Kirinyaga,Mwea,0,22,0
+4120373,37.3452675,-0.7006278,Mbui Njeru Pry,Kirinyaga,Mwea,0,22,0
+4120374,37.3434842,-0.6654358,Nguka Pry,Kirinyaga,Mwea,0,22,0
+4120381,37.3314654,-0.7329872,Rurii Pry,Kirinyaga,Mwea,0,23,0
+4120382,37.4478635,-0.7315242,Marurumo Pry,Kirinyaga,Mwea,0,22,0
+4120383,37.3945331,-0.7521361,Ciagini Pry,Kirinyaga,Mwea,0,22,0
+4120384,37.3369611,-0.7554852,Kiandegwa Pry,Kirinyaga,Mwea,0,21,0
+4120411,37.1679786,-0.5456233,Kairiini,Kirinyaga,Ndia,0,32,0
+4120412,37.1549528,-0.5484208,Mukangu,Kirinyaga,Ndia,0,32,0
+4120413,37.2382702,-0.6702232,Thanju,Kirinyaga,Ndia,0,32,0
+4120414,37.1685685,-0.575253,Kianjege,Kirinyaga,Ndia,0,32,0
+4120415,37.1907144,-0.6411722,Karima,Kirinyaga,Ndia,0,31,0
+4120421,37.1823249,-0.499353,Kianwe,Kirinyaga,Ndia,0,32,0
+4120422,37.1900693,-0.5316561,Kiangoma,Kirinyaga,Ndia,0,32,0
+4120423,37.2271349,-0.611415,Kathaka,Kirinyaga,Ndia,0,32,0
+4120424,37.2041322,-0.6613228,Upper Sagana,Kirinyaga,Ndia,0,32,0
+4120425,37.1927836,-0.5816925,Kiine,Kirinyaga,Ndia,0,32,0
+4120431,37.21343,-0.46567,Gathambi,Kirinyaga,Ndia,0,32,0
+4120432,37.2416333,-0.5532387,Lower Baricho,Kirinyaga,Ndia,0,32,0
+4120433,37.197085,-0.4524367,Ndiriti,Kirinyaga,Ndia,0,32,0
+4120434,37.203328,-0.4418527,Muragara,Kirinyaga,Ndia,0,32,0
+4120435,37.2009727,-0.493086,Kiaragana,Kirinyaga,Ndia,0,32,0
+4130111,35.4068138,2.7088945,Natwel,Turkana,Loima,0,31,0
+4130112,35.3657451,2.7620738,Kotela,Turkana,Loima,0,30,0
+4130113,35.3982832,2.7418086,Kangalita,Turkana,Loima,0,30,0
+4130121,35.0823147,2.8142997,Lochor Emeyan,Turkana,Loima,0,32,0
+4130124,35.1784832,2.8668196,Lochor Ekuyen,Turkana,Loima,0,32,0
+4130131,34.9788833,2.517325,Loya,Turkana,Loima,0,30,0
+4130132,34.9917711,2.5706441,Lorengippi,Turkana,Loima,0,32,0
+4130135,35.4365077,3.0044553,Kaitese,Turkana,Loima,0,30,0
+4130141,35.5060403,3.0059169,Napeikar Pri,Turkana,Loima,0,32,0
+4130142,35.3980337,2.9127492,Kachameri,Turkana,Loima,0,30,0
+4130143,35.4170828,2.8968432,Kalomegur,Turkana,Loima,0,30,0
+4130212,35.9370767,3.3347417,Loboolo,Turkana,Turkana Central,0,28,0
+4130213,36.0371841,3.1912761,Nasekon,Turkana,Turkana Central,0,32,0
+4130221,35.5771564,3.0678049,Kakemera,Turkana,Turkana Central,0,32,0
+4130233,36.025025,3.234545,Ille,Turkana,Turkana Central,0,33,0
+4130241,36.0906377,3.0833394,Nadoto,Turkana,Turkana Central,0,32,0
+4130242,36.1141067,3.0784733,Nangitony,Turkana,Turkana Central,0,32,0
+4130243,36.1613086,2.8742218,Nakurio,Turkana,Turkana Central,0,32,0
+4130251,35.6760497,3.1566139,Kakwanyang,Turkana,Turkana Central,0,32,0
+4130252,35.6429697,3.1553919,Monti,Turkana,Turkana Central,0,32,0
+4130321,36.1292545,2.1466593,Kaibole,Turkana,Turkana East,0,32,0
+4130322,36.1232502,2.1234977,Katilia,Turkana,Turkana East,0,32,0
+4130323,36.1624978,2.1084681,Elelea,Turkana,Turkana East,0,31,0
+4130324,36.1517421,2.1150484,Rcea Echoke,Turkana,Turkana East,0,32,0
+4130325,36.1283148,2.2434233,Lopedru Pri,Turkana,Turkana East,0,32,0
+4130331,35.8717835,2.0640867,Lopii,Turkana,Turkana East,0,32,0
+4130332,36.0429261,2.0929537,Kaaruko,Turkana,Turkana East,0,32,0
+4130333,36.0167483,1.9665803,Huruma,Turkana,Turkana East,0,32,0
+4130334,35.8165732,2.2194608,Lokicheda,Turkana,Turkana East,0,32,0
+4130335,36.0588168,1.9745067,Emaniman,Turkana,Turkana East,0,32,0
+4130411,35.4238946,4.5173175,Loitanit,Turkana,Turkana North,0,31,0
+4130412,35.3992727,4.6246228,Nakinomet,Turkana,Turkana North,0,32,0
+4130432,35.3893042,4.8632351,Napak,Turkana,Turkana North,0,32,0
+4130441,35.8376531,3.9131327,Lomekwi,Turkana,Turkana North,0,30,0
+4130442,35.7192763,4.1118988,Riokomor,Turkana,Turkana North,0,32,0
+4130443,35.8490269,4.003801,Narengewoi Pri,Turkana,Turkana North,0,32,0
+4130452,35.6769706,4.3194884,Kachoda,Turkana,Turkana North,0,34,0
+4130511,35.8123633,2.2952776,Kaimegur,Turkana,Turkana South,0,31,0
+4130512,36.2226199,2.5373596,Nakaalei,Turkana,Turkana South,0,31,0
+4130513,35.8357521,2.3336827,Kalapata,Turkana,Turkana South,0,32,0
+4130531,35.4027905,2.5288916,Awar Naparan Primary,Turkana,Turkana South,0,27,0
+4130532,35.438903,2.2882402,Nabakan,Turkana,Turkana South,0,30,0
+4130533,35.4539515,2.3503689,Nawapeto,Turkana,Turkana South,0,30,0
+4130542,35.5009369,1.7792094,Koputiro,Turkana,Turkana South,0,32,0
+4130543,35.5060894,1.7758792,Nakululumaet/Kainuk Mixed,Turkana,Turkana South,0,30,0
+4130551,35.6476581,2.8233049,Edos,Turkana,Turkana South,0,30,0
+4130552,35.593733,2.3857821,Kangisaja Primary,Turkana,Turkana South,0,31,0
+4130553,35.6227051,2.8061667,St Teresa Kimabur,Turkana,Turkana South,0,32,0
+4130611,34.8615669,3.7147578,Kakuma Mixed,Turkana,Turkana West,0,32,0
+4130612,34.8603414,3.6968836,Nongolemeret,Turkana,Turkana West,0,31,0
+4130631,34.8151005,3.5214334,Letea,Turkana,Turkana West,0,31,0
+4130632,34.8967013,3.4477625,Tulabalany,Turkana,Turkana West,0,23,0
+4130642,34.3532725,4.2064164,Lokichoggio Girls,Turkana,Turkana West,2,32,0.0625
+4130651,34.8170956,3.8608398,Lopur,Turkana,Turkana West,0,32,0
+4130652,34.8409073,3.7469191,Shambesch,Turkana,Turkana West,0,21,0
+4130661,34.5097072,4.2043064,St. Paul.s Nalamacha Primary School,Turkana,Turkana West,0,29,0
+4130662,34.419876,4.2927218,Kaseleem Primary School (Turkana Turkana West ),Turkana,Turkana West,0,29,0
+4130671,34.8897791,4.102755,Emilait,Turkana,Turkana West,0,25,0
+4130672,34.5235863,4.0583549,St Marks Songot,Turkana,Turkana West,1,33,0.0303030303030303
+4140111,37.3183072,0.8930028,Sionta,Samburu,Samburu East,0,32,0
+4140112,37.3144016,1.0326284,Golgoltim,Samburu,Samburu East,0,31,0
+4140113,37.3089704,0.9401462,Lempuranai,Samburu,Samburu East,0,32,0
+4140114,37.1382167,1.0491258,Lengarde,Samburu,Samburu East,0,32,0
+4140121,37.1705316,1.1869783,Nolotoro,Samburu,Samburu East,0,33,0
+4140122,37.0705765,1.1009464,Nairimirimo,Samburu,Samburu East,0,31,0
+4140123,37.3145954,0.9739079,Lkwaasi,Samburu,Samburu East,0,32,0
+4140131,37.3474608,0.7038674,Ngutuk Engiron,Samburu,Samburu East,0,32,0
+4140132,37.1035027,0.8109397,Ngutuk Elmuget,Samburu,Samburu East,0,32,0
+4140133,37.1923662,0.9446376,Nagor Oworu,Samburu,Samburu East,0,33,0
+4140134,37.0530751,0.7896017,Lpus Loompasion,Samburu,Samburu East,0,33,0
+4140141,37.4374765,1.3501704,Ndonyo Wasin,Samburu,Samburu East,0,32,0
+4140142,37.5162278,0.7795125,Learata,Samburu,Samburu East,0,33,0
+4140143,37.6013537,1.1260312,Sere-Olipi,Samburu,Samburu East,0,32,0
+4140211,36.8717958,1.3316139,Barsaloi,Samburu,Samburu North,0,32,0
+4140212,36.6661554,1.2983899,Angata Nanyukie,Samburu,Samburu North,0,32,0
+4140221,36.8142852,1.0235948,Baawa,Samburu,Samburu North,0,31,0
+4140222,36.9493232,0.9828808,Lchakwai,Samburu,Samburu North,7,30,0.233333333333333
+4140223,36.8131392,1.1554616,Opiroi,Samburu,Samburu North,1,32,0.03125
+4140231,36.9447229,1.6050943,Masikita,Samburu,Samburu North,0,30,0
+4140232,36.7923481,1.7825411,Baragoi,Samburu,Samburu North,0,30,0
+4140241,36.7005187,1.8013027,Nachola,Samburu,Samburu North,0,30,0
+4140242,36.774243,1.7992671,Logetei,Samburu,Samburu North,0,31,0
+4140243,36.7196948,1.472122,Marti,Samburu,Samburu North,0,32,0
+4140251,37.0586159,1.8705294,Seren,Samburu,Samburu North,0,31,0
+4140252,36.9695902,1.7841457,Lesirikan,Samburu,Samburu North,0,32,0
+4140261,36.8315856,2.2667142,Loonjorin,Samburu,Samburu North,0,31,0
+4140262,36.7728613,2.1455197,Tuum,Samburu,Samburu North,0,31,0
+4140263,36.9119236,2.0700448,Sumurwai,Samburu,Samburu North,0,31,0
+4140311,36.9783114,0.9365173,Nonkeek,Samburu,Samburu West,1,31,0.032258064516129
+4140312,36.7917934,0.9754911,Ng Ambo,Samburu,Samburu West,0,30,0
+4140313,36.7639595,0.9164765,Ldaranja,Samburu,Samburu West,0,35,0
+4140321,36.5924297,1.073235,Lolkunono,Samburu,Samburu West,0,32,0
+4140322,36.5616927,1.1077572,Loiborngare,Samburu,Samburu West,0,32,0
+4140323,36.5853421,1.067143,Lolmisigiyoi,Samburu,Samburu West,0,32,0
+4140331,36.6574968,1.0954899,Lgoss,Samburu,Samburu West,0,32,0
+4140332,36.6927128,1.0491714,Lkuroto,Samburu,Samburu West,0,30,0
+4140333,36.7025402,1.0852815,Muslim,Samburu,Samburu West,1,32,0.03125
+4140341,36.6508633,1.0473659,Sirata Oirobi,Samburu,Samburu West,0,30,0
+4140342,36.5928985,1.2212602,Lorrok,Samburu,Samburu West,0,31,0
+4140343,36.597838,1.1369073,Seketet,Samburu,Samburu West,0,32,0
+4140351,36.6659297,0.8254829,Nkutoto Elepere,Samburu,Samburu West,0,32,0
+4140352,36.6061718,0.9514949,Lolmolok,Samburu,Samburu West,0,32,0
+4140353,36.703079,0.8318166,Lariak Orok,Samburu,Samburu West,0,32,0
+4150111,35.0083517,2.2719901,Aic Kameris Primary School,West Pokot,Kacheliba,0,32,0
+4150112,35.0939319,2.228307,Lengorok Primary School,West Pokot,Kacheliba,0,32,0
+4150121,35.1198296,1.6253006,Mading Pri,West Pokot,Kacheliba,0,32,0
+4150122,35.1236117,1.6480054,Kariamawoi Primary School,West Pokot,Kacheliba,0,22,0
+4150123,35.0534301,1.7842554,Konyao Arid Zone Primary School,West Pokot,Kacheliba,0,32,0
+4150131,35.2088363,2.0123496,Kour Primary School,West Pokot,Kacheliba,0,32,0
+4150132,35.2051496,1.8342884,Kangoletiang Primary School,West Pokot,Kacheliba,0,25,0
+4150141,35.1377073,2.0632066,Kases Pri,West Pokot,Kacheliba,0,32,0
+4150142,35.0910364,1.9998606,Chelopoy Primary School,West Pokot,Kacheliba,0,34,0
+4150143,35.0506895,1.9512486,Kiwawa Primary School,West Pokot,Kacheliba,0,34,0
+4150151,34.9797703,1.5897533,Orolwo D.e.b. Primary School,West Pokot,Kacheliba,0,33,0
+4150152,35.0413976,1.8109534,Kalukuna Primary School,West Pokot,Kacheliba,0,33,0
+4150161,34.9739151,1.2261042,Lokomolo Primary School,West Pokot,Kacheliba,0,23,0
+4150162,34.8575967,1.4110383,Muruongor,West Pokot,Kacheliba,0,34,0
+4150163,34.8615543,1.2317547,Kanyerus Primary,West Pokot,Kacheliba,0,36,0
+4150211,35.2429005,1.6536356,St. Patrick.s Ptoyo Primary School,West Pokot,Kapenguria,0,30,0
+4150212,35.1537606,1.5728224,Tipet Primary School,West Pokot,Kapenguria,0,30,0
+4150221,35.1439586,1.3035935,Kaprom,West Pokot,Kapenguria,1,31,0.032258064516129
+4150222,35.1272063,1.4102996,Emboasis Pri,West Pokot,Kapenguria,0,31,0
+4150223,35.101224,1.2735018,Tilak Primary School,West Pokot,Kapenguria,0,30,0
+4150231,35.0604759,1.2714497,Nangrotum Primary School,West Pokot,Kapenguria,0,31,0
+4150232,35.0758951,1.2132867,Kamorrow Primary School,West Pokot,Kapenguria,0,30,0
+4150241,35.117975,1.4998039,Kalemnyang Pri,West Pokot,Kapenguria,0,32,0
+4150242,35.0153786,1.3029712,Akerpoyesu Pry,West Pokot,Kapenguria,0,31,0
+4150243,34.879856,1.275164,Lomangiro Primary School,West Pokot,Kapenguria,0,30,0
+4150251,35.1730014,1.2094737,Kaprech Primary School,West Pokot,Kapenguria,0,30,0
+4150252,35.1152924,1.211768,Kapsurum Primary,West Pokot,Kapenguria,0,30,0
+4150261,35.2228837,1.6137552,Kola,West Pokot,Kapenguria,0,30,0
+4150262,35.275342,1.5953063,Tindar,West Pokot,Kapenguria,0,31,0
+4150263,35.3019023,1.6105626,Katimoril Primary School,West Pokot,Kapenguria,0,30,0
+4150311,35.3778957,1.4178587,Psiywo,West Pokot,Pokot South,0,32,0
+4150312,35.3048318,1.3240667,Timorwo,West Pokot,Pokot South,0,32,0
+4150313,35.38534,1.47898,Saya Pri,West Pokot,Pokot South,0,32,0
+4150321,35.241013,1.2939623,Kalya,West Pokot,Pokot South,0,32,0
+4150322,35.1893759,1.3209224,Cheparer Primary-Kipkomo,West Pokot,Pokot South,0,32,0
+4150323,35.242301,1.4159396,Cheptiangwa Primary School,West Pokot,Pokot South,0,32,0
+4150324,35.1837062,1.3346373,St Timothy School Chepareria,West Pokot,Pokot South,2,32,0.0625
+4150331,35.3437633,1.226268,Kariamakitai,West Pokot,Pokot South,1,32,0.03125
+4150332,35.2494548,1.2052217,Kanyaltin,West Pokot,Pokot South,0,32,0
+4150333,35.32631,1.214455,Meshau,West Pokot,Pokot South,0,32,0
+4150334,35.2869795,1.2916189,Msiywon Primary,West Pokot,Pokot South,0,32,0
+4150341,35.36313,1.2478717,St. Dominic Kapchesich Primary,West Pokot,Pokot South,0,32,0
+4150342,35.3630727,1.2977684,Sesimwo,West Pokot,Pokot South,0,32,0
+4150343,35.4218801,1.2913631,Sondany Primary,West Pokot,Pokot South,1,32,0.03125
+4150344,35.4237724,1.323782,Pilil,West Pokot,Pokot South,3,32,0.09375
+4150411,35.5994437,1.3167,Annet,West Pokot,Sigor,0,32,0
+4150412,35.5710866,1.4120231,Sakata Primary School And Ecd,West Pokot,Sigor,0,27,0
+4150413,35.5526189,1.4125958,Lomut,West Pokot,Sigor,0,32,0
+4150421,35.527785,1.5613108,Kadungdung Primary,West Pokot,Sigor,0,32,0
+4150422,35.5129461,1.5169187,Kangisha,West Pokot,Sigor,0,30,0
+4150423,35.5474667,1.6183189,Moi Masol,West Pokot,Sigor,1,32,0.03125
+4150424,35.7807729,1.2817047,Sekerot,West Pokot,Sigor,0,32,0
+4150431,35.4476816,1.7862281,Sarmach,West Pokot,Sigor,0,32,0
+4150432,35.4078099,1.5067496,Marich Pass Rce,West Pokot,Sigor,0,32,0
+4150433,35.4069716,1.4922407,Mbara Pri,West Pokot,Sigor,0,32,0
+4150434,35.4923987,1.7026372,Cheptem,West Pokot,Sigor,0,32,0
+4150442,35.449944,1.532805,Sangat Pri,West Pokot,Sigor,0,32,0
+4150443,35.5058112,1.4604938,Kokwotendwo Pri,West Pokot,Sigor,0,32,0
+4150444,35.4805784,1.347688,Endow,West Pokot,Sigor,0,31,0
+4160111,35.7860385,0.5479608,Moi Teachers,Baringo,Baringo Central,0,30,0
+4160112,35.7816367,0.539498,Chebunyur Pri,Baringo,Baringo Central,0,31,0
+4160113,35.7785589,0.5638513,Rosobet,Baringo,Baringo Central,0,30,0
+4160121,35.6634488,0.4967138,Aic Salawa Primary,Baringo,Baringo Central,0,30,0
+4160122,35.7079279,0.4747551,Kapsigorian,Baringo,Baringo Central,0,30,0
+4160123,35.6506879,0.5158494,Kipsoit,Baringo,Baringo Central,0,31,0
+4160131,35.7662163,0.4887998,Kiptilit,Baringo,Baringo Central,0,30,0
+4160132,35.677035,0.4233336,Kurumbopsoo,Baringo,Baringo Central,0,30,0
+4160133,35.7664598,0.5109304,Riwo,Baringo,Baringo Central,0,30,0
+4160141,35.7859931,0.3979472,Koyorus,Baringo,Baringo Central,0,28,0
+4160142,35.7876333,0.4341205,Kabasis D B,Baringo,Baringo Central,0,30,0
+4160143,35.7975938,0.407093,Sacho Primary,Baringo,Baringo Central,0,30,0
+4160151,35.7328913,0.31428,Cheplongon,Baringo,Baringo Central,0,30,0
+4160152,35.7705781,0.2686841,Kaseret Primary School,Baringo,Baringo Central,0,30,0
+4160153,35.8547766,0.2813539,Katkamuma Primary,Baringo,Baringo Central,0,30,0
+4160211,35.8074224,0.7580811,Kabilany,Baringo,Baringo North,0,22,0
+4160212,35.7900173,0.7985015,Atiar,Baringo,Baringo North,0,22,0
+4160213,35.8098995,0.8383703,Bartabwa Pri,Baringo,Baringo North,0,22,0
+4160222,35.6769482,0.7298651,Kipkolong,Baringo,Baringo North,0,22,0
+4160223,35.7129979,0.6392545,Siboo,Baringo,Baringo North,0,22,0
+4160224,35.6991464,0.6562523,Bartogo,Baringo,Baringo North,0,22,0
+4160231,35.7924772,0.6274658,Kabartonjo Pri,Baringo,Baringo North,0,22,0
+4160232,35.7867434,0.6790116,Bossei Pri,Baringo,Baringo North,0,22,0
+4160233,35.7797692,0.6584559,Kapkiamo Pri,Baringo,Baringo North,0,22,0
+4160241,35.8188468,0.6560329,Tirimionin,Baringo,Baringo North,0,23,0
+4160242,35.810533,0.738614,Poi Pri,Baringo,Baringo North,0,22,0
+4160243,35.7980911,0.7278373,Kapkoiwo,Baringo,Baringo North,0,22,0
+4160244,35.8149101,0.7228578,Kasok,Baringo,Baringo North,0,22,0
+4160251,35.9017608,0.6911291,Koiboware,Baringo,Baringo North,0,22,0
+4160252,35.9257436,0.576109,Chebarsiet,Baringo,Baringo North,0,22,0
+4160253,35.8984943,0.7012383,Sibilo,Baringo,Baringo North,0,22,0
+4160254,35.8558061,0.5952319,Kipcherere,Baringo,Baringo North,0,22,0
+4160311,36.0025984,0.5884329,Ildepe Primary,Baringo,Baringo South,0,32,0
+4160312,36.0713837,0.4117065,Kailer,Baringo,Baringo South,0,32,0
+4160313,36.0216297,0.5454287,Leswaa,Baringo,Baringo South,0,32,0
+4160321,36.0444,0.3706025,Kapkuikui,Baringo,Baringo South,0,32,0
+4160322,35.8602044,0.4084948,Sabor,Baringo,Baringo South,0,32,0
+4160323,35.9798392,0.5149268,Samburi Primary,Baringo,Baringo South,0,32,0
+4160324,36.031365,0.4699153,Parkerra Primary School,Baringo,Baringo South,0,32,0
+4160331,36.0526433,0.4019916,Tembererwe Primary,Baringo,Baringo South,0,32,0
+4160332,36.2138483,0.4263567,Mwenge,Baringo,Baringo South,0,32,0
+4160333,36.2247853,0.2554531,Chebinyiny,Baringo,Baringo South,0,32,0
+4160334,36.2510266,0.3444025,Tuiyotich (Mochongoi),Baringo,Baringo South,0,32,0
+4160341,36.1046816,0.49016,Lorrok,Baringo,Baringo South,0,32,0
+4160342,36.1045514,0.5317461,Arabal,Baringo,Baringo South,0,32,0
+4160343,36.0810385,0.4485833,Chemorongion,Baringo,Baringo South,0,32,0
+4160344,36.1218532,0.5492822,Mukutani,Baringo,Baringo South,0,32,0
+4160411,35.8670574,-0.052113,Orinie,Baringo,Eldama Ravine,0,30,0
+4160412,35.8303105,-0.0257193,Kanjulul,Baringo,Eldama Ravine,0,30,0
+4160421,35.5321767,0.0246833,Boito Pri,Baringo,Eldama Ravine,0,30,0
+4160422,35.5638547,0.0457415,Seguton Primary,Baringo,Eldama Ravine,0,30,0
+4160423,35.5495178,0.0392248,Sigowet (Lembus),Baringo,Eldama Ravine,0,30,0
+4160431,35.7114116,0.1096053,Kipkuyang,Baringo,Eldama Ravine,0,30,0
+4160432,35.6461239,0.08965,Chemususu,Baringo,Eldama Ravine,0,30,0
+4160441,35.8086143,0.037214,Kimamoi Pri,Baringo,Eldama Ravine,0,30,0
+4160442,35.8431915,0.0857637,Chepnes Primary,Baringo,Eldama Ravine,0,30,0
+4160443,35.7506065,0.0216106,Mochongoi,Baringo,Eldama Ravine,1,25,0.04
+4160451,35.6053239,-0.0015892,Tebeswet Primary,Baringo,Eldama Ravine,0,30,0
+4160452,35.6517441,-0.0593709,St. Josephs Makutano,Baringo,Eldama Ravine,1,30,0.0333333333333333
+4160461,35.7315841,0.0497659,Koibatek,Baringo,Eldama Ravine,0,30,0
+4160462,35.7277311,0.0431406,Green View,Baringo,Eldama Ravine,0,30,0
+4160463,35.7287698,0.0016752,Kabiyet,Baringo,Eldama Ravine,0,30,0
+4160511,35.9004557,0.1092958,Kapcheluguny,Baringo,Mogotio,0,30,0
+4160512,35.9250006,0.155306,Kabarbesi,Baringo,Mogotio,0,30,0
+4160513,35.9340319,0.1096662,Oterit,Baringo,Mogotio,0,30,0
+4160514,35.9148686,0.0915624,Kures,Baringo,Mogotio,0,30,0
+4160515,35.8518968,0.189097,Kabogor,Baringo,Mogotio,0,30,0
+4160521,36.0993344,0.1640626,Emsos,Baringo,Mogotio,0,30,0
+4160522,35.957586,0.127762,Molosirwe,Baringo,Mogotio,0,30,0
+4160523,36.1025046,0.1027269,Kitecho,Baringo,Mogotio,0,30,0
+4160524,36.1160407,0.1387534,Olkokwe,Baringo,Mogotio,0,30,0
+4160525,36.0328359,0.0377993,Kibotany,Baringo,Mogotio,0,30,0
+4160531,35.9606778,-0.0179888,Mogotio Pr,Baringo,Mogotio,1,30,0.0333333333333333
+4160532,35.8306797,0.019136,Esageri,Baringo,Mogotio,0,30,0
+4160533,35.8165762,0.1049815,Lombala,Baringo,Mogotio,0,30,0
+4160534,35.9564955,-0.0216672,St Mary S,Baringo,Mogotio,0,30,0
+4160535,35.9449939,0.0171095,Lomanira,Baringo,Mogotio,0,30,0
+4170111,35.2612798,-0.6956279,Kamogoso,Bomet,Bomet Central,2,32,0.0625
+4170112,35.3114923,-0.6995252,Sibayian,Bomet,Bomet Central,0,32,0
+4170113,35.2921817,-0.6811185,Kimargis,Bomet,Bomet Central,0,32,0
+4170121,35.247168,-0.7961921,Solyot,Bomet,Bomet Central,0,32,0
+4170122,35.2414886,-0.7552868,Kiptergekyan,Bomet,Bomet Central,0,33,0
+4170123,35.2980846,-0.7486055,Chingondi,Bomet,Bomet Central,0,31,0
+4170131,35.3773917,-0.6636239,Mogoiwet,Bomet,Bomet Central,2,32,0.0625
+4170132,35.3961955,-0.6978963,Tagaruto,Bomet,Bomet Central,1,31,0.032258064516129
+4170133,35.3961297,-0.6979746,Boongo,Bomet,Bomet Central,0,32,0
+4170141,35.3695767,-0.7566133,Njerian,Bomet,Bomet Central,0,32,0
+4170142,35.3357412,-0.7383364,Chematich,Bomet,Bomet Central,0,33,0
+4170143,35.3373052,-0.7815745,Bomet Township,Bomet,Bomet Central,0,32,0
+4170151,35.4075787,-0.7351804,Kitoben,Bomet,Bomet Central,0,32,0
+4170152,35.318375,-0.7304833,Kabungut,Bomet,Bomet Central,0,32,0
+4170153,35.4065644,-0.7187418,Semoi,Bomet,Bomet Central,0,32,0
+4170211,35.5381551,-0.7873901,Mangoita,Bomet,Bomet East,0,30,0
+4170212,35.4940351,-0.7905564,Tabaita,Bomet,Bomet East,0,32,0
+4170213,35.4774416,-0.8327143,Kipkoligo,Bomet,Bomet East,0,32,0
+4170221,35.3974904,-0.8272605,Kongotik,Bomet,Bomet East,0,32,0
+4170222,35.4805183,-0.764355,Kipyosit,Bomet,Bomet East,0,31,0
+4170223,35.4282778,-0.8631334,Kesebek,Bomet,Bomet East,0,32,0
+4170231,35.3715104,-0.9605752,Mengit,Bomet,Bomet East,0,32,0
+4170232,35.4221868,-0.9128016,Kalyet,Bomet,Bomet East,0,31,0
+4170233,35.3779279,-0.8949276,Ndubai,Bomet,Bomet East,0,31,0
+4170241,35.4049824,-0.8709856,Olngoswet,Bomet,Bomet East,0,31,0
+4170242,35.3869917,-0.8710204,Kugunoi,Bomet,Bomet East,0,31,0
+4170243,35.3700527,-0.8652157,Chepkirib,Bomet,Bomet East,0,32,0
+4170251,35.3535436,-0.7741425,Chemomul,Bomet,Bomet East,0,32,0
+4170252,35.4274833,-0.7529865,Motoimet,Bomet,Bomet East,0,32,0
+4170253,35.4516898,-0.7601042,Menet,Bomet,Bomet East,0,31,0
+4170311,35.2380313,-0.9837308,Kaptorokwo,Bomet,Chepalungu,0,34,0
+4170312,35.1892664,-0.9240432,Siroriondo,Bomet,Chepalungu,0,33,0
+4170313,35.2018783,-1.0015733,Borut,Bomet,Chepalungu,0,33,0
+4170321,35.2701152,-0.8209728,Kiriba,Bomet,Chepalungu,0,32,0
+4170322,35.2133683,-0.8214625,Cheborian,Bomet,Chepalungu,0,32,0
+4170323,35.2635467,-0.8828235,Kimaya,Bomet,Chepalungu,0,33,0
+4170331,35.3267162,-0.8237894,Cheboriot,Bomet,Chepalungu,0,32,0
+4170332,35.3598484,-0.792095,Kisabita,Bomet,Chepalungu,0,32,0
+4170333,35.265036,-0.7958884,Kapsio,Bomet,Chepalungu,0,32,0
+4170341,35.2789215,-1.0052809,Kosia,Bomet,Chepalungu,0,32,0
+4170342,35.2859983,-0.9499367,Kipkeigei,Bomet,Chepalungu,0,32,0
+4170343,35.3328466,-0.9030595,Sugumerga,Bomet,Chepalungu,0,32,0
+4170351,35.1814973,-0.8742624,Kapoleseroi,Bomet,Chepalungu,0,32,0
+4170352,35.1977575,-0.8941182,Atebwo,Bomet,Chepalungu,0,32,0
+4170353,35.2412082,-0.9240249,Kipsuter,Bomet,Chepalungu,0,32,0
+4170411,35.3211768,-0.578488,Kamagomon,Bomet,Konoin,0,32,0
+4170412,35.2151526,-0.5646178,Chemelet,Bomet,Konoin,7,31,0.225806451612903
+4170413,35.2050614,-0.581151,Kabiangek,Bomet,Konoin,2,31,0.0645161290322581
+4170421,35.2894856,-0.5000984,Tenduet,Bomet,Konoin,8,32,0.25
+4170422,35.235644,-0.488818,Lelsa,Bomet,Konoin,1,30,0.0333333333333333
+4170423,35.2555004,-0.4792737,Cheptabes,Bomet,Konoin,2,32,0.0625
+4170431,35.2872863,-0.6402763,Sach Kobor,Bomet,Konoin,2,31,0.0645161290322581
+4170432,35.3621652,-0.644468,Kugerwet,Bomet,Konoin,3,31,0.0967741935483871
+4170433,35.3276795,-0.6431247,Kiptenden,Bomet,Konoin,2,31,0.0645161290322581
+4170441,35.257747,-0.541259,Chebwongo,Bomet,Konoin,12,31,0.387096774193548
+4170442,35.2899247,-0.529056,Kapsengere,Bomet,Konoin,8,31,0.258064516129032
+4170443,35.2910286,-0.536589,Nyoikino,Bomet,Konoin,11,32,0.34375
+4170451,35.261148,-0.6139851,Nyekesu,Bomet,Konoin,1,32,0.03125
+4170452,35.3007017,-0.6197765,Rerendet,Bomet,Konoin,1,32,0.03125
+4170453,35.2714785,-0.6314562,Kimori Aic,Bomet,Konoin,6,31,0.193548387096774
+4170511,35.0641268,-0.7093809,Simbi,Bomet,Sotik,0,34,0
+4170512,35.1182886,-0.7188433,Kipajit,Bomet,Sotik,1,32,0.03125
+4170513,35.1229771,-0.6785937,Kapchepkoro,Bomet,Sotik,6,33,0.181818181818182
+4170521,35.1827733,-0.6938933,Kimolwet,Bomet,Sotik,5,33,0.151515151515152
+4170522,35.2348218,-0.6670599,Kaboruso Koluu,Bomet,Sotik,3,32,0.09375
+4170523,35.254662,-0.6737083,Siroin,Bomet,Sotik,2,32,0.0625
+4170531,35.2146017,-0.746115,Chebole,Bomet,Sotik,0,32,0
+4170532,35.1743756,-0.7424735,Kapchepkosiom,Bomet,Sotik,0,32,0
+4170533,35.1528945,-0.7726195,Kinyelwet,Bomet,Sotik,0,32,0
+4170541,35.105232,-0.8406838,Kamugeno,Bomet,Sotik,1,32,0.03125
+4170542,35.0646721,-0.8930205,Tabarit,Bomet,Sotik,0,34,0
+4170543,35.1384433,-0.8746432,Tuiyotich,Bomet,Sotik,0,32,0
+4170551,35.1331481,-0.7899289,Kapkelei,Bomet,Sotik,0,33,0
+4170552,35.1070286,-0.7305671,Ngariet,Bomet,Sotik,0,34,0
+4170553,35.1448262,-0.7557077,Kapkures,Bomet,Sotik,0,33,0
+4180111,36.137648,-0.1675854,Our Lady Of Fatima,Nakuru,Bahati,0,30,0
+4180112,36.1050391,-0.1621344,Osembo,Nakuru,Bahati,0,30,0
+4180113,36.1502588,-0.153133,St Lwanga,Nakuru,Bahati,0,30,0
+4180121,36.2110598,-0.2751003,Kimani Ngunjiri,Nakuru,Bahati,0,30,0
+4180122,36.1785289,-0.2336349,Bavuni Primary,Nakuru,Bahati,0,30,0
+4180123,36.2383436,-0.2542512,Dundori,Nakuru,Bahati,0,30,0
+4180131,36.1314513,-0.2129,Nyathuna Pri,Nakuru,Bahati,0,30,0
+4180132,36.1696101,-0.1857172,Murungaru,Nakuru,Bahati,0,30,0
+4180133,36.1527584,-0.2403344,Muriundu,Nakuru,Bahati,0,30,0
+4180141,36.1333574,-0.2646131,Rurii,Nakuru,Bahati,0,30,0
+4180142,36.115498,-0.2301122,Kiamaina,Nakuru,Bahati,0,30,0
+4180143,36.1270172,-0.2458377,Central Pri,Nakuru,Bahati,0,30,0
+4180151,36.164457,-0.2701615,Lanet Umoja,Nakuru,Bahati,0,30,0
+4180152,36.1736004,-0.3138787,Ndimu Pri,Nakuru,Bahati,0,30,0
+4180153,36.1613137,-0.255349,Kamoronyo,Nakuru,Bahati,0,30,0
+4180211,36.1273015,-0.6154533,Elementaita Pri,Nakuru,Gilgil,0,30,0
+4180212,36.0794535,-0.5281695,Miti Mingi,Nakuru,Gilgil,0,30,0
+4180213,36.1200374,-0.5654447,Muriricua Pri,Nakuru,Gilgil,0,30,0
+4180222,36.315141,-0.5098946,Gilgil Highway,Nakuru,Gilgil,0,30,0
+4180223,36.261439,-0.4178522,Kariandusi,Nakuru,Gilgil,0,30,0
+4180231,36.4712318,-0.7067455,Nyondia,Nakuru,Gilgil,0,30,0
+4180232,36.3853737,-0.6427013,Marula,Nakuru,Gilgil,1,30,0.0333333333333333
+4180233,36.2967544,-0.7104239,Loldia,Nakuru,Gilgil,0,30,0
+4180234,36.4775293,-0.6894256,North Karati,Nakuru,Gilgil,0,30,0
+4180242,36.2585939,-0.5792294,Ndogo,Nakuru,Gilgil,0,30,0
+4180243,36.3039665,-0.5511007,Kamathatha,Nakuru,Gilgil,0,30,0
+4180251,36.2983717,-0.382205,Cura,Nakuru,Gilgil,0,30,0
+4180252,36.3878945,-0.4774038,Chemichemi Pri,Nakuru,Gilgil,0,30,0
+4180253,36.3146432,-0.440274,Kigogo,Nakuru,Gilgil,0,30,0
+4180254,36.3903443,-0.5211644,Mwega,Nakuru,Gilgil,0,30,0
+4180311,35.68899,-0.1942802,Muchoruwe,Nakuru,Kuresoi North,0,30,0
+4180312,35.6813978,-0.0785797,Kimugul Pri,Nakuru,Kuresoi North,0,30,0
+4180313,35.6741355,-0.1000745,Chesubeno,Nakuru,Kuresoi North,0,30,0
+4180321,35.4806697,-0.337818,Chorwa,Nakuru,Kuresoi North,0,31,0
+4180322,35.5261058,-0.3252522,Bochege,Nakuru,Kuresoi North,0,30,0
+4180323,35.4905274,-0.3037304,Githima,Nakuru,Kuresoi North,0,30,0
+4180324,35.5045482,-0.3011818,Taragonik Pri,Nakuru,Kuresoi North,1,30,0.0333333333333333
+4180331,35.6314254,-0.3953644,Matunda Pri,Nakuru,Kuresoi North,0,30,0
+4180332,35.5989513,-0.3833701,Mutukanio,Nakuru,Kuresoi North,0,30,0
+4180333,35.6329817,-0.3618799,Githiriga,Nakuru,Kuresoi North,0,30,0
+4180334,35.5504079,-0.3051182,Mkulima,Nakuru,Kuresoi North,1,30,0.0333333333333333
+4180341,35.6641637,-0.2392064,Nyakinywa Pri,Nakuru,Kuresoi North,0,30,0
+4180342,35.6575105,-0.2521365,Karima Primary,Nakuru,Kuresoi North,0,30,0
+4180343,35.7082798,-0.2686063,Kandenye,Nakuru,Kuresoi North,0,30,0
+4180344,35.6669924,-0.2576195,Sirikwa,Nakuru,Kuresoi North,0,30,0
+4180411,35.6323968,-0.6671977,Kaplamai,Nakuru,Kuresoi South,1,30,0.0333333333333333
+4180412,35.6907438,-0.5484247,Sinendet Pri,Nakuru,Kuresoi South,0,30,0
+4180413,35.6647369,-0.6329682,Kabigeriet,Nakuru,Kuresoi South,1,30,0.0333333333333333
+4180421,35.6917679,-0.4288118,Keringet Estate,Nakuru,Kuresoi South,0,30,0
+4180422,35.7347951,-0.4116569,Bararget,Nakuru,Kuresoi South,3,30,0.1
+4180423,35.7111683,-0.5396283,Ribot,Nakuru,Kuresoi South,2,30,0.0666666666666667
+4180424,35.6458911,-0.4683155,Tegat Primary,Nakuru,Kuresoi South,0,30,0
+4180431,35.6540765,-0.6052228,Ketitui Central,Nakuru,Kuresoi South,0,30,0
+4180432,35.6035806,-0.6566596,Chikamba,Nakuru,Kuresoi South,0,30,0
+4180433,35.6610449,-0.5467817,Ainamoi (Kiptagich),Nakuru,Kuresoi South,0,30,0
+4180434,35.6119934,-0.5689121,Kiptagich Pri,Nakuru,Kuresoi South,0,30,0
+4180441,35.5433918,-0.4790589,Kabongoi,Nakuru,Kuresoi South,0,30,0
+4180442,35.6320041,-0.5266042,Kapkeet Primary,Nakuru,Kuresoi South,0,30,0
+4180443,35.5719183,-0.5073418,Kapkoi,Nakuru,Kuresoi South,0,30,0
+4180444,35.6844805,-0.5134908,Ngenda,Nakuru,Kuresoi South,0,30,0
+4180511,35.7974704,-0.2451291,Mwangi Michuki,Nakuru,Molo,0,30,0
+4180512,35.7988584,-0.3064766,Sokoro Primary,Nakuru,Molo,0,30,0
+4180513,35.7905029,-0.281911,Ndimu D.e.b Pri,Nakuru,Molo,0,30,0
+4180521,35.790706,-0.33468,Rombei Pri,Nakuru,Molo,1,30,0.0333333333333333
+4180522,35.8160524,-0.3580534,Mariashoni Pri,Nakuru,Molo,0,30,0
+4180523,35.8691251,-0.3276038,Lawina Pri,Nakuru,Molo,0,30,0
+4180524,35.8272818,-0.3421579,Tuyobei Pri,Nakuru,Molo,0,30,0
+4180531,35.784758,-0.2042022,Nguzu Pri,Nakuru,Molo,0,30,0
+4180532,35.7744422,-0.2463471,Matumaini Pr,Nakuru,Molo,0,30,0
+4180533,35.7849515,-0.2306318,Kirandich Pri,Nakuru,Molo,0,30,0
+4180534,35.7748707,-0.2127794,Kapsorok (Molo),Nakuru,Molo,0,30,0
+4180541,35.7141965,-0.2967054,Mona Michatha,Nakuru,Molo,0,30,0
+4180542,35.730822,-0.308647,Chandera Pry,Nakuru,Molo,0,30,0
+4180543,35.7454823,-0.3427785,Sagaitim,Nakuru,Molo,0,30,0
+4180544,35.6953404,-0.3000088,Kiambiriria Pry,Nakuru,Molo,0,30,0
+4180611,36.4833655,-0.7189021,Kinamba Pri,Nakuru,Naivasha,0,30,0
+4180621,36.4463991,-0.7821891,Mirera Pri,Nakuru,Naivasha,0,30,0
+4180622,36.5081362,-0.8103238,Mwiciringiri,Nakuru,Naivasha,0,30,0
+4180631,36.4395865,-0.721375,Milimani,Nakuru,Naivasha,1,30,0.0333333333333333
+4180632,36.4251525,-0.7076108,Manera Pri,Nakuru,Naivasha,0,30,0
+4180641,36.5233713,-1.1188514,Empeut,Nakuru,Naivasha,5,30,0.166666666666667
+4180642,36.5814093,-1.0653857,Kitilikini,Nakuru,Naivasha,7,30,0.233333333333333
+4180651,36.1865608,-0.8626757,Ngati,Nakuru,Naivasha,0,30,0
+4180652,36.2193797,-0.7806223,Kipkonyo,Nakuru,Naivasha,0,30,0
+4180661,36.5214787,-0.6925101,Ndoroto,Nakuru,Naivasha,0,30,0
+4180662,36.5573211,-0.8421879,Ihindu,Nakuru,Naivasha,0,30,0
+4180671,36.3155828,-0.8216756,Mvuke,Nakuru,Naivasha,1,30,0.0333333333333333
+4180672,36.341526,-0.8342127,Maua,Nakuru,Naivasha,0,30,0
+4180681,36.4341704,-0.7160366,Naivasha Central,Nakuru,Naivasha,1,28,0.0357142857142857
+4180682,36.4358709,-0.7102675,Naivasha Deb,Nakuru,Naivasha,0,30,0
+4180711,36.0833098,-0.2865026,Jamhuri Pri,Nakuru,Nakuru Town East,0,30,0
+4180712,36.071183,-0.2946555,Kenyatta,Nakuru,Nakuru Town East,0,30,0
+4180713,36.0657959,-0.2988466,Umoja Primary,Nakuru,Nakuru Town East,0,30,0
+4180721,35.6965,2.9589,Racetrack Pri,Nakuru,Nakuru Town East,0,30,0
+4180722,36.0783,-0.3052912,Lake View,Nakuru,Nakuru Town East,0,30,0
+4180723,36.0798381,-0.3055146,Kimathi,Nakuru,Nakuru Town East,0,30,0
+4180731,36.0822316,-0.3049736,Flamingo Pri,Nakuru,Nakuru Town East,0,30,0
+4180732,36.0865449,-0.297032,Nakuru Primary,Nakuru,Nakuru Town East,0,30,0
+4180733,36.0812936,-0.2905603,St Theresa S,Nakuru,Nakuru Town East,0,30,0
+4180741,36.1154029,-0.2770929,St. Johns Pri,Nakuru,Nakuru Town East,0,30,0
+4180742,36.1075117,-0.2728547,Nakuru Teachers Pry,Nakuru,Nakuru Town East,0,30,0
+4180743,36.1091574,-0.27884,Hyrax Pri,Nakuru,Nakuru Town East,0,30,0
+4180751,36.1428666,-0.3398054,Nairobi Road Pri,Nakuru,Nakuru Town East,0,30,0
+4180752,36.1522603,-0.4114358,Rhino Pri,Nakuru,Nakuru Town East,0,30,0
+4180753,36.1267882,-0.3011673,Lion Hill Pri,Nakuru,Nakuru Town East,0,30,0
+4180811,36.0540008,-0.3250531,Baruti Pri,Nakuru,Nakuru Town West,0,32,0
+4180812,36.0371783,-0.36352,Kigonor,Nakuru,Nakuru Town West,1,33,0.0303030303030303
+4180821,36.0283361,-0.3337352,Lalwet,Nakuru,Nakuru Town West,0,30,0
+4180822,36.029356,-0.3108718,Ingobor,Nakuru,Nakuru Town West,0,30,0
+4180823,36.025826,-0.3024048,Mogoon Pr,Nakuru,Nakuru Town West,0,30,0
+4180831,36.0512542,-0.2997551,Kaptembwo,Nakuru,Nakuru Town West,0,30,0
+4180832,36.053227,-0.3109576,Kibowen Komen Pri,Nakuru,Nakuru Town West,0,34,0
+4180841,36.056012,-0.2747174,Mlimani,Nakuru,Nakuru Town West,0,31,0
+4180842,36.0577373,-0.2736902,Gk Prisons Pri,Nakuru,Nakuru Town West,0,31,0
+4180843,36.0556678,-0.2706612,The Walk,Nakuru,Nakuru Town West,0,30,0
+4180851,36.0644731,-0.316554,Pcea Shallom Aca.,Nakuru,Nakuru Town West,0,31,0
+4180852,36.0684447,-0.3130967,Mwariki Primary,Nakuru,Nakuru Town West,0,30,0
+4180861,36.0517919,-0.2934167,Koinange,Nakuru,Nakuru Town West,0,31,0
+4180862,36.0625064,-0.2949266,Mama Ngina,Nakuru,Nakuru Town West,0,30,0
+4180863,36.0515918,-0.2934336,Muslim,Nakuru,Nakuru Town West,1,30,0.0333333333333333
+4180911,35.980059,-0.4712345,Davishon Pri,Nakuru,Njoro,0,30,0
+4180912,35.9637445,-0.4333607,Mutamayu,Nakuru,Njoro,0,30,0
+4180913,35.9957512,-0.4522672,Kariani Pri,Nakuru,Njoro,0,31,0
+4180921,36.0248133,-0.456355,Mugumo,Nakuru,Njoro,0,30,0
+4180926,36.014292,-0.4419212,Kiriri,Nakuru,Njoro,0,30,0
+4180931,36.0157382,-0.6291796,Makutano,Nakuru,Njoro,0,28,0
+4180933,35.9481299,-0.6649196,Maji Mingi,Nakuru,Njoro,0,30,0
+4180934,36.0084473,-0.6003694,Mau Narok,Nakuru,Njoro,0,30,0
+4180941,35.9941418,-0.5248711,Kaplelach,Nakuru,Njoro,0,30,0
+4180942,35.9496461,-0.5356298,Chepkisa Primary,Nakuru,Njoro,0,30,0
+4180943,36.0308935,-0.5438335,Chesoen,Nakuru,Njoro,0,30,0
+4180951,35.9062176,-0.4180063,Tiritagoi,Nakuru,Njoro,0,30,0
+4180952,35.874715,-0.3758794,Messipei,Nakuru,Njoro,0,30,0
+4180961,35.9444967,-0.3346459,Ndarugo Pri,Nakuru,Njoro,0,30,0
+4180962,35.9454525,-0.3388202,Utafiti Pri,Nakuru,Njoro,0,30,0
+4181011,36.031549,-0.2700401,Kiamunyi Pri,Nakuru,Rongai,0,30,0
+4181012,36.0015062,-0.1588036,Ol-Rongai Pri,Nakuru,Rongai,0,30,0
+4181013,35.9728009,-0.224616,Sasumwa Pri,Nakuru,Rongai,0,30,0
+4181021,35.9953229,-0.342418,Ngano,Nakuru,Rongai,0,30,0
+4181022,35.8825963,-0.2656204,Atebwo,Nakuru,Rongai,0,30,0
+4181023,35.9674635,-0.31628,Kerma,Nakuru,Rongai,0,30,0
+4181024,35.9884718,-0.1010414,Mountain View,Nakuru,Rongai,0,30,0
+4181041,36.1459541,0.0834556,Ruiyobei,Nakuru,Rongai,0,30,0
+4181042,36.1691134,0.0778736,Lower Solai,Nakuru,Rongai,0,30,0
+4181043,36.1358419,-0.024226,Set Kobor,Nakuru,Rongai,0,30,0
+4181044,36.0253948,-0.0563164,Mwiteithia,Nakuru,Rongai,0,30,0
+4181051,35.8309777,-0.1966986,Leldet Primary,Nakuru,Rongai,0,30,0
+4181052,35.8364307,-0.1254967,Kanga,Nakuru,Rongai,0,30,0
+4181053,35.8553945,-0.1321498,Ngesumin,Nakuru,Rongai,0,30,0
+4181054,36.0112639,-0.0923728,Tuiyotich,Nakuru,Rongai,0,30,0
+4181112,36.1366583,-0.1096983,Akuisi,Nakuru,Subukia,0,32,0
+4181122,36.1969483,-0.0306633,Subukia,Nakuru,Subukia,0,32,0
+4181131,36.2506488,0.1683373,Gatagati,Nakuru,Subukia,0,32,0
+4181132,36.2437179,0.0780036,Simboiyon (Waseges),Nakuru,Subukia,0,32,0
+4181134,36.2349994,0.010084,Looremeta,Nakuru,Subukia,0,32,0
+4190111,35.2827429,-0.2999693,Ainamoi,Kericho,Ainamoi,0,30,0
+4190121,35.3152441,-0.3501921,Chemugusu,Kericho,Ainamoi,0,30,0
+4190122,35.291505,-0.335615,Sumeiyon,Kericho,Ainamoi,0,30,0
+4190123,35.2992144,-0.3435141,Keongo,Kericho,Ainamoi,0,30,0
+4190131,35.3792369,-0.2792548,Kondamet-Tul,Kericho,Ainamoi,0,29,0
+4190132,35.33428,-0.3203304,Kapngetuny,Kericho,Ainamoi,0,30,0
+4190141,35.2497383,-0.34548,Chepkurbet,Kericho,Ainamoi,0,30,0
+4190142,35.1996076,-0.3061424,Torit,Kericho,Ainamoi,0,30,0
+4190143,35.2172834,-0.2628467,Lemeiywet,Kericho,Ainamoi,0,30,0
+4190151,35.2807117,-0.3710165,Highland,Kericho,Ainamoi,1,30,0.0333333333333333
+4190152,35.2577445,-0.3701287,Chepkolon,Kericho,Ainamoi,1,30,0.0333333333333333
+4190161,35.28037,-0.3512176,Kerego,Kericho,Ainamoi,0,30,0
+4190162,35.2645233,-0.3404454,Kaparuso,Kericho,Ainamoi,0,30,0
+4190211,35.3129504,-0.4114162,Saosa,Kericho,Belgut,2,32,0.0625
+4190212,35.3171378,-0.363282,Tilwet,Kericho,Belgut,4,32,0.125
+4190213,35.1759083,-0.4650233,Jamji,Kericho,Belgut,3,32,0.09375
+4190221,35.222575,-0.4080633,Kapsuser,Kericho,Belgut,0,30,0
+4190222,35.1802291,-0.4290206,Kesagetiet,Kericho,Belgut,0,30,0
+4190223,35.1793388,-0.4545628,Chepkosilen,Kericho,Belgut,0,30,0
+4190231,35.1499869,-0.4300333,Mobego,Kericho,Belgut,0,30,0
+4190232,35.1049688,-0.4594271,Kamaas,Kericho,Belgut,1,30,0.0333333333333333
+4190233,35.0947843,-0.4366728,Kapkures B,Kericho,Belgut,2,30,0.0666666666666667
+4190241,35.2177567,-0.3615317,Kapnandet,Kericho,Belgut,0,30,0
+4190242,35.210881,-0.3732762,Kaplemeiywet,Kericho,Belgut,0,31,0
+4190243,35.2208192,-0.3863853,Susumwet,Kericho,Belgut,1,30,0.0333333333333333
+4190251,35.1665283,-0.3887517,Chyemen,Kericho,Belgut,0,31,0
+4190252,35.1827953,-0.3347882,Cheronget,Kericho,Belgut,0,30,0
+4190311,35.1080875,-0.6007947,Kaptele,Kericho,Bureti,3,30,0.1
+4190312,35.0961014,-0.5283442,Chesamisiet,Kericho,Bureti,0,30,0
+4190321,35.1734512,-0.5394695,Chelilis,Kericho,Bureti,1,30,0.0333333333333333
+4190322,35.2054015,-0.4432554,Kipkerieny,Kericho,Bureti,1,30,0.0333333333333333
+4190331,35.0768387,-0.5891432,Arokyet,Kericho,Bureti,2,30,0.0666666666666667
+4190332,35.0876337,-0.6013804,Kaldit,Kericho,Bureti,13,30,0.433333333333333
+4190341,35.1648319,-0.639765,Sosit,Kericho,Bureti,1,30,0.0333333333333333
+4190342,35.1720768,-0.6588953,Kimugul,Kericho,Bureti,5,30,0.166666666666667
+4190351,35.1373221,-0.4847369,Chamamanyik,Kericho,Bureti,0,30,0
+4190352,35.0726534,-0.5000866,Mabasi,Kericho,Bureti,6,30,0.2
+4190353,35.0871585,-0.4852761,Reresik,Kericho,Bureti,1,30,0.0333333333333333
+4190361,35.1312852,-0.6190458,Cheribo Ochi,Kericho,Bureti,5,30,0.166666666666667
+4190362,35.1865077,-0.5701608,Lalagin,Kericho,Bureti,1,30,0.0333333333333333
+4190371,35.1074505,-0.548152,Kabusienduk,Kericho,Bureti,1,30,0.0333333333333333
+4190372,35.1040115,-0.5743798,Siongi,Kericho,Bureti,0,30,0
+4190411,35.4560829,-0.2430987,Sigowet,Kericho,Kipkelion East,0,30,0
+4190412,35.3653017,-0.3240403,Mau Tea,Kericho,Kipkelion East,1,30,0.0333333333333333
+4190413,35.4130663,-0.250533,Tugunon,Kericho,Kipkelion East,0,30,0
+4190421,35.5250829,-0.2444224,Sitian,Kericho,Kipkelion East,0,30,0
+4190422,35.5733949,-0.2220125,Ndarugu,Kericho,Kipkelion East,0,30,0
+4190423,35.6010865,-0.2189016,Ewat,Kericho,Kipkelion East,0,30,0
+4190424,35.6011937,-0.2056186,Chebewor,Kericho,Kipkelion East,0,31,0
+4190431,35.6005159,-0.1229046,Londiani Farmers,Kericho,Kipkelion East,0,30,0
+4190432,35.5278341,-0.1230578,Saramek,Kericho,Kipkelion East,0,30,0
+4190433,35.5797414,-0.1347835,Masaita,Kericho,Kipkelion East,0,31,0
+4190434,35.5345503,-0.1456647,Kipsirichet,Kericho,Kipkelion East,0,30,0
+4190441,35.4693975,-0.0150539,Tendeno,Kericho,Kipkelion East,0,30,0
+4190442,35.5956563,-0.0803879,Simboiyon,Kericho,Kipkelion East,0,30,0
+4190443,35.4964189,-0.0171435,Malaget,Kericho,Kipkelion East,0,31,0
+4190444,35.5533841,-0.0819286,Sorget,Kericho,Kipkelion East,0,30,0
+4190511,35.3496479,-0.1978737,Chilchilia,Kericho,Kipkelion West,0,30,0
+4190512,35.3555267,-0.2141883,Siwot,Kericho,Kipkelion West,0,30,0
+4190513,35.3723022,-0.1865913,Chepkendi,Kericho,Kipkelion West,0,30,0
+4190521,35.4128251,-0.1318515,Nyagacho,Kericho,Kipkelion West,0,30,0
+4190522,35.4369128,-0.1525463,Lelu Pri,Kericho,Kipkelion West,0,30,0
+4190523,35.430094,-0.1339441,Bartera Pri,Kericho,Kipkelion West,0,30,0
+4190524,35.4419451,-0.1239089,Saoset,Kericho,Kipkelion West,0,30,0
+4190531,35.4801958,-0.1897018,Kipchorian,Kericho,Kipkelion West,0,30,0
+4190532,35.5053314,-0.1287953,Seguton,Kericho,Kipkelion West,0,31,0
+4190533,35.4978606,-0.1666172,Kenyelet,Kericho,Kipkelion West,0,30,0
+4190534,35.4724862,-0.1145972,Kimologit,Kericho,Kipkelion West,0,30,0
+4190541,35.2809783,-0.143665,Sirgoi,Kericho,Kipkelion West,0,30,0
+4190542,35.2903117,-0.1529916,Urafiki,Kericho,Kipkelion West,1,30,0.0333333333333333
+4190543,35.3154581,-0.1601664,Kotetni,Kericho,Kipkelion West,0,30,0
+4190544,35.2781483,-0.1179583,Chesigot,Kericho,Kipkelion West,0,30,0
+4190611,35.0865464,-0.3481142,Kiplekwa,Kericho,Sigowet/Soin,0,30,0
+4190612,35.0832035,-0.3586786,Iraa,Kericho,Sigowet/Soin,0,30,0
+4190613,35.0651414,-0.4029265,Kipsamoi-Soin/Sigowet,Kericho,Sigowet/Soin,0,30,0
+4190621,35.0585148,-0.4821307,Cheptuiyet,Kericho,Sigowet/Soin,2,30,0.0666666666666667
+4190622,35.0833703,-0.4553042,Kabasweti,Kericho,Sigowet/Soin,5,30,0.166666666666667
+4190624,35.0727104,-0.4241524,Kapkeburu,Kericho,Sigowet/Soin,0,30,0
+4190631,34.932228,-0.1766956,Nyalibuch,Kericho,Sigowet/Soin,0,30,0
+4190632,35.2260081,-0.1743848,Koyabei,Kericho,Sigowet/Soin,1,30,0.0333333333333333
+4190633,35.2029611,-0.2135259,Koitaburot Primary,Kericho,Sigowet/Soin,0,30,0
+4190634,35.1453461,-0.1715961,Kileges,Kericho,Sigowet/Soin,0,30,0
+4190641,35.1124366,-0.2737942,Cheramor,Kericho,Sigowet/Soin,0,30,0
+4190642,35.1404574,-0.3133793,Koron-Koi [Kericho],Kericho,Sigowet/Soin,0,30,0
+4190643,35.1634857,-0.3005407,Sombicho,Kericho,Sigowet/Soin,0,30,0
+4190644,35.065227,-0.3085763,Kapsorok,Kericho,Sigowet/Soin,0,30,0
+4200111,34.8915736,0.1114416,Chepkuny,Nandi,Aldai,0,30,0
+4200112,34.8781561,0.1253479,Koibarak,Nandi,Aldai,0,30,0
+4200121,35.0664477,0.0859287,Kamarini,Nandi,Aldai,0,30,0
+4200122,35.1003881,0.0849862,Kipchawat,Nandi,Aldai,0,30,0
+4200123,35.0781034,0.0839312,Ibanja,Nandi,Aldai,0,30,0
+4200131,34.8908622,0.0034278,Tirikwo,Nandi,Aldai,0,32,0
+4200132,34.8800979,0.0805286,Koitabut,Nandi,Aldai,0,30,0
+4200141,34.9324598,0.0342767,Kibora,Nandi,Aldai,0,30,0
+4200142,34.957499,0.0439439,Chepkebuge,Nandi,Aldai,0,30,0
+4200143,34.9768996,0.0555906,Kobujoi,Nandi,Aldai,0,30,0
+4200151,35.000901,0.0065711,Kimolwo,Nandi,Aldai,0,30,0
+4200152,35.0545117,0.0365667,Koyo,Nandi,Aldai,0,30,0
+4200161,34.8564678,0.038485,Kapchebuchek,Nandi,Aldai,0,30,0
+4200162,34.7669327,-0.014792,Soi,Nandi,Aldai,0,30,0
+4200163,34.8542853,0.050672,Siginwai,Nandi,Aldai,0,30,0
+4200211,35.1120512,0.2853634,Karlel,Nandi,Chesumei,0,30,0
+4200212,35.0882903,0.2490999,Chemundu,Nandi,Chesumei,0,30,0
+4200213,35.0662819,0.2389514,Kapkechui,Nandi,Chesumei,0,30,0
+4200221,35.0589878,0.2786491,St Emmanuel Kapkoimet,Nandi,Chesumei,0,30,0
+4200222,35.0959144,0.3128247,Sironoi Sda,Nandi,Chesumei,0,30,0
+4200223,35.0409584,0.3231749,Kiutany,Nandi,Chesumei,0,30,0
+4200231,34.997845,0.1690767,Siksiket,Nandi,Chesumei,0,30,0
+4200232,35.0081123,0.1795796,Kechire,Nandi,Chesumei,0,30,0
+4200241,35.1274003,0.3125194,Kokwet,Nandi,Chesumei,0,30,0
+4200242,35.1448358,0.2738114,Aic Belekenya,Nandi,Chesumei,0,30,0
+4200243,35.1413104,0.3011521,St Francis Rongit,Nandi,Chesumei,0,30,0
+4200251,35.1880119,0.2994455,Nduroto,Nandi,Chesumei,0,30,0
+4200252,35.1334614,0.3776416,Kipkongorwa,Nandi,Chesumei,0,30,0
+4200253,35.2156543,0.2841791,Aic Kapkongony,Nandi,Chesumei,0,30,0
+4200311,34.9568167,0.1466017,Kabaskei,Nandi,Emgwen,1,30,0.0333333333333333
+4200312,34.9363567,0.1048833,Senetwo,Nandi,Emgwen,0,31,0
+4200313,34.9400598,0.1369421,Kamno,Nandi,Emgwen,0,30,0
+4200321,34.9611167,0.2005117,Kamenon,Nandi,Emgwen,1,30,0.0333333333333333
+4200322,34.9336233,0.1912833,Mokwo,Nandi,Emgwen,0,30,0
+4200323,34.9210698,0.1701114,Kapkatoi,Nandi,Emgwen,1,30,0.0333333333333333
+4200324,34.9358596,0.174989,Sirwa Yala,Nandi,Emgwen,1,30,0.0333333333333333
+4200331,35.1195663,0.1688632,Meswo,Nandi,Emgwen,0,30,0
+4200332,35.0758086,0.1770766,Kapkesengin,Nandi,Emgwen,0,30,0
+4200333,35.0683349,0.1540995,Simteret,Nandi,Emgwen,0,30,0
+4200334,35.135255,0.20542,Aic Kaptumoo,Nandi,Emgwen,0,30,0
+4200341,35.2602858,0.235348,Songoliet,Nandi,Emgwen,0,30,0
+4200343,35.2695223,0.2544525,Sinendo,Nandi,Emgwen,0,30,0
+4200344,35.1473727,0.180786,Kipture,Nandi,Emgwen,0,30,0
+4200411,34.8811588,0.5270123,Kolonget,Nandi,Mosop,0,30,0
+4200412,34.8801891,0.5413219,Kamasai,Nandi,Mosop,0,30,0
+4200421,35.1498816,0.4562486,Kormaet,Nandi,Mosop,0,30,0
+4200422,35.12253,0.3559998,Kipsamoo,Nandi,Mosop,0,30,0
+4200431,35.077425,0.4552584,Kapkagaron,Nandi,Mosop,0,30,0
+4200432,35.0780564,0.4297121,Cheptuiyet (Kabiyet),Nandi,Mosop,0,30,0
+4200441,35.0595698,0.5335934,Kakiptui,Nandi,Mosop,1,30,0.0333333333333333
+4200442,35.0232873,0.4469432,Kimong,Nandi,Mosop,0,30,0
+4200451,34.9589436,0.4149225,Chepnyogoson,Nandi,Mosop,0,30,0
+4200452,34.9855756,0.4161844,Kiptangus,Nandi,Mosop,0,30,0
+4200461,35.1177,0.5286285,Nyigoon,Nandi,Mosop,0,30,0
+4200462,35.149994,0.5282432,Ngariet,Nandi,Mosop,0,30,0
+4200471,35.0270952,0.3511534,Sangalo,Nandi,Mosop,0,30,0
+4200472,35.0425951,0.3466823,Kugeroniot,Nandi,Mosop,0,30,0
+4200473,35.0446869,0.3628229,Sangalo Township,Nandi,Mosop,0,33,0
+4200511,35.2851625,0.1341524,Ngame,Nandi,Nandi Hills,4,30,0.133333333333333
+4200512,35.2149861,0.1021135,Septon,Nandi,Nandi Hills,4,30,0.133333333333333
+4200513,35.2184885,0.1658512,Kogamei,Nandi,Nandi Hills,1,30,0.0333333333333333
+4200522,35.3068338,0.1386256,Mogobich,Nandi,Nandi Hills,2,30,0.0666666666666667
+4200523,35.3003723,0.0781534,Kipkorom,Nandi,Nandi Hills,2,30,0.0666666666666667
+4200524,35.3183453,0.0174926,Cherobon,Nandi,Nandi Hills,0,30,0
+4200541,35.3135516,0.175813,Koilot,Nandi,Nandi Hills,0,30,0
+4200542,35.2895057,0.1576406,Ogirgir,Nandi,Nandi Hills,0,30,0
+4200543,35.3370404,0.1641061,Ndururo,Nandi,Nandi Hills,1,30,0.0333333333333333
+4200544,35.2575921,0.1617189,Kipkoror,Nandi,Nandi Hills,1,30,0.0333333333333333
+4200611,35.1101392,0.012677,Tambul,Nandi,Tinderet,2,30,0.0666666666666667
+4200612,35.1648603,-0.0387374,Tuiyobei,Nandi,Tinderet,0,30,0
+4200613,35.0272843,-0.0178432,Kibongwa,Nandi,Tinderet,0,30,0
+4200621,35.1240393,0.0535503,Barasendu,Nandi,Tinderet,0,30,0
+4200622,35.16415,0.0475117,Morobi,Nandi,Tinderet,0,30,0
+4200623,35.1481099,0.0722987,Kibwari,Nandi,Tinderet,1,30,0.0333333333333333
+4200624,35.2251572,0.0363618,Kapsoito,Nandi,Tinderet,1,30,0.0333333333333333
+4200631,35.2882241,0.0019316,Kabutiei,Nandi,Tinderet,0,30,0
+4200632,35.0250438,-0.036595,Kamuny,Nandi,Tinderet,0,30,0
+4200633,35.2761668,0.016918,Kipsielei,Nandi,Tinderet,0,30,0
+4200634,35.2767617,-0.0706367,Koiyet,Nandi,Tinderet,0,30,0
+4200641,35.3768394,0.0257301,Koisegem,Nandi,Tinderet,0,30,0
+4200642,35.3594432,0.0104009,Tachasis,Nandi,Tinderet,0,30,0
+4200643,35.3319528,0.02183,Kimugul (Tindiret),Nandi,Tinderet,0,30,0
+4200644,35.3831007,-0.0027425,Olomotit,Nandi,Tinderet,1,30,0.0333333333333333
+4210111,35.0898557,-1.0234045,Emityot,Narok,Emurua Dikirr,1,32,0.03125
+4210112,35.0937232,-0.9562868,Chepkoiyet,Narok,Emurua Dikirr,0,32,0
+4210113,35.1363506,-1.058074,Rwandanat,Narok,Emurua Dikirr,0,32,0
+4210121,35.1689416,-1.011805,Kipkandulit,Narok,Emurua Dikirr,0,32,0
+4210122,35.15715,-0.9714567,Koibeiyot,Narok,Emurua Dikirr,0,32,0
+4210123,35.1298841,-0.9670396,Kapsasian,Narok,Emurua Dikirr,1,32,0.03125
+4210124,35.1329458,-0.9947277,Kitait,Narok,Emurua Dikirr,1,32,0.03125
+4210131,35.0184233,-1.0200817,Chesabuni,Narok,Emurua Dikirr,2,32,0.0625
+4210132,35.0738315,-0.9906536,Mogondo,Narok,Emurua Dikirr,0,32,0
+4210133,35.0406772,-0.9991342,Chebara,Narok,Emurua Dikirr,1,32,0.03125
+4210134,35.0107647,-1.0323004,Mogor,Narok,Emurua Dikirr,0,32,0
+4210141,35.062769,-0.9279797,Kamermeru,Narok,Emurua Dikirr,0,32,0
+4210142,35.063591,-0.9498416,Simotwet,Narok,Emurua Dikirr,1,32,0.03125
+4210143,35.0700709,-0.9559914,Tach-Asis,Narok,Emurua Dikirr,5,32,0.15625
+4210144,35.0796864,-0.9323115,Cheserton,Narok,Emurua Dikirr,1,32,0.03125
+4210211,34.812941,-1.3348006,Olesoilal,Narok,Kilgoris,11,32,0.34375
+4210212,34.7549883,-1.3425567,Ngendalel,Narok,Kilgoris,9,32,0.28125
+4210221,34.7333532,-1.0215836,Enoosaen,Narok,Kilgoris,5,32,0.15625
+4210222,34.68916,-1.0735317,Oldanyati,Narok,Kilgoris,11,32,0.34375
+4210223,34.6810884,-1.0358204,Ntuka (Keyian),Narok,Kilgoris,7,32,0.21875
+4210231,34.97119,-1.0415344,Kilena,Narok,Kilgoris,16,32,0.5
+4210232,34.9071894,-0.9418077,Osupuko,Narok,Kilgoris,0,32,0
+4210241,34.9473586,-1.0954256,Enairukurukoi,Narok,Kilgoris,4,33,0.121212121212121
+4210242,35.0284282,-1.2038903,Iltolish Mara,Narok,Kilgoris,3,32,0.09375
+4210243,35.2059152,-1.0625641,Olmeoshi,Narok,Kilgoris,7,32,0.21875
+4210251,34.8577634,-1.1823651,Entejia,Narok,Kilgoris,14,30,0.466666666666667
+4210252,34.7753029,-1.1453531,Ntoluo,Narok,Kilgoris,7,32,0.21875
+4210261,34.7948062,-0.9700913,Shankoe,Narok,Kilgoris,2,32,0.0625
+4210262,34.8730613,-1.0059715,Sosio,Narok,Kilgoris,1,32,0.03125
+4210263,34.8290204,-0.9887262,Endoinyo Onkopit,Narok,Kilgoris,7,32,0.21875
+4210311,35.9578084,-1.2450332,Iltumutum,Narok,Narok East,0,32,0
+4210312,36.0535511,-0.970324,Olopikidongoe,Narok,Narok East,0,34,0
+4210313,36.1038739,-0.8775208,Olesito,Narok,Narok East,0,32,0
+4210321,36.1596743,-1.0468978,Ilooiboti,Narok,Narok East,0,33,0
+4210322,36.1617614,-1.0195106,Lelongo,Narok,Narok East,0,32,0
+4210323,36.203245,-1.1253245,Oloikarere,Narok,Narok East,0,34,0
+4210324,36.311545,-1.1780183,Karuka,Narok,Narok East,0,31,0
+4210331,36.0458014,-1.1624479,Enoolpopong,Narok,Narok East,0,32,0
+4210332,36.1182379,-1.3885129,Mosiro,Narok,Narok East,0,32,0
+4210333,36.11596,-1.1280017,Oloika,Narok,Narok East,0,32,0
+4210334,36.0782255,-1.0244096,Ilkiremisho,Narok,Narok East,0,32,0
+4210341,36.2802046,-1.0076789,Oloirowua,Narok,Narok East,0,32,0
+4210342,36.1784671,-1.1017627,Oloitip,Narok,Narok East,0,32,0
+4210343,36.1802739,-0.982957,Ilkirragarien,Narok,Narok East,0,32,0
+4210344,36.6247435,-1.0144799,Oltepesi,Narok,Narok East,0,33,0
+4210411,35.9500095,-0.9759676,Iretet (Melili),Narok,Narok North,0,32,0
+4210412,35.9500055,-0.9763909,Olturoto,Narok,Narok North,0,30,0
+4210421,35.8728568,-1.0843743,Masikonde,Narok,Narok North,0,30,0
+4210422,35.8201239,-1.0565839,Nairasirasa,Narok,Narok North,0,30,0
+4210423,35.917106,-1.1268327,Osegel,Narok,Narok North,0,30,0
+4210431,35.7691465,-1.0989316,Katakala,Narok,Narok North,0,30,0
+4210432,35.7599732,-0.9322842,Olokuseroi,Narok,Narok North,0,30,0
+4210441,35.8842003,-0.6647233,Naituyupaki,Narok,Narok North,0,30,0
+4210442,35.823475,-0.6338509,Ilpolton,Narok,Narok North,1,30,0.0333333333333333
+4210443,35.9296738,-0.591306,Miti Mbili,Narok,Narok North,0,30,0
+4210451,35.8899001,-0.8605479,Kisiriri,Narok,Narok North,0,30,0
+4210452,35.9076947,-0.7628216,Ololoiboti,Narok,Narok North,0,30,0
+4210461,35.7432019,-0.5454138,Olemeisi,Narok,Narok North,2,30,0.0666666666666667
+4210462,35.7755737,-0.6118901,Kamurar,Narok,Narok North,3,30,0.1
+4210463,35.7521192,-0.5697206,Olpusimoru,Narok,Narok North,0,30,0
+4210511,35.7827575,-1.8230214,Nkopon,Narok,Narok South,0,32,0
+4210512,35.8494673,-1.8644842,Esoit Empurputia,Narok,Narok South,2,30,0.0666666666666667
+4210521,35.6201252,-1.0795668,Oloongila,Narok,Narok South,0,32,0
+4210522,35.8288867,-1.3174667,Oloornganayio,Narok,Narok South,1,32,0.03125
+4210523,35.8890404,-1.384633,Ntuka,Narok,Narok South,1,33,0.0303030303030303
+4210531,35.6725064,-0.9492974,Olooretet,Narok,Narok South,0,32,0
+4210532,35.5704183,-0.8740767,Olenganji Nabo,Narok,Narok South,0,32,0
+4210541,35.7188095,-0.9123023,Olenkoirien,Narok,Narok South,0,32,0
+4210542,35.7439957,-0.8175573,Osotua,Narok,Narok South,0,32,0
+4210543,35.7244882,-1.3628258,Iltalala,Narok,Narok South,0,32,0
+4210551,35.5542602,-0.8023387,Sagamian,Narok,Narok South,0,32,0
+4210552,35.5865069,-0.7576448,Bondet,Narok,Narok South,0,32,0
+4210561,35.5477228,-0.8345136,Chepkwendo,Narok,Narok South,0,33,0
+4210562,35.6071684,-0.870135,Tiriytab Angwan,Narok,Narok South,1,33,0.0303030303030303
+4210563,35.5745141,-0.8007134,Kwalela,Narok,Narok South,0,32,0
+4210611,35.5304923,-1.1020615,Oloonkerin,Narok,Narok West,0,32,0
+4210612,35.4827162,-0.8892931,Aganga,Narok,Narok West,0,32,0
+4210613,35.5226052,-0.9486546,Kipsongol,Narok,Narok West,0,32,0
+4210621,35.4923952,-1.0784318,Ole Nabaala,Narok,Narok West,0,32,0
+4210622,35.4068724,-1.1227433,Enoosoito,Narok,Narok West,1,32,0.03125
+4210623,35.6739823,-1.519121,Iretet,Narok,Narok West,1,32,0.03125
+4210624,35.3559958,-1.0435627,Laila,Narok,Narok West,0,32,0
+4210631,35.7180333,-1.6728337,Enturoto,Narok,Narok West,0,32,0
+4210632,35.3784483,-1.687075,Olpalakilaki,Narok,Narok West,3,32,0.09375
+4210633,35.7472201,-1.693164,Leshuta,Narok,Narok West,0,32,0
+4210634,35.6661245,-1.6016214,Naikarra,Narok,Narok West,1,32,0.03125
+4210641,35.3943666,-1.4622549,Nkoilale,Narok,Narok West,0,32,0
+4210642,35.5835311,-1.1813496,Nkairowuani,Narok,Narok West,2,32,0.0625
+4210643,35.7181786,-1.6725053,Sekenani,Narok,Narok West,3,32,0.09375
+4210644,35.521439,-1.5319875,Ripoi,Narok,Narok West,0,32,0
+4220111,36.7992852,-2.0366416,Esilalei,Kajiado,Kajiado Central,0,32,0
+4220112,36.7908708,-1.8366899,Saina,Kajiado,Kajiado Central,0,32,0
+4220113,37.1186552,-2.0590206,Oloontulugum,Kajiado,Kajiado Central,0,32,0
+4220121,36.8120733,-1.814481,Oloosuyian,Kajiado,Kajiado Central,0,32,0
+4220122,36.7679,-1.9254068,Empoor Nalepo,Kajiado,Kajiado Central,0,32,0
+4220123,36.8188029,-1.8128426,Moipei,Kajiado,Kajiado Central,0,32,0
+4220131,36.5716119,-2.16821,Esoit,Kajiado,Kajiado Central,0,32,0
+4220132,36.7988416,-2.0974092,Ilbissil Township,Kajiado,Kajiado Central,0,32,0
+4220133,36.9757993,-2.1976276,Letoire,Kajiado,Kajiado Central,0,32,0
+4220141,36.7239796,-2.5043128,Olmanie,Kajiado,Kajiado Central,4,32,0.125
+4220142,36.7854832,-2.5445889,Namanga Township,Kajiado,Kajiado Central,2,32,0.0625
+4220143,36.964555,-2.3272999,Mailwa,Kajiado,Kajiado Central,0,32,0
+4220151,36.7400541,-2.0473207,Enkaroni,Kajiado,Kajiado Central,0,32,0
+4220152,36.8216707,-2.0152648,Ilmolelian,Kajiado,Kajiado Central,0,32,0
+4220153,36.7667276,-2.070267,Ilparrua,Kajiado,Kajiado Central,0,32,0
+4220211,37.0819079,-1.858988,Inkoirienito Pry Sch.,Kajiado,Kajiado East,0,28,0
+4220212,36.950854,-1.8575571,Emarti,Kajiado,Kajiado East,0,32,0
+4220213,37.0576497,-1.9380389,Elangata Nanyokie,Kajiado,Kajiado East,0,31,0
+4220221,37.0560934,-1.7592686,Ilpolosat,Kajiado,Kajiado East,0,32,0
+4220222,36.8690555,-1.6420891,Kepiro,Kajiado,Kajiado East,0,32,0
+4220223,36.8436974,-1.7015402,Olelenku,Kajiado,Kajiado East,0,30,0
+4220231,37.3495927,-2.2283065,Sunde,Kajiado,Kajiado East,0,32,0
+4220232,37.3700236,-2.023038,Sultan Hamud Township,Kajiado,Kajiado East,0,35,0
+4220233,37.6157355,-2.1891809,Mck Kiboko,Kajiado,Kajiado East,0,35,0
+4220241,36.9734774,-1.4976176,Dr. Likimani Pry,Kajiado,Kajiado East,0,34,0
+4220242,36.9153417,-1.56135,Enkasiti,Kajiado,Kajiado East,0,29,0
+4220243,36.7849038,-1.5340915,Ereteti,Kajiado,Kajiado East,0,32,0
+4220251,36.7842681,-1.5340516,Sholinke,Kajiado,Kajiado East,0,31,0
+4220252,36.9450109,-1.4796111,Athiriver Gk Prison,Kajiado,Kajiado East,0,32,0
+4220253,36.8997288,-1.5247169,Snr. Chief Mutunkei,Kajiado,Kajiado East,0,33,0
+4220321,36.718045,-1.3685428,Nkaimurunya Sch.,Kajiado,Kajiado North,0,31,0
+4220322,36.7449149,-1.3858636,Onkata Rongai,Kajiado,Kajiado North,0,33,0
+4220323,36.747596,-1.3874287,Nakeel,Kajiado,Kajiado North,0,31,0
+4220331,36.6860067,-1.3905033,Enoomatasiani,Kajiado,Kajiado North,0,32,0
+4220332,36.65724,-1.3999783,Upper Matasia,Kajiado,Kajiado North,0,32,0
+4220333,36.6973321,-1.3799174,Olkeri Pry Sch.,Kajiado,Kajiado North,0,32,0
+4220335,36.7102637,-1.3848512,Ilmerijo,Kajiado,Kajiado North,0,28,0
+4220342,36.6583133,-1.3217567,Kerarapon,Kajiado,Kajiado North,0,32,0
+4220343,36.781,-1.2998,Serare Sch.,Kajiado,Kajiado North,0,33,0
+4220344,36.6705226,-1.3604679,Oloolua Pry,Kajiado,Kajiado North,0,32,0
+4220352,36.7720936,-1.4016007,Olekasasi,Kajiado,Kajiado North,0,32,0
+4220411,37.4359538,-2.8934728,Olchorro,Kajiado,Kajiado South,0,32,0
+4220412,37.453554,-2.6922134,Osoit,Kajiado,Kajiado South,0,32,0
+4220413,37.2181529,-2.398798,Lenkisim,Kajiado,Kajiado South,0,32,0
+4220421,37.5367543,-2.8591087,Impiron Shapashina,Kajiado,Kajiado South,0,32,0
+4220422,37.530442,-2.8121207,Kimana Pry,Kajiado,Kajiado South,0,32,0
+4220423,37.5186046,-2.7919216,Oloile,Kajiado,Kajiado South,0,32,0
+4220431,37.5043102,-2.9303627,Deb,Kajiado,Kajiado South,0,32,0
+4220432,37.656789,-2.7545564,Olorika,Kajiado,Kajiado South,0,32,0
+4220433,37.8761632,-2.8703703,Iltilal,Kajiado,Kajiado South,0,32,0
+4220441,37.712985,-2.6775173,Olbili,Kajiado,Kajiado South,0,32,0
+4220442,37.2763101,-2.2204364,Iloirero,Kajiado,Kajiado South,0,32,0
+4220443,37.5216389,-2.5555036,Enkijape,Kajiado,Kajiado South,0,32,0
+4220451,37.6004436,-2.9969133,Olmaroroi,Kajiado,Kajiado South,0,32,0
+4220452,37.7598065,-3.1757326,Oloibor Soit,Kajiado,Kajiado South,0,32,0
+4220453,37.6175358,-2.9938944,Entarara,Kajiado,Kajiado South,0,32,0
+4220511,36.3751826,-1.1175074,Kisharu,Kajiado,Kajiado West,1,32,0.03125
+4220512,36.5002029,-1.1615754,Ewuaso Pri,Kajiado,Kajiado West,4,32,0.125
+4220513,36.6379021,-1.347784,Kibiko Pry,Kajiado,Kajiado West,0,32,0
+4220521,36.592916,-1.9022913,Elankata Wuas,Kajiado,Kajiado West,0,35,0
+4220522,36.4959463,-1.91927,Sinkiraine,Kajiado,Kajiado West,0,33,0
+4220523,36.410026,-2.2644702,Torosei,Kajiado,Kajiado West,0,35,0
+4220531,36.692217,-1.453075,Naromoru,Kajiado,Kajiado West,1,32,0.03125
+4220532,36.393673,-1.6072576,Esonorua,Kajiado,Kajiado West,0,32,0
+4220533,36.6848075,-1.7164558,Esilanke,Kajiado,Kajiado West,0,32,0
+4220541,36.3457312,-1.77935,Oldonyonyokie,Kajiado,Kajiado West,0,32,0
+4220542,36.1245311,-2.0915737,Shompole,Kajiado,Kajiado West,3,32,0.09375
+4220543,36.0611049,-1.8132824,Oloibortoto,Kajiado,Kajiado West,21,32,0.65625
+4220551,36.1747242,-1.5588336,Embarbal Pri,Kajiado,Kajiado West,0,32,0
+4220552,36.2735182,-1.3591178,Oldepe,Kajiado,Kajiado West,0,32,0
+4220553,36.1421634,-1.4767678,Oldorko Mosiro,Kajiado,Kajiado West,0,34,0
+4240111,35.5998528,0.8458586,Kermuk,Elgeyo/Marakwet,Keiyo North,0,32,0
+4240121,35.5081345,0.5260681,St Peters Kapkoi,Elgeyo/Marakwet,Keiyo North,0,32,0
+4240122,35.4215899,0.6911097,Kaplamai,Elgeyo/Marakwet,Keiyo North,0,32,0
+4240123,35.4729719,0.6380523,Katalel,Elgeyo/Marakwet,Keiyo North,0,32,0
+4240124,35.4804178,0.5664002,Kapteren,Elgeyo/Marakwet,Keiyo North,0,32,0
+4240131,35.4861463,0.6895411,St. Peter���S Chebokokwa.,Elgeyo/Marakwet,Keiyo North,0,32,0
+4240132,35.526671,0.7664442,Msekekwa,Elgeyo/Marakwet,Keiyo North,0,32,0
+4240133,35.5145987,0.7155433,Singore Pr,Elgeyo/Marakwet,Keiyo North,0,32,0
+4240134,35.495078,0.7687524,Kaplolo,Elgeyo/Marakwet,Keiyo North,0,32,0
+4240141,35.5542163,0.6159783,Emkong Primary School,Elgeyo/Marakwet,Keiyo North,0,32,0
+4240142,35.5250906,0.6109226,Chepkogin,Elgeyo/Marakwet,Keiyo North,0,32,0
+4240143,35.5325981,0.6694619,Nyawa,Elgeyo/Marakwet,Keiyo North,0,32,0
+4240144,35.5162224,0.56823,Kipka,Elgeyo/Marakwet,Keiyo North,0,32,0
+4240211,35.5401731,0.3447932,Kapalwat,Elgeyo/Marakwet,Keiyo South,0,30,0
+4240212,35.5840609,0.365215,Kamwago,Elgeyo/Marakwet,Keiyo South,0,30,0
+4240221,35.5475367,0.2878994,Kipkabus Forest,Elgeyo/Marakwet,Keiyo South,0,30,0
+4240222,35.5585709,0.2477069,Kimwogo,Elgeyo/Marakwet,Keiyo South,0,30,0
+4240223,35.5698481,0.2296173,Tinone,Elgeyo/Marakwet,Keiyo South,0,30,0
+4240231,35.5829042,0.3940125,Chororget,Elgeyo/Marakwet,Keiyo South,1,30,0.0333333333333333
+4240232,35.5468939,0.4771139,Toroplongon,Elgeyo/Marakwet,Keiyo South,0,30,0
+4240241,35.596365,0.1737283,Kipsaos,Elgeyo/Marakwet,Keiyo South,0,30,0
+4240242,35.5992028,0.2152703,Kiptengwer,Elgeyo/Marakwet,Keiyo South,0,30,0
+4240243,35.6541744,0.1762626,St. Patrick Kabirirsus,Elgeyo/Marakwet,Keiyo South,0,30,0
+4240251,35.6011041,0.3751188,Simit,Elgeyo/Marakwet,Keiyo South,0,30,0
+4240252,35.5487021,0.4902077,Surmo Primary,Elgeyo/Marakwet,Keiyo South,0,30,0
+4240261,35.6143928,0.2769905,Kalwal,Elgeyo/Marakwet,Keiyo South,0,31,0
+4240262,35.6431368,0.3171293,Kimwarer,Elgeyo/Marakwet,Keiyo South,0,30,0
+4240263,35.7090285,0.2201124,Kapkosom,Elgeyo/Marakwet,Keiyo South,0,30,0
+4240311,35.5800491,1.2328091,Maron,Elgeyo/Marakwet,Marakwet East,3,33,0.0909090909090909
+4240312,35.6056166,1.2648136,Boroko,Elgeyo/Marakwet,Marakwet East,0,30,0
+4240313,35.5998286,1.162432,Kapchebau Pri,Elgeyo/Marakwet,Marakwet East,0,32,0
+4240321,35.6564256,1.2061399,Tot,Elgeyo/Marakwet,Marakwet East,0,32,0
+4240322,35.6536019,1.2347946,Kimongo Pri,Elgeyo/Marakwet,Marakwet East,0,31,0
+4240323,35.6454249,1.1276416,Chesongoch Pri,Elgeyo/Marakwet,Marakwet East,1,32,0.03125
+4240324,35.6319379,1.2729738,Sangach Pri,Elgeyo/Marakwet,Marakwet East,0,31,0
+4240331,35.4759673,1.1520984,Kapyego Pri,Elgeyo/Marakwet,Marakwet East,2,32,0.0625
+4240332,35.4965252,1.1218295,Kararia Pri,Elgeyo/Marakwet,Marakwet East,0,32,0
+4240333,35.4940327,1.1588121,Tangul,Elgeyo/Marakwet,Marakwet East,0,32,0
+4240334,35.4583423,1.1034086,Kapchemurkeldet,Elgeyo/Marakwet,Marakwet East,0,33,0
+4240341,35.6007744,1.1313766,Tirap Pri,Elgeyo/Marakwet,Marakwet East,0,32,0
+4240342,35.5865711,1.0446133,Metipsoo,Elgeyo/Marakwet,Marakwet East,0,32,0
+4240343,35.615829,1.0762504,Chugor Pri,Elgeyo/Marakwet,Marakwet East,1,33,0.0303030303030303
+4240344,35.6296001,1.0516081,Mogil Primary School,Elgeyo/Marakwet,Marakwet East,0,32,0
+4240411,35.6098443,0.9508693,Arror Pri,Elgeyo/Marakwet,Marakwet West,0,30,0
+4240412,35.6157488,0.9721143,Kapchemuta,Elgeyo/Marakwet,Marakwet West,0,30,0
+4240421,35.3988178,0.9518727,Lamaon Primary,Elgeyo/Marakwet,Marakwet West,0,30,0
+4240422,35.3618743,0.9875449,Kamuseny,Elgeyo/Marakwet,Marakwet West,0,30,0
+4240423,35.3942308,0.9440916,Chebororwa,Elgeyo/Marakwet,Marakwet West,0,30,0
+4240431,35.5584749,0.9791451,Kapsowar Pri,Elgeyo/Marakwet,Marakwet West,0,30,0
+4240432,35.5639584,0.9107934,Kaptabuk,Elgeyo/Marakwet,Marakwet West,0,30,0
+4240441,35.3852589,1.136261,Kapsait,Elgeyo/Marakwet,Marakwet West,0,30,0
+4240442,35.4325811,1.1002466,Kaptalamwa Pri,Elgeyo/Marakwet,Marakwet West,0,30,0
+4240443,35.4144166,1.1610468,Chemosong Primary,Elgeyo/Marakwet,Marakwet West,0,30,0
+4240451,35.4447972,1.0295529,Kimnai,Elgeyo/Marakwet,Marakwet West,0,30,0
+4240452,35.5155981,0.9412773,Cheptongei Pri,Elgeyo/Marakwet,Marakwet West,0,30,0
+4240461,35.3158832,1.1116191,Kapkanyar,Elgeyo/Marakwet,Marakwet West,0,30,0
+4240462,35.2827143,1.0651461,Chesubet,Elgeyo/Marakwet,Marakwet West,0,30,0
+4240463,35.2565438,1.0821876,Kamoi Pri,Elgeyo/Marakwet,Marakwet West,0,30,0
+4250111,34.8282044,-0.9163337,Rikura Dok,Kisii,Bobasi,0,30,0
+4250112,34.8367184,-0.9322459,Nyangoso Sda Pr,Kisii,Bobasi,0,30,0
+4250121,34.8287832,-0.7866763,Itibonge Deb,Kisii,Bobasi,0,30,0
+4250131,34.8146527,-0.7986069,Boitangare,Kisii,Bobasi,0,30,0
+4250132,34.8174854,-0.8066371,Keigameres.d.a,Kisii,Bobasi,0,30,0
+4250141,34.7400002,-0.7131151,Nyamonema Pri,Kisii,Bobasi,0,30,0
+4250142,34.7384308,-0.7546359,Nyabonge,Kisii,Bobasi,0,30,0
+4250151,34.7803197,-0.8164428,Kionyo Deb,Kisii,Bobasi,0,30,0
+4250152,34.8494822,-0.7475403,Nyabite Pri,Kisii,Bobasi,0,30,0
+4250161,34.7637105,-0.8450811,Nyabisase Pri,Kisii,Bobasi,0,30,0
+4250162,34.7515963,-0.8165718,Orogare Dok Pri,Kisii,Bobasi,0,30,0
+4250171,34.864107,-0.9037402,Nyachecki Dok,Kisii,Bobasi,0,30,0
+4250172,34.8904021,-0.9011298,Naikuru Pag,Kisii,Bobasi,0,31,0
+4250181,34.8003039,-0.7850911,Nyambunde,Kisii,Bobasi,0,29,0
+4250182,34.7673467,-0.7943766,Nyamokenye Dok,Kisii,Bobasi,0,30,0
+4250211,34.7467058,-0.880754,Kerongorori Sda,Kisii,Bomachoge Borabu,0,30,0
+4250212,34.7512865,-0.9444124,Maiga,Kisii,Bomachoge Borabu,0,31,0
+4250213,34.7427763,-0.8622868,Metembe Dok,Kisii,Bomachoge Borabu,0,30,0
+4250221,34.7571051,-0.8630117,Oroche Pri,Kisii,Bomachoge Borabu,0,30,0
+4250222,34.7646933,-0.8857333,Igorera Pag,Kisii,Bomachoge Borabu,0,30,0
+4250223,34.7942968,-0.9010747,Magena,Kisii,Bomachoge Borabu,1,30,0.0333333333333333
+4250224,34.7815251,-0.8836268,Getumo Pri,Kisii,Bomachoge Borabu,0,30,0
+4250231,34.8040602,-0.9220839,Nyambunwa,Kisii,Bomachoge Borabu,0,30,0
+4250232,34.8151438,-0.9087172,Omosobwa,Kisii,Bomachoge Borabu,0,30,0
+4250233,34.8073953,-0.8893598,Ritembu,Kisii,Bomachoge Borabu,0,30,0
+4250234,34.8212816,-0.9355049,Nyamesocho,Kisii,Bomachoge Borabu,0,30,0
+4250241,34.7017401,-0.9078576,Itongo Pri,Kisii,Bomachoge Borabu,0,30,0
+4250242,34.713363,-0.9004959,Mokubo,Kisii,Bomachoge Borabu,0,30,0
+4250243,34.7323665,-0.9349159,Riaima,Kisii,Bomachoge Borabu,0,30,0
+4250244,34.7151702,-0.9365916,Rianyangita,Kisii,Bomachoge Borabu,0,30,0
+4250311,34.7446736,-0.8427002,Getuki Pri,Kisii,Bomachoge Chache,0,30,0
+4250312,34.7294619,-0.7823701,Kebere Pri,Kisii,Bomachoge Chache,0,30,0
+4250313,34.7610855,-0.8562875,Bombaba Dok,Kisii,Bomachoge Chache,0,30,0
+4250314,34.6945568,-0.792329,Maroba Pri,Kisii,Bomachoge Chache,0,30,0
+4250315,34.7184867,-0.8060555,Nyamiobo Dok,Kisii,Bomachoge Chache,0,30,0
+4250321,34.7091712,-0.8358786,Nyarenda Deb,Kisii,Bomachoge Chache,0,30,0
+4250322,34.7179464,-0.8290653,Itare,Kisii,Bomachoge Chache,0,30,0
+4250323,34.6832187,-0.8858015,Nyakenyerere Deb,Kisii,Bomachoge Chache,0,30,0
+4250324,34.6997081,-0.8634391,Nyamiobo,Kisii,Bomachoge Chache,0,30,0
+4250325,34.7128406,-0.8608587,Nyabioto,Kisii,Bomachoge Chache,0,30,0
+4250331,34.7163316,-0.7731122,Egetuki Dok,Kisii,Bomachoge Chache,0,30,0
+4250332,34.6836028,-0.7571263,Itabago,Kisii,Bomachoge Chache,0,30,0
+4250333,34.7092617,-0.726405,Nyamoronga Dok,Kisii,Bomachoge Chache,0,30,0
+4250334,34.7141788,-0.7409751,Nyamaonde Deb,Kisii,Bomachoge Chache,0,30,0
+4250335,34.7013209,-0.7632628,Nyataro Pri,Kisii,Bomachoge Chache,0,30,0
+4250411,34.7180804,-0.66432,Rianyapara Elck,Kisii,Bonchari,0,30,0
+4250412,34.7274289,-0.6638537,Nyakungu Pri,Kisii,Bonchari,0,31,0
+4250413,34.7359791,-0.6777166,Mosando Sda,Kisii,Bonchari,0,30,0
+4250421,34.6743745,-0.6134518,Oriangi Pri,Kisii,Bonchari,0,30,0
+4250422,34.6983201,-0.648032,Bomariba Pri,Kisii,Bonchari,0,30,0
+4250423,34.7066019,-0.6422386,Riamagige,Kisii,Bonchari,0,30,0
+4250424,34.6856496,-0.6308494,Nyabimwa Pri,Kisii,Bonchari,0,30,0
+4250431,34.7246636,-0.6900359,Rianyabaro,Kisii,Bonchari,0,31,0
+4250432,34.7017017,-0.6761079,Suneka Deb Pri,Kisii,Bonchari,0,30,0
+4250433,34.7187108,-0.6781441,Itierio Mixed Pri,Kisii,Bonchari,0,31,0
+4250434,34.7423206,-0.7022323,Ekerubo Deb,Kisii,Bonchari,0,31,0
+4250441,34.684164,-0.7041871,Etureti D.o.k,Kisii,Bonchari,0,30,0
+4250442,34.6607666,-0.6982259,Kerina Elck Pri,Kisii,Bonchari,0,30,0
+4250443,34.6605953,-0.6226896,Moguga Dok,Kisii,Bonchari,0,30,0
+4250444,34.6492866,-0.6811096,Mwata Elck Pri,Kisii,Bonchari,0,30,0
+4250511,34.855128,-0.5262672,Metembe Dok (Kegogi),Kisii,Kitutu Chache North,0,30,0
+4250512,34.8209717,-0.5556065,Ngokoro Cog,Kisii,Kitutu Chache North,0,30,0
+4250513,34.8548532,-0.5410928,Riragi,Kisii,Kitutu Chache North,0,30,0
+4250521,34.7636572,-0.5888574,Gesabakwa Dok,Kisii,Kitutu Chache North,0,30,0
+4250522,34.7743704,-0.5613348,Rikenye Dok,Kisii,Kitutu Chache North,0,30,0
+4250523,34.770909,-0.5739428,Nyasore Sda,Kisii,Kitutu Chache North,0,30,0
+4250524,34.781477,-0.548224,Eramba Pag,Kisii,Kitutu Chache North,0,30,0
+4250531,34.8301947,-0.5855026,Nyandiba Deb,Kisii,Kitutu Chache North,0,30,0
+4250532,34.8685677,-0.519921,Omogumo Deb,Kisii,Kitutu Chache North,0,30,0
+4250533,34.834619,-0.5740331,Eronge Deb,Kisii,Kitutu Chache North,0,30,0
+4250534,34.8652289,-0.5100294,Nyankanda Dok,Kisii,Kitutu Chache North,0,30,0
+4250541,34.8069012,-0.5436824,Nyagoto Deb,Kisii,Kitutu Chache North,0,30,0
+4250542,34.8089111,-0.5524326,Kemanko,Kisii,Kitutu Chache North,0,30,0
+4250543,34.789903,-0.5439993,Rioma,Kisii,Kitutu Chache North,0,30,0
+4250544,34.8198504,-0.5848201,Raah Popular,Kisii,Kitutu Chache North,0,30,0
+4250611,34.7469451,-0.6078785,St Peters Soko D.o.k,Kisii,Kitutu Chache South,0,30,0
+4250612,34.7210516,-0.6324804,Bogeka Pag,Kisii,Kitutu Chache South,0,30,0
+4250613,34.7457575,-0.6007618,St Marys Mosocho,Kisii,Kitutu Chache South,0,30,0
+4250621,34.7196355,-0.6060458,St Francis Bototo Dok,Kisii,Kitutu Chache South,0,30,0
+4250622,34.7187925,-0.5927011,Nyabiyongo Dok,Kisii,Kitutu Chache South,0,30,0
+4250623,34.7051692,-0.6068171,Rwora D.o.k,Kisii,Kitutu Chache South,0,30,0
+4250631,34.7624615,-0.6748893,Getembe,Kisii,Kitutu Chache South,0,30,0
+4250632,34.7664356,-0.6648934,Daraja Mbili,Kisii,Kitutu Chache South,0,30,0
+4250633,34.7797161,-0.6765445,Jogoo Sa,Kisii,Kitutu Chache South,0,30,0
+4250641,34.7549456,-0.637029,Kisii Embasi,Kisii,Kitutu Chache South,0,30,0
+4250642,34.7793535,-0.608759,Nyagisai,Kisii,Kitutu Chache South,0,30,0
+4250643,34.7873704,-0.6309102,Iranda Mercy,Kisii,Kitutu Chache South,1,30,0.0333333333333333
+4250651,34.7738389,-0.6418507,Nyamorenyo,Kisii,Kitutu Chache South,0,30,0
+4250652,34.7985984,-0.6401589,Nyatieko Sda,Kisii,Kitutu Chache South,0,30,0
+4250653,34.7990498,-0.6587868,Kiogo,Kisii,Kitutu Chache South,1,30,0.0333333333333333
+4250711,34.8784891,-0.7854381,Irondi,Kisii,Nyaribari Chache,0,30,0
+4250712,34.8790817,-0.7459643,Biombe Sda,Kisii,Nyaribari Chache,0,30,0
+4250721,34.7981747,-0.7024575,Kegati Dok Pri,Kisii,Nyaribari Chache,1,30,0.0333333333333333
+4250722,34.8073506,-0.720115,Nyanko Deb,Kisii,Nyaribari Chache,0,30,0
+4250723,34.7813633,-0.69059,Kisii Campus,Kisii,Nyaribari Chache,0,30,0
+4250731,34.8177313,-0.7758223,Riangabi Deb,Kisii,Nyaribari Chache,0,30,0
+4250732,34.8370471,-0.7680793,Chirichiro Pri,Kisii,Nyaribari Chache,0,30,0
+4250741,34.854814,-0.7372984,Eremo Dok,Kisii,Nyaribari Chache,0,30,0
+4250742,34.8329155,-0.7352971,Geterere Dok,Kisii,Nyaribari Chache,0,30,0
+4250743,34.8280167,-0.719235,Nyosia Pri,Kisii,Nyaribari Chache,0,30,0
+4250751,34.8111936,-0.7135973,Esamba Dok,Kisii,Nyaribari Chache,1,30,0.0333333333333333
+4250752,34.7724091,-0.7358215,Boronyi Deb,Kisii,Nyaribari Chache,0,30,0
+4250761,34.819612,-0.707718,Polister,Kisii,Nyaribari Chache,0,30,0
+4250762,34.7477221,-0.6636579,Adams,Kisii,Nyaribari Chache,0,30,0
+4250763,34.7624496,-0.699013,Kiamabundu Dok,Kisii,Nyaribari Chache,0,30,0
+4250811,34.9189484,-0.8913241,Mesabisabi,Kisii,Nyaribari Masaba,0,30,0
+4250812,34.9058364,-0.8711511,Getacho,Kisii,Nyaribari Masaba,0,30,0
+4250813,34.8613436,-0.8201512,Kegogi,Kisii,Nyaribari Masaba,0,30,0
+4250821,34.9210268,-0.7715169,Kemuga,Kisii,Nyaribari Masaba,0,32,0
+4250822,34.9219889,-0.7821361,Rianyoka Sda,Kisii,Nyaribari Masaba,0,32,0
+4250823,34.9206976,-0.7950773,Nyamoiseke Muya D.o.k,Kisii,Nyaribari Masaba,0,32,0
+4250831,34.8816846,-0.8300763,Kiamokama Township,Kisii,Nyaribari Masaba,0,30,0
+4250832,34.9365524,-0.8219717,Nyamagesa Deb,Kisii,Nyaribari Masaba,0,30,0
+4250833,34.8957613,-0.8348784,Mochengo Sda,Kisii,Nyaribari Masaba,0,30,0
+4250841,34.9762774,-0.898589,Ramasha Dok,Kisii,Nyaribari Masaba,0,30,0
+4250842,34.955504,-0.8685312,Sirirokwe,Kisii,Nyaribari Masaba,0,32,0
+4250843,34.9561001,-0.8523484,Engorwa,Kisii,Nyaribari Masaba,0,32,0
+4250851,34.9689583,-0.8559717,Matibo,Kisii,Nyaribari Masaba,0,32,0
+4250852,34.9585868,-0.8345649,Ebachwa Dok,Kisii,Nyaribari Masaba,0,32,0
+4250853,34.9796432,-0.8397503,Nyagachi D.e.b,Kisii,Nyaribari Masaba,0,32,0
+4250911,34.6860147,-0.7966934,Kiomabundu,Kisii,South Mugirango,0,32,0
+4250912,34.662692,-0.7949827,Esaka Dok,Kisii,South Mugirango,0,32,0
+4250921,34.6545116,-0.8172901,Nyabisase Deb,Kisii,South Mugirango,0,32,0
+4250922,34.6931681,-0.8077974,Igare Deb,Kisii,South Mugirango,0,32,0
+4250923,34.6598737,-0.8069079,Kabonyo,Kisii,South Mugirango,0,32,0
+4250931,34.6694204,-0.8982376,Nyabikondo Pri,Kisii,South Mugirango,0,32,0
+4250932,34.6766176,-0.8971492,Nyangweta Sda B,Kisii,South Mugirango,3,32,0.09375
+4250941,34.6436271,-0.923831,Maroo Deb,Kisii,South Mugirango,0,32,0
+4250942,34.6472242,-0.9414993,St Mark Ritaro,Kisii,South Mugirango,1,32,0.03125
+4250943,34.6609374,-0.9148386,Gekongo Dok,Kisii,South Mugirango,0,32,0
+4250951,34.61859,-0.8569373,Ayora,Kisii,South Mugirango,0,32,0
+4250952,34.631484,-0.8878842,Moticho Sda,Kisii,South Mugirango,1,32,0.03125
+4250961,34.6400273,-0.7392678,Egetonto Pri,Kisii,South Mugirango,0,32,0
+4250962,34.6294268,-0.7377619,Rigena Sda,Kisii,South Mugirango,0,32,0
+4250963,34.658814,-0.7274931,Nyabigege,Kisii,South Mugirango,0,32,0
+4260111,35.0395005,-0.7696805,Ensakia,Nyamira,Borabu,0,30,0
+4260112,34.9885163,-0.8344786,Endemu Dok,Nyamira,Borabu,0,30,0
+4260113,35.0039029,-0.8409461,Riangombe Dok,Nyamira,Borabu,0,30,0
+4260121,35.0235364,-0.6010935,Nyamiranga Deb,Nyamira,Borabu,0,24,0
+4260122,34.9989094,-0.6214688,Omonono Dok,Nyamira,Borabu,0,30,0
+4260123,34.9747402,-0.6085416,Nyageita Dok,Nyamira,Borabu,0,30,0
+4260124,34.9941259,-0.5835751,Kiabonyoru Sda,Nyamira,Borabu,0,30,0
+4260131,35.0444305,-0.7155859,Mekenene Deb,Nyamira,Borabu,0,30,0
+4260132,35.0374801,-0.6399346,Magura Deb,Nyamira,Borabu,0,30,0
+4260133,35.0352175,-0.690307,Mwongori,Nyamira,Borabu,0,30,0
+4260134,35.044857,-0.6160328,Kitaru Dok,Nyamira,Borabu,0,30,0
+4260141,34.978663,-0.7617539,Omosocho Sda,Nyamira,Borabu,0,22,0
+4260142,35.0192279,-0.7518378,Gesibei Dok,Nyamira,Borabu,0,22,0
+4260143,35.010341,-0.7342709,Nyandoche Ibere Pr,Nyamira,Borabu,0,22,0
+4260144,35.0021888,-0.7502612,Masige Pri,Nyamira,Borabu,0,22,0
+4260211,34.9010534,-0.6994645,Kuja Dok,Nyamira,Kitutu Masaba,0,30,0
+4260212,34.902226,-0.7095588,Nyasumi Dok,Nyamira,Kitutu Masaba,0,30,0
+4260221,34.981775,-0.6831396,Riooga Deb,Nyamira,Kitutu Masaba,0,30,0
+4260222,34.9509279,-0.7197991,Karantini Sda,Nyamira,Kitutu Masaba,0,30,0
+4260223,34.9389268,-0.6797122,Nyantaro Deb,Nyamira,Kitutu Masaba,0,30,0
+4260231,34.8462317,-0.6598299,Ekerubo Dok,Nyamira,Kitutu Masaba,0,30,0
+4260232,34.8389527,-0.7026626,Kiendege Pri,Nyamira,Kitutu Masaba,0,30,0
+4260241,34.9268484,-0.6823226,Kenyamware Deb,Nyamira,Kitutu Masaba,0,30,0
+4260242,34.924723,-0.6669706,Kenyerere Pag,Nyamira,Kitutu Masaba,0,30,0
+4260243,34.913183,-0.6623481,Nyambaria Pri,Nyamira,Kitutu Masaba,0,30,0
+4260251,34.8622178,-0.6205305,Nyakongo Pri,Nyamira,Kitutu Masaba,0,30,0
+4260252,34.8449395,-0.6240458,Morako Pri,Nyamira,Kitutu Masaba,0,30,0
+4260261,34.9283884,-0.7253094,Borabu Pri,Nyamira,Kitutu Masaba,0,30,0
+4260262,34.9159097,-0.7011222,Rigoma Pri,Nyamira,Kitutu Masaba,0,30,0
+4260263,34.9098497,-0.7524804,Nyankoba Sda,Nyamira,Kitutu Masaba,0,30,0
+4260311,34.9406263,-0.4711824,Mogongo Deb,Nyamira,North Mugirango,0,30,0
+4260312,34.9788753,-0.4576021,Nyamonge Dok,Nyamira,North Mugirango,0,30,0
+4260313,34.9638653,-0.4813344,Giosoya Deb,Nyamira,North Mugirango,0,30,0
+4260321,34.934308,-0.5164339,Monyara,Nyamira,North Mugirango,0,30,0
+4260322,34.9632149,-0.5068716,Kebariga Deb,Nyamira,North Mugirango,0,30,0
+4260323,34.9439245,-0.5147753,Itibo Deb,Nyamira,North Mugirango,0,30,0
+4260331,35.0066504,-0.4999991,Sere Pri,Nyamira,North Mugirango,0,30,0
+4260332,34.9923995,-0.5262461,Kea Deb,Nyamira,North Mugirango,0,11,0
+4260341,35.0043808,-0.5645839,Nyamwanchania P.a.g,Nyamira,North Mugirango,0,30,0
+4260342,34.969723,-0.5492123,Kenyoro Elck,Nyamira,North Mugirango,0,30,0
+4260343,35.0089037,-0.5360281,Ekerubo Gietai Day,Nyamira,North Mugirango,0,30,0
+4260351,34.9625467,-0.4583429,Nyangina Deb,Nyamira,North Mugirango,0,30,0
+4260352,35.0296831,-0.4667556,Esamba P.a.g,Nyamira,North Mugirango,0,30,0
+4260353,35.0044512,-0.4347323,Nyaututu Sda,Nyamira,North Mugirango,0,30,0
+4260411,34.9184285,-0.5935167,Sironga Pri,Nyamira,West Mugirango,2,30,0.0666666666666667
+4260412,34.9805016,-0.6507177,Geta Pri,Nyamira,West Mugirango,0,31,0
+4260413,34.9489864,-0.63745,Bosiango Elck,Nyamira,West Mugirango,0,30,0
+4260421,34.970252,-0.6235176,Riasindani Primary,Nyamira,West Mugirango,0,30,0
+4260422,34.9243017,-0.6545562,Kenyerere Primary,Nyamira,West Mugirango,1,30,0.0333333333333333
+4260423,34.9892426,-0.6455046,Kenyenya Primary,Nyamira,West Mugirango,0,31,0
+4260431,34.9395185,-0.6650943,Riakimai Deb,Nyamira,West Mugirango,0,30,0
+4260432,34.914325,-0.61578,Gesiaga Pri,Nyamira,West Mugirango,0,30,0
+4260433,34.9614421,-0.6625912,Nyagachi Deb,Nyamira,West Mugirango,0,30,0
+4260434,35.0149977,-0.6755974,Enchoro Dok,Nyamira,West Mugirango,0,30,0
+4260441,34.9113359,-0.5184923,Tonga Deb,Nyamira,West Mugirango,0,30,0
+4260442,34.928214,-0.5107535,Ratandi Pri,Nyamira,West Mugirango,0,30,0
+4260443,34.8927989,-0.5166757,Bonyaiguba Dok,Nyamira,West Mugirango,0,30,0
+4260444,34.9847736,-0.6724783,Motontera Pri,Nyamira,West Mugirango,0,30,0
+4260451,34.941865,-0.5732833,Bomondo Cog,Nyamira,West Mugirango,0,30,0
+4260452,34.9420096,-0.563569,Nyairicha Deb,Nyamira,West Mugirango,0,30,0
+4260453,34.9323718,-0.5493283,Bundo Dok,Nyamira,West Mugirango,0,30,0
+4260454,34.9304217,-0.5834046,Geseneno Deb,Nyamira,West Mugirango,0,30,0
+4290111,37.5728923,0.3328875,Waso,Isiolo,Isiolo North,0,32,0
+4290112,37.5682285,0.3290425,Lions,Isiolo,Isiolo North,0,32,0
+4290121,37.5908632,0.3952012,Nomads,Isiolo,Isiolo North,0,32,0
+4290122,37.4360399,0.3052605,Lebarua,Isiolo,Isiolo North,0,32,0
+4290131,38.5738,1.0267656,Awarsitu,Isiolo,Isiolo North,0,30,0
+4290132,38.4868789,0.894494,Biliqo Muslim,Isiolo,Isiolo North,0,30,0
+4290141,38.6689547,1.0674068,Merti Muslim,Isiolo,Isiolo North,0,30,0
+4290142,38.7933383,1.2092383,Korbesa,Isiolo,Isiolo North,0,30,0
+4290151,38.0730107,0.7737014,Gotu,Isiolo,Isiolo North,0,32,0
+4290152,37.681934,0.6231455,Isiolo Samburu,Isiolo,Isiolo North,0,30,0
+4290161,36.9256276,0.6001283,Lobarishereki,Isiolo,Isiolo North,0,32,0
+4290162,36.9868952,0.629067,Oldonyiro,Isiolo,Isiolo North,0,32,0
+4290171,37.6026715,0.3624474,Ramadhan,Isiolo,Isiolo North,0,30,0
+4290172,37.5853009,0.359474,St Kizito,Isiolo,Isiolo North,0,29,0
+4290173,37.6105585,0.3748115,Mck Kisima 78,Isiolo,Isiolo North,0,32,0
+4290211,38.3361006,0.570555,Boji,Isiolo,Isiolo South,0,30,0
+4290212,38.5125927,0.533049,Matagari,Isiolo,Isiolo South,0,30,0
+4290213,38.6006356,0.9343361,Abagarse,Isiolo,Isiolo South,0,30,0
+4290214,38.4940407,0.8362896,Malkadaka,Isiolo,Isiolo South,0,31,0
+4290215,38.5177,0.5360078,Nagaa,Isiolo,Isiolo South,0,32,0
+4290221,38.0820234,0.5732166,Yao-Barsadhi,Isiolo,Isiolo South,0,30,0
+4290222,38.1943745,0.3200641,Qoticha,Isiolo,Isiolo South,0,31,0
+4290223,38.2021492,0.3113148,Galmadido,Isiolo,Isiolo South,1,30,0.0333333333333333
+4290224,38.2118672,0.3227703,Almazuh,Isiolo,Isiolo South,0,32,0
+4290225,38.2461072,0.2577433,Rapsu,Isiolo,Isiolo South,0,31,0
+4290231,38.8653851,0.9893882,Iresaboru,Isiolo,Isiolo South,0,31,0
+4290232,39.0510004,1.1209488,Biliqi Nur,Isiolo,Isiolo South,0,32,0
+4290233,39.1014466,1.124988,Bahari,Isiolo,Isiolo South,0,32,0
+4290234,38.8743422,0.9801468,Malkamansa,Isiolo,Isiolo South,0,30,0
+4290235,38.9824681,1.1113364,Badana,Isiolo,Isiolo South,0,32,0
+4300111,37.5738284,2.4994491,Hadad,Marsabit,Laisamis,0,26,0
+4300112,37.5601206,2.4922225,Gangeisa,Marsabit,Laisamis,0,30,0
+4300113,37.5802521,2.5084313,Kargi,Marsabit,Laisamis,0,32,0
+4300121,37.3569567,1.803845,Lependera,Marsabit,Laisamis,0,29,0
+4300122,37.4630589,2.0357579,Baalah,Marsabit,Laisamis,0,30,0
+4300123,37.4917362,2.075198,Amalio Primary,Marsabit,Laisamis,0,32,0
+4300131,37.7985862,1.5864137,Laisamis,Marsabit,Laisamis,0,32,0
+4300132,37.7289625,1.419662,Ushindi Primary,Marsabit,Laisamis,0,32,0
+4300133,37.6940167,1.6833117,Ndikir,Marsabit,Laisamis,0,32,0
+4300141,37.8838674,1.9859044,Ilbarok,Marsabit,Laisamis,0,32,0
+4300142,37.8956806,2.1066665,Kamboe,Marsabit,Laisamis,0,32,0
+4300143,37.9244783,1.9902217,Marti,Marsabit,Laisamis,0,32,0
+4300151,36.7232503,2.7553782,Loiyangalani,Marsabit,Laisamis,0,32,0
+4300152,36.9303992,2.6464662,Gatab,Marsabit,Laisamis,0,32,0
+4300153,36.713003,2.7485942,Santur,Marsabit,Laisamis,0,32,0
+4300221,39.2214226,3.4349912,Qonqom Primary School,Marsabit,Moyale,0,30,0
+4300222,39.0901084,3.4385203,Qalaliwepri School,Marsabit,Moyale,0,30,0
+4300241,39.0498928,3.5266116,Fgck Moyale,Marsabit,Moyale,0,30,0
+4300242,39.0438367,3.5255517,Sessi,Marsabit,Moyale,0,30,0
+4300262,38.6614027,3.5618591,Ramole,Marsabit,Moyale,0,30,0
+4300271,38.521403,3.6025507,Uran Pri,Marsabit,Moyale,0,30,0
+4300272,38.5841058,3.5840913,Golole,Marsabit,Moyale,0,30,0
+4300312,37.3441668,3.6091148,Balesa,Marsabit,North Horr,0,32,0
+4300332,37.6281571,2.9134264,Chalbi,Marsabit,North Horr,0,32,0
+4300333,37.36372,3.2007526,Rage,Marsabit,North Horr,0,32,0
+4300341,36.7499873,3.4995142,Qorqa Primary,Marsabit,North Horr,0,32,0
+4300342,37.189489,4.1808445,Balesa- Saru,Marsabit,North Horr,0,31,0
+4300343,36.8257308,3.0642339,Malabot Primary,Marsabit,North Horr,0,32,0
+4300344,37.0593199,3.3155932,North Horr,Marsabit,North Horr,0,28,0
+4300351,38.2742771,2.1366552,Shurr,Marsabit,North Horr,0,34,0
+4300352,38.3793551,3.3029754,Torbi,Marsabit,North Horr,0,32,0
+4300353,38.096314,2.6967837,Bubisa,Marsabit,North Horr,0,32,0
+4300354,38.2752517,3.12672,Tiigo Primary,Marsabit,North Horr,0,32,0
+4300411,38.0218333,2.2339107,Leyai,Marsabit,Saku,0,30,0
+4300412,37.9449543,2.3125441,Hula Hula,Marsabit,Saku,5,30,0.166666666666667
+4300413,38.0040025,2.2414748,Songa,Marsabit,Saku,0,30,0
+4300414,37.8721815,2.211946,Lakartinya,Marsabit,Saku,0,30,0
+4300415,37.9010395,2.1889642,Loruko,Marsabit,Saku,0,30,0
+4300421,37.9988105,2.3342392,Sakuu,Marsabit,Saku,1,30,0.0333333333333333
+4300422,37.9558218,2.5315804,Segel,Marsabit,Saku,0,30,0
+4300423,37.9769224,2.3395222,S K M,Marsabit,Saku,0,30,0
+4300424,37.9935973,2.3227762,St John,Marsabit,Saku,1,30,0.0333333333333333
+4300425,37.9865331,2.3439339,Father John Memorial,Marsabit,Saku,0,30,0
+4300431,38.0273175,2.2571701,Badassa,Marsabit,Saku,0,29,0
+4300432,38.0453743,2.3691773,Gar Qarsa,Marsabit,Saku,0,31,0
+4300433,38.0684901,2.3349457,Mwangaza,Marsabit,Saku,0,30,0
+4300434,38.0503619,2.3234693,Boru Haro,Marsabit,Saku,0,30,0
+4300435,38.0643376,2.2840038,Hekima,Marsabit,Saku,0,30,0
+4320111,36.7522275,-1.2774697,Gatina Primary,Nairobi City,Dagoretti North,0,32,0
+4320112,36.7559433,-1.2748585,Maranatha Education Centre,Nairobi City,Dagoretti North,0,32,0
+4320113,36.7540231,-1.2755306,Desai Memarira,Nairobi City,Dagoretti North,0,32,0
+4320121,36.7431686,-1.2796714,Muslim Primary,Nairobi City,Dagoretti North,0,30,0
+4320122,36.7517043,-1.2862976,Kabiro Community,Nairobi City,Dagoretti North,0,31,0
+4320131,36.7469804,-1.2892857,Kawagware Primary,Nairobi City,Dagoretti North,0,30,0
+4320132,36.7390169,-1.2821164,Hgm Riruta,Nairobi City,Dagoretti North,0,31,0
+4320141,36.79155,-1.2763091,Kileleshwa Primary,Nairobi City,Dagoretti North,0,32,0
+4320151,36.7828889,-1.2932728,Kilimani Primary,Nairobi City,Dagoretti North,0,30,0
+4320153,36.8945,-1.3076,Milimani Primary,Nairobi City,Dagoretti North,0,32,0
+4320211,36.6902344,-1.2867567,Gitiba Primary,Nairobi City,Dagoretti South,0,30,0
+4320212,36.6999292,-1.2889819,Dr Muthiora,Nairobi City,Dagoretti South,0,32,0
+4320213,36.6987712,-1.2878331,Kirigu Primary,Nairobi City,Dagoretti South,0,30,0
+4320214,36.6944858,-1.2957841,Mutuini Primary,Nairobi City,Dagoretti South,0,32,0
+4320221,36.7468661,-1.3002297,Excel Emmanuel Academy,Nairobi City,Dagoretti South,0,30,0
+4320222,36.7331632,-1.3052021,Lenana Junior,Nairobi City,Dagoretti South,0,30,0
+4320231,36.7446939,-1.2942844,Kinyanjui Primary,Nairobi City,Dagoretti South,1,32,0.03125
+4320232,36.7360346,-1.29241,Riruta Satelite Primary,Nairobi City,Dagoretti South,0,30,0
+4320233,36.740407,-1.2891162,Ndurarua Primary,Nairobi City,Dagoretti South,0,29,0
+4320241,36.7008634,-1.2739794,Kagira Primary,Nairobi City,Dagoretti South,0,29,0
+4320242,36.7024747,-1.277751,Ruthimitu Primary,Nairobi City,Dagoretti South,0,11,0
+4320251,36.7203532,-1.2817921,Nembu Primary,Nairobi City,Dagoretti South,0,30,0
+4320252,36.7173953,-1.289881,Kabiria Primary,Nairobi City,Dagoretti South,0,31,0
+4320253,36.7119402,-1.2829549,Mukararia Primary,Nairobi City,Dagoretti South,0,30,0
+4320254,36.721712,-1.2845231,Heri Junior,Nairobi City,Dagoretti South,0,30,0
+4320311,36.9161474,-1.2687069,Bondeni Primary,Nairobi City,Embakasi Central,0,30,0
+4320321,36.9201216,-1.2634218,Kayole One Primary,Nairobi City,Embakasi Central,0,31,0
+4320331,36.9166502,-1.2728414,Imara Primary,Nairobi City,Embakasi Central,0,31,0
+4320332,36.9157819,-1.2788076,Thawabu Primary,Nairobi City,Embakasi Central,0,34,0
+4320333,36.9284797,-1.2563695,Kingdom Academy,Nairobi City,Embakasi Central,0,32,0
+4320334,36.9125724,-1.2794576,Riverline Primary School,Nairobi City,Embakasi Central,0,30,0
+4320341,36.9051007,-1.2753066,Komarock South Primary,Nairobi City,Embakasi Central,0,32,0
+4320342,36.9090756,-1.2775728,Mwangaza Primary (Komarock),Nairobi City,Embakasi Central,0,30,0
+4320343,36.9129539,-1.2731455,New Light Academy,Nairobi City,Embakasi Central,0,30,0
+4320344,36.9106019,-1.2713049,Komarock Primary,Nairobi City,Embakasi Central,0,32,0
+4320345,36.9094234,-1.2737227,Lakewood Academy,Nairobi City,Embakasi Central,0,32,0
+4320346,36.9158514,-1.2748876,Halisi Academy,Nairobi City,Embakasi Central,0,30,0
+4320347,36.9126429,-1.265514,Tenda Care Academy,Nairobi City,Embakasi Central,0,33,0
+4320348,36.9244746,-1.2652583,Accurate Academy,Nairobi City,Embakasi Central,0,30,0
+4320351,36.9293869,-1.2624306,Kayole North Primary,Nairobi City,Embakasi Central,0,30,0
+4320411,36.9206176,-1.3066685,Garrison Primary,Nairobi City,Embakasi East,0,32,0
+4320412,36.9097615,-1.2829998,St. Nicholas Junior Academy,Nairobi City,Embakasi East,0,32,0
+4320413,37.0931,-1.2975,Uprising Educational Centre Tassia,Nairobi City,Embakasi East,0,32,0
+4320421,36.9110387,-1.2857204,St. Anorld Jss Primary,Nairobi City,Embakasi East,0,32,0
+4320422,36.9110183,-1.2871493,Galile Primary,Nairobi City,Embakasi East,0,32,0
+4320423,36.9107334,-1.2878706,Lorna Weddington,Nairobi City,Embakasi East,0,30,0
+4320441,36.9101664,-1.2875308,Carmel Catholic Primary,Nairobi City,Embakasi East,0,32,0
+4320451,36.9671856,-1.2782441,Benedictor Primary,Nairobi City,Embakasi East,0,21,0
+4320452,36.9515719,-1.2682676,Utawala,Nairobi City,Embakasi East,0,20,0
+4320453,36.9626692,-1.2878334,Aptc Primary,Nairobi City,Embakasi East,0,30,0
+4320454,36.9529569,-1.2969806,Gsu Primary,Nairobi City,Embakasi East,0,30,0
+4320455,36.9162257,-1.3050938,Carmel Jss,Nairobi City,Embakasi East,0,8,0
+4320456,36.950556,-1.2684388,Kikabu Primary,Nairobi City,Embakasi East,0,21,0
+4320457,36.9104845,-1.2858089,Rophine Academy,Nairobi City,Embakasi East,0,32,0
+4320458,36.9532696,-1.2538157,King And Queen Primary,Nairobi City,Embakasi East,0,29,0
+4320511,36.8921189,-1.2556655,Hilpeak,Nairobi City,Embakasi North,0,27,0
+4320512,36.8925768,-1.2570407,Pcea Dandora,Nairobi City,Embakasi North,0,23,0
+4320513,36.8904468,-1.2586993,Dandora Primary,Nairobi City,Embakasi North,0,29,0
+4320521,36.9005731,-1.2549497,Mwangaza Primary,Nairobi City,Embakasi North,0,30,0
+4320522,36.8971771,-1.2461864,Kajiji,Nairobi City,Embakasi North,0,23,0
+4320523,36.8966616,-1.2526405,James Gichuru,Nairobi City,Embakasi North,0,30,0
+4320524,36.90115,-1.24862,Wangu Primary,Nairobi City,Embakasi North,0,27,0
+4320531,36.9051767,-1.2459817,Tom Mboya Primary,Nairobi City,Embakasi North,1,32,0.03125
+4320541,36.9104193,-1.242994,Ronald Ngala Primary,Nairobi City,Embakasi North,0,31,0
+4320551,36.9040189,-1.2509619,Josana Academy,Nairobi City,Embakasi North,0,29,0
+4320552,36.9075079,-1.2398939,Kijango Primary,Nairobi City,Embakasi North,0,42,0
+4320553,36.9124268,-1.2418151,Ushirika Primary,Nairobi City,Embakasi North,0,36,0
+4320561,36.8826708,-1.2536085,Kariobangi Primary,Nairobi City,Embakasi North,0,23,0
+4320562,36.8802842,-1.2556484,Marura Primary,Nairobi City,Embakasi North,0,13,0
+4320563,36.8802922,-1.2501634,Havest,Nairobi City,Embakasi North,0,22,0
+4320611,36.8902282,-1.3234318,St Alloysacademy,Nairobi City,Embakasi South,2,19,0.105263157894737
+4320612,36.8839605,-1.3215465,Mery Cliff Academy,Nairobi City,Embakasi South,0,30,0
+4320613,36.8892698,-1.3241712,Holy Ghost Primary,Nairobi City,Embakasi South,0,18,0
+4320621,36.881337,-1.3166976,Carson Academy,Nairobi City,Embakasi South,0,32,0
+4320622,36.8889163,-1.3128629,Mosester Academy,Nairobi City,Embakasi South,0,33,0
+4320623,36.8896143,-1.3259753,Imara Adventist School,Nairobi City,Embakasi South,0,30,0
+4320624,36.8870727,-1.3145811,St Teresa Academy,Nairobi City,Embakasi South,0,31,0
+4320625,36.8847273,-1.3185795,St Tracious Academy,Nairobi City,Embakasi South,0,22,0
+4320631,36.868886,-1.3128201,Aef Reuben,Nairobi City,Embakasi South,0,30,0
+4320632,36.8733087,-1.3146203,St Florence Academy,Nairobi City,Embakasi South,1,31,0.032258064516129
+4320633,36.8724125,-1.3139546,Mukuru Mennonite,Nairobi City,Embakasi South,0,31,0
+4320641,36.8870452,-1.3093667,Jopenpha Primary,Nairobi City,Embakasi South,0,32,0
+4320642,36.8804797,-1.3141502,Downstream Primary,Nairobi City,Embakasi South,0,34,0
+4320651,36.8959845,-1.3189023,Aic Pipeline,Nairobi City,Embakasi South,0,32,0
+4320652,36.891591,-1.3188775,Double Vision Academy,Nairobi City,Embakasi South,0,32,0
+4320711,36.8855651,-1.2681683,Kariobangi South Primary,Nairobi City,Embakasi West,0,30,0
+4320712,36.8777349,-1.2700219,Nairobi River Primary,Nairobi City,Embakasi West,0,34,0
+4320713,36.8707533,-1.2817724,Uhuru Primary,Nairobi City,Embakasi West,0,32,0
+4320714,36.8894133,-1.2668983,Divine Mercy Academy,Nairobi City,Embakasi West,1,31,0.032258064516129
+4320721,36.8954213,-1.2669552,Supaloaf Primary,Nairobi City,Embakasi West,0,32,0
+4320722,36.9002462,-1.2645369,Fibiah Star Academy,Nairobi City,Embakasi West,0,28,0
+4320731,36.8873112,-1.2804675,Umoja 1 Primary,Nairobi City,Embakasi West,0,34,0
+4320732,36.8935785,-1.2886159,Tena Catholic Academy,Nairobi City,Embakasi West,0,31,0
+4320741,36.8957281,-1.2759834,Peter Kibukosya Primary,Nairobi City,Embakasi West,1,32,0.03125
+4320742,36.8952982,-1.2779476,Busara Primary,Nairobi City,Embakasi West,0,28,0
+4320743,36.8976541,-1.2848407,Kifaru Primary,Nairobi City,Embakasi West,0,30,0
+4320744,36.8973541,-1.2839919,Tumaini Primary,Nairobi City,Embakasi West,0,33,0
+4320745,36.8935828,-1.2837436,Unity Primary,Nairobi City,Embakasi West,1,28,0.0357142857142857
+4320746,36.899363,-1.2577431,Twin Kid Academy,Nairobi City,Embakasi West,0,32,0
+4320747,36.8868722,-1.281917,Fathili,Nairobi City,Embakasi West,0,34,0
+4320811,36.8535514,-1.2705861,Eastleigh Airport Primary,Nairobi City,Kamukunji,1,32,0.03125
+4320821,36.8484845,-1.2844195,New Pumwani Primary,Nairobi City,Kamukunji,1,32,0.03125
+4320822,36.840757,-1.2879948,Umulkhira School,Nairobi City,Kamukunji,0,32,0
+4320823,36.8467111,-1.2865508,California Educational Centre,Nairobi City,Kamukunji,0,32,0
+4320841,36.8667173,-1.2812746,Joy Bell School,Nairobi City,Kamukunji,0,32,0
+4320842,36.8547686,-1.2871115,Glorious School,Nairobi City,Kamukunji,0,32,0
+4320843,36.8713147,-1.2736704,Champion School,Nairobi City,Kamukunji,0,32,0
+4320844,36.8702949,-1.2762046,Roseholme School,Nairobi City,Kamukunji,0,32,0
+4320846,36.8719004,-1.2763593,Harokora School,Nairobi City,Kamukunji,0,32,0
+4320851,36.8461939,-1.2891218,Vision Junior,Nairobi City,Kamukunji,0,32,0
+4320852,36.8491258,-1.2919353,Olm Priary School,Nairobi City,Kamukunji,0,32,0
+4320853,36.8487595,-1.2894491,Pag Shauri Moyo,Nairobi City,Kamukunji,1,32,0.03125
+4320911,36.9199037,-1.2278101,Murema Primary,Nairobi City,Kasarani,0,33,0
+4320921,36.9048224,-1.2216132,Kasarani Primary,Nairobi City,Kasarani,0,35,0
+4320922,37.0226825,-1.2884154,Kasarani Sports View,Nairobi City,Kasarani,0,25,0
+4320923,36.9201713,-1.2351559,Ciako Primary,Nairobi City,Kasarani,0,20,0
+4320931,36.9376414,-1.2378692,St Dominic,Nairobi City,Kasarani,0,35,0
+4320932,36.9317502,-1.2335973,Santapril,Nairobi City,Kasarani,0,35,0
+4320933,36.9396388,-1.224007,Mwiki Primary School,Nairobi City,Kasarani,0,33,0
+4320941,37.0887073,-1.2666681,Athi Primary,Nairobi City,Kasarani,0,32,0
+4320942,37.0622445,-1.2780699,Ngundu Primary,Nairobi City,Kasarani,0,32,0
+4320951,36.9392166,-1.2465846,Njiru Primary,Nairobi City,Kasarani,1,25,0.04
+4320952,36.9178698,-1.2479256,Jehovah Jire Primary,Nairobi City,Kasarani,0,24,0
+4320961,36.992195,-1.2659282,Ruai Primary,Nairobi City,Kasarani,0,21,0
+4320962,36.9986585,-1.2513247,Riena Primary,Nairobi City,Kasarani,0,29,0
+4320963,37.0067508,-1.2612029,Gitwamba,Nairobi City,Kasarani,0,24,0
+4320964,37.0463836,-1.2932554,Drumvale,Nairobi City,Kasarani,0,35,0
+4321011,36.7962462,-1.311263,Glory Primary,Nairobi City,Kibra,0,30,0
+4321012,36.7933189,-1.3104172,Magoso,Nairobi City,Kibra,1,24,0.0416666666666667
+4321021,36.7909227,-1.3146364,Lindi Friends,Nairobi City,Kibra,0,25,0
+4321022,36.7922116,-1.3163935,Ujamaa School,Nairobi City,Kibra,0,23,0
+4321023,36.7802235,-1.3114411,St Charles Lwanga,Nairobi City,Kibra,2,15,0.133333333333333
+4321031,36.7907101,-1.3126467,Mashimoni Squatters,Nairobi City,Kibra,0,19,0
+4321032,36.7936086,-1.3130951,Adventures Pride,Nairobi City,Kibra,0,27,0
+4321033,36.7854675,-1.3121664,Stara Rescue Centre,Nairobi City,Kibra,0,27,0
+4321034,36.7895198,-1.3085251,Calvary Educational Centre,Nairobi City,Kibra,0,25,0
+4321041,36.777838,-1.314676,Kag Olympic,Nairobi City,Kibra,0,21,0
+4321042,36.7956389,-1.3109102,Green Pastures,Nairobi City,Kibra,0,23,0
+4321043,36.7835486,-1.3118012,Star Of Land,Nairobi City,Kibra,0,8,0
+4321051,36.7811453,-1.3069673,Restoration Edu. Centre,Nairobi City,Kibra,0,28,0
+4321052,36.7776191,-1.3070455,Chrisco Educational Centre,Nairobi City,Kibra,0,22,0
+4321053,36.7793867,-1.3077864,Little Prince,Nairobi City,Kibra,0,16,0
+4321122,36.7790653,-1.3186963,Anajali School,Nairobi City,Langata,0,5,0
+4321123,36.7769471,-1.3174026,St Christines,Nairobi City,Langata,0,32,0
+4321141,36.8021631,-1.3156219,Kibera Blessed,Nairobi City,Langata,0,11,0
+4321142,36.7992795,-1.3186307,Grace Humanitas,Nairobi City,Langata,2,19,0.105263157894737
+4321143,36.7987794,-1.3170707,Zeline Academy,Nairobi City,Langata,0,9,0
+4321151,36.8257424,-1.3230624,Faulu,Nairobi City,Langata,0,11,0
+4321211,36.870506,-1.288415,Baraka Primary School,Nairobi City,Makadara,0,32,0
+4321212,36.8743068,-1.2890717,Rabai Primary,Nairobi City,Makadara,0,27,0
+4321213,36.8596393,-1.297925,Wanja And Kim,Nairobi City,Makadara,0,14,0
+4321221,36.8452647,-1.298505,Kaloleni Primary School,Nairobi City,Makadara,1,29,0.0344827586206897
+4321222,36.8609001,-1.2988974,Canon Apollo,Nairobi City,Makadara,0,23,0
+4321223,36.8471265,-1.2952618,St Johns,Nairobi City,Makadara,1,35,0.0285714285714286
+4321224,36.85078,-1.2992776,Makongeni Sda,Nairobi City,Makadara,0,17,0
+4321231,36.8611515,-1.2885749,Bahati Primary,Nairobi City,Makadara,0,30,0
+4321232,36.8680643,-1.2961687,Martin Luther Primary,Nairobi City,Makadara,0,32,0
+4321233,36.8656507,-1.2941353,St Patrick,Nairobi City,Makadara,0,32,0
+4321234,36.8682338,-1.2947538,St Annes Primary School,Nairobi City,Makadara,0,30,0
+4321241,36.8749769,-1.3108904,Star Of Hope Primary,Nairobi City,Makadara,0,31,0
+4321242,36.8654526,-1.3126629,Lunga Lunga Baptist,Nairobi City,Makadara,0,28,0
+4321243,36.8508119,-1.2984948,Refaco,Nairobi City,Makadara,0,32,0
+4321244,36.8639637,-1.2869404,Bridge International,Nairobi City,Makadara,0,26,0
+4321311,36.8494071,-1.2623708,Mathari Primary,Nairobi City,Mathare,0,35,0
+4321312,36.8547921,-1.2617063,Genesis Joy Academy,Nairobi City,Mathare,0,30,0
+4321321,36.8713288,-1.2597565,Salama Primary,Nairobi City,Mathare,0,35,0
+4321322,36.8707063,-1.2599468,Daima Primary,Nairobi City,Mathare,0,21,0
+4321323,36.8733528,-1.2588594,Huruma Primary,Nairobi City,Mathare,0,31,0
+4321331,36.8762544,-1.2610395,Ndururuno Primary,Nairobi City,Mathare,0,30,0
+4321332,36.8771194,-1.2533923,Valley Bridge Primary,Nairobi City,Mathare,1,32,0.03125
+4321341,36.8627312,-1.2615202,Mission Of Hope,Nairobi City,Mathare,0,14,0
+4321342,36.8620149,-1.263067,Aic Zion Academy,Nairobi City,Mathare,0,16,0
+4321343,36.8528715,-1.2650625,Vallview Academy,Nairobi City,Mathare,0,12,0
+4321344,36.8600431,-1.2637667,Mathare Community Org.,Nairobi City,Mathare,4,31,0.129032258064516
+4321351,36.8470056,-1.2648397,St Teresa,Nairobi City,Mathare,0,16,0
+4321352,36.8540067,-1.2650067,Kiboro Primary,Nairobi City,Mathare,0,29,0
+4321361,36.8664148,-1.2608328,Pag Primary,Nairobi City,Mathare,2,28,0.0714285714285714
+4321362,36.8527076,-1.2651246,Furaha Preparatory School,Nairobi City,Mathare,1,14,0.0714285714285714
+4321411,36.9120984,-1.2022469,Githurai Primary,Nairobi City,Roysambu,0,30,0
+4321412,36.9155633,-1.2029769,Pcea Academy,Nairobi City,Roysambu,0,20,0
+4321441,36.8669022,-1.212119,Marurui Primary,Nairobi City,Roysambu,0,16,0
+4321442,36.8897636,-1.2028021,Njathaini Primary,Nairobi City,Roysambu,0,15,0
+4321443,36.8676518,-1.2291369,Garden Estate Primary,Nairobi City,Roysambu,1,16,0.0625
+4321451,36.8973264,-1.2066367,Roysambu Primary,Nairobi City,Roysambu,0,22,0
+4321452,36.8950165,-1.2061833,Sports View Primary,Nairobi City,Roysambu,0,8,0
+4321511,36.8860943,-1.2432717,Babadogo Primary,Nairobi City,Ruaraka,0,31,0
+4321512,36.8847463,-1.2440488,M.m Chandaria Primary,Nairobi City,Ruaraka,0,27,0
+4321521,36.8866495,-1.2528867,Daniel Comboni Primary,Nairobi City,Ruaraka,0,27,0
+4321522,36.8915184,-1.2481065,Ngunyumu Primary,Nairobi City,Ruaraka,0,25,0
+4321531,36.894645,-1.2413301,Tiba Junior,Nairobi City,Ruaraka,0,7,0
+4321532,36.9021695,-1.2375008,Land Mark School,Nairobi City,Ruaraka,0,24,0
+4321541,36.8702646,-1.2527629,Mathare North Primary,Nairobi City,Ruaraka,2,33,0.0606060606060606
+4321542,36.8632043,-1.2582527,Drive Inn Primary,Nairobi City,Ruaraka,0,29,0
+4321543,36.8704172,-1.2530704,Mogra Star,Nairobi City,Ruaraka,0,31,0
+4321544,36.8762075,-1.2536434,Brain House,Nairobi City,Ruaraka,0,27,0
+4321551,36.8620868,-1.2406513,Gsu Primary,Nairobi City,Ruaraka,0,33,0
+4321552,36.8634097,-1.2551219,Heid Marie Primary,Nairobi City,Ruaraka,0,29,0
+4321553,36.8741716,-1.2496493,Sda Primary,Nairobi City,Ruaraka,0,6,0
+4321554,36.8457747,-1.2582316,Muthaiga Primary,Nairobi City,Ruaraka,0,7,0
+4321555,36.8551343,-1.252688,Thika Road Primary (Utalii),Nairobi City,Ruaraka,0,18,0
+4321611,36.8491696,-1.3122188,Mukuru Primary,Nairobi City,Starehe,0,35,0
+4321612,36.8527086,-1.3168591,St Bakhita,Nairobi City,Starehe,0,35,0
+4321631,36.8322011,-1.3069278,St Catherine Primay,Nairobi City,Starehe,0,33,0
+4321632,36.835419,-1.3097078,Mariakani Primary,Nairobi City,Starehe,0,10,0
+4321633,36.8327303,-1.3120902,Nairobi South B Primary,Nairobi City,Starehe,0,18,0
+4321634,36.8341027,-1.3133273,Olm,Nairobi City,Starehe,0,17,0
+4321635,36.8410527,-1.3154732,Plainsview Primary,Nairobi City,Starehe,0,13,0
+4321641,36.8347184,-1.2740304,Parkroad Primary,Nairobi City,Starehe,0,25,0
+4321642,36.8243518,-1.2730167,City Primary,Nairobi City,Starehe,0,21,0
+4321643,36.8248652,-1.2769702,River Bank Primary,Nairobi City,Starehe,0,20,0
+4321652,36.8450428,-1.2752483,Ainsworth Primary,Nairobi City,Starehe,0,26,0
+4321661,36.8413826,-1.2754001,Racecourse Primary,Nairobi City,Starehe,0,32,0
+4321662,36.8417015,-1.277978,Dr Aggrey,Nairobi City,Starehe,0,30,0
+4321712,36.7480216,-1.2656403,New Kihumbuini Primary,Nairobi City,Westlands,0,26,0
+4321713,36.7545418,-1.2732544,Kanyorosha,Nairobi City,Westlands,0,25,0
+4321721,36.8228842,-1.2222339,Cheleta Primary,Nairobi City,Westlands,0,28,0
+4321722,36.8270576,-1.2270918,Karura Forest,Nairobi City,Westlands,1,22,0.0454545454545455
+4321723,36.8262672,-1.2174317,Brilliant Angels,Nairobi City,Westlands,0,34,0
+4321731,36.8219361,-1.2156534,Runda Baptist,Nairobi City,Westlands,0,28,0
+4321732,36.7487755,-1.2516823,Loresho Primary,Nairobi City,Westlands,0,35,0
+4321733,36.821521,-1.2148694,Greena Academy,Nairobi City,Westlands,1,31,0.032258064516129
+4321741,36.7219953,-1.2635553,Kabete Vetlab,Nairobi City,Westlands,1,33,0.0303030303030303
+4321742,36.7482472,-1.2708679,Kangemi Primary,Nairobi City,Westlands,0,33,0
+4321743,36.7539152,-1.2724514,Ananda Marga,Nairobi City,Westlands,0,33,0
+4321751,36.7885405,-1.2594942,Muguga Green Primary,Nairobi City,Westlands,0,27,0
+5000000,37.4691725,-0.3878036,St Benedict Karau,Embu,Manyatta,0,32,0
